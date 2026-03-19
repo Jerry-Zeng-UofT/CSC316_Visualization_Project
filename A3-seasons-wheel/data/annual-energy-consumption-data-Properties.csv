@@ -1,0 +1,1732 @@
+Property Name,Portfolio Manager ID,Street Address,City/Municipality,State/Province,Postal Code,Country,Property Type - Self-Selected,Gross Floor Area,GFA Units
+F.J. Horgan Water Treatment Plant,35000838,201 COPPERFIELD RD,Scarborough,Ontario,M1E 5G7,Canada,Drinking Water Treatment & Distribution,325447,Sq. Ft.
+Island Water Treatment Plant,35000839,446 LAKESHORE AVE,Toronto,Ontario,M5J 2H3,Canada,Drinking Water Treatment & Distribution,64196,Sq. Ft.
+W.H. Johnston Pumping Station,35000836,1560 ROYAL YORK RD,Etobicoke,Ontario,M9P 3C3,Canada,Drinking Water Treatment & Distribution,1744,Sq. Ft.
+West Toronto Pumping Station,35000837,143 OLD WESTON RD,Toronto,Ontario,M6N 3A4,Canada,Drinking Water Treatment & Distribution,7739,Sq. Ft.
+St. Albans Pumping Station,35000834,30 ST ALBANS RD,Etobicoke,Ontario,M9B 1A1,Canada,Drinking Water Treatment & Distribution,3240,Sq. Ft.
+Thornhill Pumping Station,35000835,1 Green Lane,Thornhill,Ontario,L3T 7P7,Canada,Drinking Water Treatment & Distribution,1550,Sq. Ft.
+Rosehill Pumping Station,35000832,240 MOUNT PLEASANT RD,Toronto,Ontario,M4T 2W7,Canada,Drinking Water Treatment & Distribution,1550,Sq. Ft.
+Scarborough Pumping Station,35000833,21 FISHLEIGH DR,Scarborough,Ontario,M1N 1H1,Canada,Drinking Water Treatment & Distribution,9160,Sq. Ft.
+R.C. Harris Water Treatment Plant,35000840,2701 QUEEN ST E,Toronto,Ontario,M4E 1J1,Canada,Drinking Water Treatment & Distribution,115368,Sq. Ft.
+R.L. Clark Water Treatment Plant,35000841,1 TWENTY THIRD ST,Etobicoke,Ontario,M8V 3M6,Canada,Drinking Water Treatment & Distribution,401612,Sq. Ft.
+Glasgow St Parkette,35058294,4 Glasgow St,Toronto,Ontario,M5T 2C1,Canada,Other - Public Services,3064,Sq. Ft.
+Maryvale Library,35000342,85 ELLESMERE RD,Scarborough,Ontario,M1R 4B8,Canada,Library,4421,Sq. Ft.
+McGregor Park Library,35000343,2219 LAWRENCE AVE E,Scarborough,Ontario,M1P 2P5,Canada,Library,7793,Sq. Ft.
+Main Street Library,35000340,137 MAIN ST,Toronto,Ontario,M4E 2V9,Canada,Library,8664,Sq. Ft.
+Maria A Shchuka Library,35000341,1745 EGLINTON AVE W,Toronto,Ontario,M6E 2H4,Canada,Library,25475,Sq. Ft.
+Locke Library,35000338,3083 YONGE ST,Toronto,Ontario,M4N 2K7,Canada,Library,11647,Sq. Ft.
+Long Branch Library,35000339,3500 LAKE SHORE BLVD W,Etobicoke,Ontario,M8W 1N6,Canada,Library,6418,Sq. Ft.
+Leaside Library,35000336,165 MCRAE DR,East York,Ontario,M4G 1S8,Canada,Library,12000,Sq. Ft.
+Lillian H Smith Library,35000337,239 COLLEGE ST,Toronto,Ontario,M5T 1R5,Canada,Library,38935,Sq. Ft.
+North York Central Library,35000350,5120 YONGE ST,North York,Ontario,M2N 5N9,Canada,Library,168022,Sq. Ft.
+Northern District Library,35000351,40 ORCHARD VIEW BLVD,Toronto,Ontario,M4R 1B9,Canada,Library,117452,Sq. Ft.
+New Toronto Library,35000348,110 ELEVENTH ST,Etobicoke,Ontario,M8V 3G5,Canada,Library,9925,Sq. Ft.
+North York Admin Services,35000349,120 MARTIN ROSS AVE,North York,Ontario,M3J 2L4,Canada,Library,28000,Sq. Ft.
+Mount Dennis Library,35000346,1123 WESTON RD,Toronto,Ontario,M6N 3S3,Canada,Library,11350,Sq. Ft.
+Mount Pleasant Library,35000347,599 MOUNT PLEASANT RD,Toronto,Ontario,M4S 2M5,Canada,Library,5829,Sq. Ft.
+Mimico Library,35000344,47 STATION RD,Etobicoke,Ontario,M8V 2R1,Canada,Library,17469,Sq. Ft.
+Morningside Library,35000345,292 MANSE RD,Scarborough,Ontario,M1E 2S8,Canada,Library,7000,Sq. Ft.
+Guildwood Library,35000326,123 GUILDWOOD PKWY,Scarborough,Ontario,M1E 4V2,Canada,Library,3010,Sq. Ft.
+High Park Library,35000327,228 RONCESVALLES AVE,Toronto,Ontario,M6R 2L7,Canada,Library,8850,Sq. Ft.
+Gerrard Ashdale Library,35000324,1432 GERRARD ST E,Toronto,Ontario,M4L 1Z6,Canada,Library,6504,Sq. Ft.
+Goldhawk Park Library,35000325,295 ALTON TOWERS CRCL,Scarborough,Ontario,M1V 4P1,Canada,Library,8000,Sq. Ft.
+Fairview Mall Library,35000322,35 FAIRVIEW MALL DR,North York,Ontario,M2J 4S4,Canada,Library,69458,Sq. Ft.
+Fort York Library,35000323,190 FORT YORK BLVD,Toronto,Ontario,M5V 0E7,Canada,Library,16008,Sq. Ft.
+Elmbrook Park Library,35000320,2 ELMBROOK CRES,Etobicoke,Ontario,M9C 5B4,Canada,Library,3600,Sq. Ft.
+Evelyn Gregory Library,35000321,120 TROWELL AVE,Toronto,Ontario,M6M 1L7,Canada,Library,6200,Sq. Ft.
+Jones Library,35000334,118 JONES AVE,Toronto,Ontario,M4M 2Z7,Canada,Library,3636,Sq. Ft.
+Kennedy Eglinton Library,35000335,2380 EGLINTON AVE E,Scarborough,Ontario,M1K 2P3,Canada,Library,6713,Sq. Ft.
+Jane & Dundas Library,35000332,620 JANE ST,Toronto,Ontario,M6S 4A6,Canada,Library,11955,Sq. Ft.
+Jane Sheppard Library,35000333,1906 SHEPPARD AVE W,North York,Ontario,M3L 1Y7,Canada,Library,7000,Sq. Ft.
+Humber Bay Library,35000330,200 PARK LAWN RD,Etobicoke,Ontario,M8Y 3J1,Canada,Library,2400,Sq. Ft.
+Humber Summit Library,35000331,2990 ISLINGTON AVE,North York,Ontario,M9L 2K6,Canada,Library,9040,Sq. Ft.
+Highland Creek Library,35000328,3550 ELLESMERE RD,Scarborough,Ontario,M1C 3Z2,Canada,Library,7000,Sq. Ft.
+Hillcrest Library,35000329,5801 LESLIE ST,North York,Ontario,M2H 1J8,Canada,Library,7473,Sq. Ft.
+Toronto Reference Library,35000374,789 YONGE ST,Toronto,Ontario,M4W 2G8,Canada,Library,434841,Sq. Ft.
+Victoria Village Library,35000375,184 SLOANE AVE,North York,Ontario,M4A 2C4,Canada,Library,5383,Sq. Ft.
+Taylor Memorial Library,35000372,1440 KINGSTON RD,Scarborough,Ontario,M1N 1R3,Canada,Library,5000,Sq. Ft.
+Thorncliffe Library,35000373,48 THORNCLIFFE PARK DR,East York,Ontario,M4H 1J7,Canada,Library,11034,Sq. Ft.
+St Lawrence Library,35000370,171 FRONT ST E,Toronto,Ontario,M5A 4H3,Canada,Library,4833,Sq. Ft.
+Steeles Library,35000371,375 BAMBURGH CRCL,Scarborough,Ontario,M1W 3Y1,Canada,Library,5509,Sq. Ft.
+Spadina Road Library,35000368,10 SPADINA RD,Toronto,Ontario,M5R 2S7,Canada,Library,3952,Sq. Ft.
+St Clair Silverthorn Library,35000369,1748 ST CLAIR AVE W,Toronto,Ontario,M6N 1J3,Canada,Library,4587,Sq. Ft.
+1440 Lake Shore Blvd W,35000382,1440 Lake Shore Blvd W,Toronto,Ontario,M6K 3C1,Canada,Wastewater Treatment Plant,1,Sq. Ft.
+Algonguin Island Sewage Pumping Station,35000383,16 WYANDOT AVE,Toronto,Ontario,M5J 2M9,Canada,Wastewater Treatment Plant,75,Sq. Ft.
+York Woods Library,35000380,1785 FINCH AVE W,North York,Ontario,M3N 1M6,Canada,Library,42176,Sq. Ft.
+Yorkville Library,35000381,22 YORKVILLE AVE,Toronto,Ontario,M4W 1L4,Canada,Library,9053,Sq. Ft.
+Woodview Park Library,35000378,16 BRADSTOCK RD,North York,Ontario,M9M 1M8,Canada,Library,6658,Sq. Ft.
+Wychwood Library,35000379,1431 BATHURST ST,Toronto,Ontario,M5R 3J2,Canada,Library,6381,Sq. Ft.
+Weston Library,35000376,2 KING ST,Toronto,Ontario,M9N 1K9,Canada,Library,11944,Sq. Ft.
+Woodside Square Library,35000377,1571 SANDHURST CRCL,Scarborough,Ontario,M1V 1V2,Canada,Library,9792,Sq. Ft.
+Parliament Library,35000358,269 GERRARD ST E,Toronto,Ontario,M5A 2G3,Canada,Library,14634,Sq. Ft.
+Perth Dupont Library,35000359,1589 DUPONT ST,Toronto,Ontario,M6P 3S5,Canada,Library,3627,Sq. Ft.
+Pape Danforth Library,35000356,701 PAPE AVE,Toronto,Ontario,M4K 3S6,Canada,Library,8175,Sq. Ft.
+Parkdale Library,35000357,1303 QUEEN ST W,Toronto,Ontario,M6K 1L6,Canada,Library,24083,Sq. Ft.
+Oakwood Village Library,35000354,341 OAKWOOD AVE,Toronto,Ontario,M6E 2W1,Canada,Library,17270,Sq. Ft.
+Palmerston Library,35000355,560 PALMERSTON AVE,Toronto,Ontario,M6G 2P7,Canada,Library,8493,Sq. Ft.
+Northern Elms Library,35000352,123 REXDALE BLVD,Etobicoke,Ontario,M9W 3W7,Canada,Library,3936,Sq. Ft.
+NY Central Pop-up Library,35000353,5150 YONGE ST,North York,Ontario,M2N 6L8,Canada,Library,1600,Sq. Ft.
+Sanderson Library,35000366,327 BATHURST ST,Toronto,Ontario,M5T 1J1,Canada,Library,12702,Sq. Ft.
+Scarborough Civic Centre Library,35000367,156 BOROUGH DR,Scarborough,Ontario,M1P 4N7,Canada,Library,14500,Sq. Ft.
+Runnymede Library,35000364,2178 BLOOR ST W,Toronto,Ontario,M6S 1M8,Canada,Library,12034,Sq. Ft.
+S Walter Stewart Library,35000365,170 MEMORIAL PARK AVE,Toronto,Ontario,M4J 2K5,Canada,Library,25847,Sq. Ft.
+Richview Library,35000362,1806 ISLINGTON AVE,Etobicoke,Ontario,M9P 3N3,Canada,Library,47252,Sq. Ft.
+Riverdale Library,35000363,370 BROADVIEW AVE,Toronto,Ontario,M4K 2M8,Canada,Library,9658,Sq. Ft.
+Pleasant View Library,35000360,575 VAN HORNE AVE,North York,Ontario,M2J 4S8,Canada,Library,7000,Sq. Ft.
+Rexdale Library,35000361,2243 KIPLING AVE,Etobicoke,Ontario,M9W 4L5,Canada,Library,5088,Sq. Ft.
+Mimico Sewage Pumping Station,35000406,9 SUPERIOR AVE,Etobicoke,Ontario,M8V 2M5,Canada,Wastewater Treatment Plant,4435,Sq. Ft.
+New Toronto Pumping Station,35000407,31 LAKE SHORE DR,Etobicoke,Ontario,M8V 1Z3,Canada,Wastewater Treatment Plant,2067,Sq. Ft.
+Midland Sewage Pumping Station,35000404,21 MIDLAND AVE,Scarborough,Ontario,M1N 3Z5,Canada,Wastewater Treatment Plant,1,Sq. Ft.
+Military Trail Sewage Pumping Station,35000405,451 MILITARY TRL,Scarborough,Ontario,M1E 4E8,Canada,Wastewater Treatment Plant,1,Sq. Ft.
+Lower Simcoe Storm Pumping Station,35000402,75 LOWER SIMCOE ST,Toronto,Ontario,M5V 3L9,Canada,Wastewater Treatment Plant,1,Sq. Ft.
+Martin Grove Sewage Pumping Station,35000403,1 VULCAN ST,Etobicoke,Ontario,M9W 1L3,Canada,Wastewater Treatment Plant,1,Sq. Ft.
+Livingston Rd Sewage Pumping Station,35000400,42 LIVINGSTON RD,Scarborough,Ontario,M1E 1K7,Canada,Wastewater Treatment Plant,1,Sq. Ft.
+Long Branch Sewage Pumping Station,35000401,2 FORTY SECOND ST,Etobicoke,Ontario,M8W 1C4,Canada,Wastewater Treatment Plant,3068,Sq. Ft.
+Sewells Rd Sewage Pumping Station,35000414,579 SEWELLS RD,Scarborough,Ontario,M1B 5E4,Canada,Wastewater Treatment Plant,1,Sq. Ft.
+Silver Birch Ave Sewage Pumping Station,35000415,1 SILVER BIRCH AVE,Toronto,Ontario,M4E 3K8,Canada,Wastewater Treatment Plant,1,Sq. Ft.
+Riverside Sewage Pumping Station,35000412,20 RIVERSIDE CRES,Toronto,Ontario,M6S 1B6,Canada,Wastewater Treatment Plant,1,Sq. Ft.
+Scott Sewage Pumping Station,35000413,6 Scott St,Toronto,Ontario,M5E 1A1,Canada,Wastewater Treatment Plant,1,Sq. Ft.
+Redlands Sewage Pumping Station,35000410,1 REDLAND CRES W,Scarborough,Ontario,M1M 1B4,Canada,Wastewater Treatment Plant,1,Sq. Ft.
+Ridgevalley Sewage PS,35000411,21 RIDGEVALLEY CRES,Etobicoke,Ontario,M9A 3J7,Canada,Wastewater Treatment Plant,1,Sq. Ft.
+Port Union Sewage Pumping Station,35000408,47 LAKERIDGE DR,Scarborough,Ontario,M1C 5E3,Canada,Wastewater Treatment Plant,1,Sq. Ft.
+Queensway Sewage Pumping Station,35000409,63 The Queensway,Etobicoke,Ontario,M9C 1B8,Canada,Wastewater Treatment Plant,1,Sq. Ft.
+Cumber Sewage Pumping Station,35000390,5310 LAWRENCE AVE E,Scarborough,Ontario,M1C 1R4,Canada,Wastewater Treatment Plant,635,Sq. Ft.
+Ellis Ave Sewage Pumping Station,35000391,91 THE QUEENSWAY,Toronto,Ontario,M6S 3J1,Canada,Wastewater Treatment Plant,1,Sq. Ft.
+Charles Caccia Park Pumping Station,35000388,348 Nairn,Toronto,Ontario,M6E 4L4,Canada,Wastewater Treatment Plant,1,Sq. Ft.
+Copeland Sewage PS,35000389,1 Copeland St,East York,Ontario,M4G 3E7,Canada,Wastewater Treatment Plant,1,Sq. Ft.
+Brickyard Pumping Station,35000386,550 Bayview Ave.,Toronto,Ontario,M4W 3X8,Canada,Wastewater Treatment Plant,1,Sq. Ft.
+Brule Gardens Sewage Pumping Station,35000387,0 Brule Gd,Toronto,Ontario,M6S 4J4,Canada,Wastewater Treatment Plant,151,Sq. Ft.
+Baby Point Sewage Pumping Station,35000384,61 HUMBERVIEW RD,Toronto,Ontario,M6S 1W7,Canada,Wastewater Treatment Plant,1,Sq. Ft.
+Berry Rd Sewage Pumping Station,35000385,132 BERRY RD,Scarborough,Ontario,M1C 1G2,Canada,Wastewater Treatment Plant,7244,Sq. Ft.
+Kennedy Park Sewage Pumping Station,35000398,15 BIRCHVIEW CRES,Toronto,Ontario,M6P 3H9,Canada,Wastewater Treatment Plant,151,Sq. Ft.
+Kingston Rd Sewage Pumping Station,35000399,3231 KINGSTON RD,Scarborough,Ontario,M1M 1P7,Canada,Wastewater Treatment Plant,1,Sq. Ft.
+Humber Sewage Pumping Station,35000396,490 Riverside Dr,Toronto,Ontario,M6S 4B5,Canada,Wastewater Treatment Plant,1,Sq. Ft.
+Island Rd Sewage Pumping Station,35000397,251 ISLAND RD,Scarborough,Ontario,M1C 2R1,Canada,Wastewater Treatment Plant,1,Sq. Ft.
+Greyabbey Trail Sewage Pumping Station,35000394,144 GREYABBEY TRL,Scarborough,Ontario,M1E 1V9,Canada,Wastewater Treatment Plant,1001,Sq. Ft.
+Highfield Sewage Pumping Station,35000395,1 Highfield Rd,Toronto,Ontario,M4L 2T7,Canada,Wastewater Treatment Plant,1,Sq. Ft.
+Fallingbrook Sewage Pumping Station,35000392,7 FALLINGBROOK DR,Scarborough,Ontario,M1N 1B3,Canada,Wastewater Treatment Plant,1,Sq. Ft.
+Grand River Sewage Pumping Station,35000393,104 GRAND RIVER BLVD,Scarborough,Ontario,M1B 1G5,Canada,Wastewater Treatment Plant,1,Sq. Ft.
+808 Mt. Pleasant Rd.,35000438,808 Mt. Pleasant Rd.,Toronto,Ontario,M4P 2L2,Canada,Other - Public Services,1,Sq. Ft.
+877 Yonge Street,35000439,877 Yonge St.,Toronto,Ontario,M4W 2H2,Canada,Other - Public Services,188170,Sq. Ft.
+5800 Yonge St,35000436,5800 YONGE ST,North York,Ontario,M2M 3T3,Canada,Other - Public Services,84366,Sq. Ft.
+7 Wardlaw Cres,35000437,7 WARDLAW CRES,Etobicoke,Ontario,M9V 1L3,Canada,Other - Public Services,1470,Sq. Ft.
+233 Carlton St (Drop-in Centre),35000434,233 Carlton St,Toronto,Ontario,M5A 2L2,Canada,Other - Public Services,12754,Sq. Ft.
+545 Lakeshore Blvd W (Homes First),35000435,545 LAKE SHORE BLVD W,Toronto,Ontario,M5V 1A3,Canada,Other - Public Services,90040,Sq. Ft.
+1684 Queen St,35000432,1684 Queen St. W,Toronto,Ontario,M6R 1B3,Canada,Other - Public Services,1,Sq. Ft.
+222 Spadina Ave,35000433,222 Spadina,Toronto,Ontario,M5T 2C2,Canada,Other - Public Services,72301,Sq. Ft.
+Dixon Hall Respite,35000446,351 LAKE SHORE BLVD E,Toronto,Ontario,M5A 1C1,Canada,Other - Public Services,10000,Sq. Ft.
+Downsview Dell,35000447,1651 SHEPPARD AVE W,North York,Ontario,M3M 2X4,Canada,Other - Public Services,5199,Sq. Ft.
+Bellwoods House,35000444,63 BELLWOODS AVE,Toronto,Ontario,M6J 3N4,Canada,Other - Public Services,3224,Sq. Ft.
+Birkdale Residence,35000445,1229 ELLESMERE RD,Scarborough,Ontario,M1P 4V8,Canada,Other - Public Services,35692,Sq. Ft.
+Asquith Green Social Housing,35000442,21 PARK RD,Toronto,Ontario,M4W 2N1,Canada,Other - Public Services,6329,Sq. Ft.
+Assessment & Referral Ctr,35000443,129 Peter St,Toronto,Ontario,M5V 2H3,Canada,Other - Public Services,11780,Sq. Ft.
+9 Wardlaw Cres,35000440,9 WARDLAW CRES,Etobicoke,Ontario,M9V 1L3,Canada,Other - Public Services,1632,Sq. Ft.
+Adelaide Resource Centre for Women,35000441,67 ADELAIDE ST E,Toronto,Ontario,M5C 1K6,Canada,Other - Public Services,15888,Sq. Ft.
+Warren Park Sewage Pumping Station,35000422,6 PASADENA GDNS,Toronto,Ontario,M6S 4R3,Canada,Wastewater Treatment Plant,1,Sq. Ft.
+West Point Sewage Pumping Station,35000423,5310 LAWRENCE AVE E,Scarborough,Ontario,M1C 1R4,Canada,Wastewater Treatment Plant,1,Sq. Ft.
+Valleymede Sewage Pumping Stn,35000420,69 ELLIS PARK RD,Toronto,Ontario,M6S 1G8,Canada,Wastewater Treatment Plant,1,Sq. Ft.
+Ward's Island Sewage Pumping Station,35000421,235 CIBOLA AVE,Toronto,Ontario,M5J 2W6,Canada,Wastewater Treatment Plant,1,Sq. Ft.
+Swansea Sewage Pumping Station,35000418,110 THE QUEENSWAY,Toronto,Ontario,M6S 1A5,Canada,Wastewater Treatment Plant,527,Sq. Ft.
+Todmorden Mills Pumping Station,35000419,51 Pottery Rd.,Toronto,Ontario,M4K 2B9,Canada,Wastewater Treatment Plant,1,Sq. Ft.
+Southport St Sewage Pumping Station,35000416,5 SOUTHPORT ST,Toronto,Ontario,M6S 4W7,Canada,Wastewater Treatment Plant,1,Sq. Ft.
+Strachan Sewage Pumping Station,35000417,1 STRACHAN AVE,Toronto,Ontario,M6K 1W7,Canada,Wastewater Treatment Plant,1,Sq. Ft.
+101 Placer Court,35000430,101 Placer Crt,North York,Ontario,M2H 3H9,Canada,Other - Public Services,19200,Sq. Ft.
+1155 King St W (Respite),35000431,69 FRASER AVE,Toronto,Ontario,M6K 1E9,Canada,Other - Public Services,9000,Sq. Ft.
+Main Treatment Plant,35000428,1091 EASTERN AVE,Toronto,Ontario,M4L 1A8,Canada,Wastewater Treatment Plant,378438,Sq. Ft.
+North Toronto Treatment Plant,35000429,21 REDWAY RD,East York,Ontario,M4H 1P6,Canada,Wastewater Treatment Plant,21786,Sq. Ft.
+Highland Creek Treatment Plant,35000426,51 BEECHGROVE DR,Scarborough,Ontario,M1E 3Z3,Canada,Wastewater Treatment Plant,255395,Sq. Ft.
+Humber Treatment Plant,35000427,130 THE QUEENSWAY,Etobicoke,Ontario,M8Y 1H9,Canada,Wastewater Treatment Plant,224869,Sq. Ft.
+West Rouge Sewage Pumping Station,35000424,6570 LAWRENCE AVE E,Scarborough,Ontario,M1C 4A7,Canada,Wastewater Treatment Plant,3229,Sq. Ft.
+Wirral Crt Sewage Pumping Station,35000425,8 WIRRAL CRT,Scarborough,Ontario,M1M 1S4,Canada,Wastewater Treatment Plant,1,Sq. Ft.
+668A The Queensway,35000470,668A The Queensway,Etobicoke,Ontario,M8Y 1K7,Canada,Other - Public Services,1,Sq. Ft.
+705 Progress Ave (Library Storage),35000471,705 Progress Ave,Scarborough,Ontario,M1H 2W7,Canada,Other - Public Services,5001,Sq. Ft.
+5 Bartonville Ave,35000468,5 BARTONVILLE AVE E,Toronto,Ontario,M6M 2B1,Canada,Other - Public Services,3606,Sq. Ft.
+545 Commissioners St,35000469,545 COMMISSIONERS ST,Toronto,Ontario,M4M 1A5,Canada,Other - Public Services,32679,Sq. Ft.
+4001 Kingston Rd,35000466,4001 Kingston Rd,Scarborough,Ontario,M1E 1M1,Canada,Other - Public Services,1,Sq. Ft.
+46A Chartway Blvd,35000467,46A Chartway Blvd,Scarborough,Ontario,M1C 5J1,Canada,Other - Public Services,1,Sq. Ft.
+2 Sheffield St,35000464,2 Sheffield St.,Toronto,Ontario,M6M 3E6,Canada,Other - Public Services,1,Sq. Ft.
+2200 Yonge St,35000465,2200 YONGE ST,Toronto,Ontario,M4P 2C6,Canada,Other - Public Services,1,Sq. Ft.
+Bering Yd - Garage (Bldg D),35000478,320 Bering Ave,Etobicoke,Ontario,M8Z 3A3,Canada,Other - Public Services,7589,Sq. Ft.
+Bering Yd - Maintenance (Bldg B),35000479,320 Bering Ave,Etobicoke,Ontario,M8Z 3A3,Canada,Other - Public Services,13401,Sq. Ft.
+Bering Truck Shelter,35000476,330 BERING AVE,Etobicoke,Ontario,M8Z 3A3,Canada,Other - Public Services,8633,Sq. Ft.
+Bering Yd - Admin (Bldg E),35000477,320 Bering Ave,Etobicoke,Ontario,M8Z 3A3,Canada,Other - Public Services,9698,Sq. Ft.
+Bentworth Park Yard - Bldg 1,35000474,140 BENTWORTH AVE,North York,Ontario,M6A 1P7,Canada,Other - Public Services,5554,Sq. Ft.
+Bentworth Park Yard - Bldg 2,35000475,140 BENTWORTH AVE,North York,Ontario,M6A 1P7,Canada,Other - Public Services,6330,Sq. Ft.
+Alliance Overhead Shop,35000472,391 ALLIANCE AVE,Toronto,Ontario,M6N 2J1,Canada,Other - Public Services,34952,Sq. Ft.
+Alness Yard,35000473, ALNESS ST,North York,Ontario,M3J 3H3,Canada,Other - Public Services,25715,Sq. Ft.
+Homes First GSR Site,35000454,4117 LAWRENCE AVE E,Scarborough,Ontario,M1E 2S2,Canada,Other - Public Services,14634,Sq. Ft.
+Islington Seniors' Shelter,35000455,2671 ISLINGTON AVE,Etobicoke,Ontario,M9V 2X6,Canada,Other - Public Services,21328,Sq. Ft.
+GSR Transition Site (705 Progress),35000452,705 Progress Ave.,Scarborough,Ontario,M1H 2X1,Canada,Other - Public Services,26730,Sq. Ft.
+GSR Transition Site (731 Runnymede Rd),35000453,731 RUNNYMEDE RD,Toronto,Ontario,M6N 3V7,Canada,Other - Public Services,19383,Sq. Ft.
+Fred Victor Respite,35000450,701 FLEET ST,Toronto,Ontario,M5V 1B7,Canada,Other - Public Services,9000,Sq. Ft.
+GSR Transition Site (2299 Dundas),35000451,2299 DUNDAS ST W,Toronto,Ontario,M6R 1X7,Canada,Other - Public Services,22648,Sq. Ft.
+Family Residence,35000448,4222 KINGSTON RD,Scarborough,Ontario,M1E 2M6,Canada,Other - Public Services,39999,Sq. Ft.
+Fort York Residence,35000449,38 BATHURST ST,Toronto,Ontario,M5V 3W3,Canada,Other - Public Services,25995,Sq. Ft.
+150 Disco Rd,35000462,150 DISCO RD,Etobicoke,Ontario,M9W 1M4,Canada,Other - Public Services,10570,Sq. Ft.
+1904 Brimley Rd.,35000463,1904 BRIMLEY RD,Scarborough,Ontario,M1S 2A9,Canada,Other - Public Services,301,Sq. Ft.
+Women's Residence,35000460,674 DUNDAS ST W,Toronto,Ontario,M5T 1H9,Canada,Other - Public Services,28255,Sq. Ft.
+YWCA Women's Shelter,35000461,348 DAVENPORT RD,Toronto,Ontario,M5R 1K6,Canada,Other - Public Services,17000,Sq. Ft.
+Seaton House,35000458,339 GEORGE ST,Toronto,Ontario,M5A 2N2,Canada,Other - Public Services,97995,Sq. Ft.
+Warden Woods Respite,35000459,705 Progress Ave.,Scarborough,Ontario,M1H 2X1,Canada,Other - Public Services,7565,Sq. Ft.
+Robertson House,35000456,291 SHERBOURNE ST,Toronto,Ontario,M5A 2R9,Canada,Other - Public Services,19795,Sq. Ft.
+Scarborough Village Residence,35000457,3306 KINGSTON RD,Scarborough,Ontario,M1M 1P8,Canada,Other - Public Services,29870,Sq. Ft.
+Finch Yard,35000502,1026 FINCH AVE W,North York,Ontario,M3J 2E1,Canada,Other - Public Services,148198,Sq. Ft.
+Former PMMD Warehouse,35000503,160 RIVALDA RD,North York,Ontario,M9M 2M8,Canada,Other - Public Services,22604,Sq. Ft.
+Ellesmere Yard,35000500,1050 ELLESMERE RD,Scarborough,Ontario,M1P 2X3,Canada,Other - Public Services,138069,Sq. Ft.
+Emery Parks Yard,35000501,27 TORYORK DR,North York,Ontario,M9L 1X9,Canada,Other - Public Services,18998,Sq. Ft.
+Eastern Ave Yard - Office,35000498,843 EASTERN AVE,Toronto,Ontario,M4L 1A2,Canada,Other - Public Services,84701,Sq. Ft.
+Eglinton Flats Service Building,35000499,3700 EGLINTON AVE W,Toronto,Ontario,M6M 1V8,Canada,Other - Public Services,5705,Sq. Ft.
+Dufferin Maintenance Yard,35000496,75 VANLEY CRES,North York,Ontario,M3J 2B7,Canada,Other - Public Services,31667,Sq. Ft.
+Eastern Ave Yard  - Equipment Shop,35000497,875 EASTERN AVE,Toronto,Ontario,M4L 1A2,Canada,Other - Public Services,9698,Sq. Ft.
+Kipling Yard - Toronto Water,35000510,435 KIPLING AVE,Etobicoke,Ontario,M8Z 5E7,Canada,Other - Public Services,11001,Sq. Ft.
+Leslie Barns,35000511,1165 LAKE SHORE BLVD E,Toronto,Ontario,M4M 0C3,Canada,Other - Public Services,279862,Sq. Ft.
+Kipling & Steeles,35000508,2800 Kipling Ave,Etobicoke,Ontario,M9V 4V7,Canada,Other - Public Services,1,Sq. Ft.
+Kipling Yard - PF&R,35000509,441 KIPLING AVE,Etobicoke,Ontario,M8Z 5E7,Canada,Other - Public Services,27373,Sq. Ft.
+Joel Weeks Park - Storage Bldg,35000506,10 THOMPSON ST,Toronto,Ontario,M4M 1L8,Canada,Other - Public Services,183,Sq. Ft.
+King St Yard,35000507,1116 KING ST W,Toronto,Ontario,M6K 1E6,Canada,Other - Public Services,83485,Sq. Ft.
+Hamilton Street Yard,35000504,138 HAMILTON ST,Toronto,Ontario,M4M 2E1,Canada,Other - Public Services,2756,Sq. Ft.
+Ingram Yard,35000505,86 INGRAM DR,Toronto,Ontario,M6M 2L6,Canada,Other - Public Services,23907,Sq. Ft.
+Brimley Parks Yard,35000486,451 BRIMLEY RD,Scarborough,Ontario,M1J 1A2,Canada,Other - Public Services,2809,Sq. Ft.
+Caledonia Road Service Yard,35000487,1141 CALEDONIA RD,North York,Ontario,M6A 2W9,Canada,Other - Public Services,1981,Sq. Ft.
+Birchmount Park Yard,35000484,1901 BIRCHMOUNT RD,Scarborough,Ontario,M1P 4W9,Canada,Other - Public Services,15317,Sq. Ft.
+Booth Avenue Yard,35000485,433 EASTERN AVE,Toronto,Ontario,M4M 1B7,Canada,Other - Public Services,236645,Sq. Ft.
+Bermondsey Yard - SWM,35000482,45 OLD EGLINTON AVE,North York,Ontario,M4A 1H4,Canada,Other - Public Services,66155,Sq. Ft.
+Bermondsey Yard - Transportation,35000483,195 BERMONDSEY RD,North York,Ontario,M4A 1X9,Canada,Other - Public Services,4618,Sq. Ft.
+Bering Yd - Storage (Bldg F),35000480,320 Bering Ave,Etobicoke,Ontario,M8Z 3A3,Canada,Other - Public Services,9881,Sq. Ft.
+Bering Yd - Warehouse (Bldg A),35000481,320 Bering Ave,Etobicoke,Ontario,M8Z 3A3,Canada,Other - Public Services,4596,Sq. Ft.
+Disco Yd Bldg C- Vehicle Maint,35000494,150 DISCO RD,Etobicoke,Ontario,M9W 1M4,Canada,Other - Public Services,22959,Sq. Ft.
+Disco Yd Bldg D- North Garage,35000495,150 DISCO RD,Etobicoke,Ontario,M9W 1M4,Canada,Other - Public Services,24445,Sq. Ft.
+Disco Yd Bldg A- Employee Bldg,35000492,150 DISCO RD,Etobicoke,Ontario,M9W 1M4,Canada,Other - Public Services,7998,Sq. Ft.
+Disco Yd Bldg B- South Garage,35000493,150 DISCO RD,Etobicoke,Ontario,M9W 1M4,Canada,Other - Public Services,28029,Sq. Ft.
+Danforth Carhouse & Garage,35000490,1627 DANFORTH AVE,Toronto,Ontario,M4C 1H7,Canada,Other - Public Services,62834,Sq. Ft.
+Disco Blower Station,35000491,150 DISCO RD,Etobicoke,Ontario,M9W 1M4,Canada,Other - Public Services,37975,Sq. Ft.
+Castlefield Yard,35000488,1401 CASTLEFIELD AVE,Toronto,Ontario,M6B 1G7,Canada,Other - Public Services,36447,Sq. Ft.
+Centennial Park Service Building,35000489,151 ELMCREST RD,Etobicoke,Ontario,M9C 3S2,Canada,Other - Public Services,1023,Sq. Ft.
+Toryork Yard,35000534,61 TORYORK DR,North York,Ontario,M9L 1X9,Canada,Other - Public Services,26404,Sq. Ft.
+Train Storage Building,35000535,20 Centre Road,Toronto,Ontario,M6R 2Z3,Canada,Other - Public Services,30849,Sq. Ft.
+Toronto Island Service Yard,35000533,0 Centre Isld,Toronto,Ontario,M5J 2V3,Canada,Other - Public Services,34724,Sq. Ft.
+Russell Carhouse,35000530,1411 QUEEN ST E,Toronto,Ontario,M4L 1C7,Canada,Other - Public Services,232619,Sq. Ft.
+Sixth St Garage,35000531,297 Sixth St,Etobicoke,Ontario,M8V 3A8,Canada,Other - Public Services,6997,Sq. Ft.
+Property Operation Garage,35000528,131 RIVER ST,Toronto,Ontario,M5A 3P8,Canada,Other - Public Services,12034,Sq. Ft.
+Rockcliffe Yard,35000529,305 ROCKCLIFFE BLVD,Toronto,Ontario,M6N 3T4,Canada,Other - Public Services,14047,Sq. Ft.
+Bloor Islington Storm Pumping Station,35000542,3429 BLOOR ST W,Etobicoke,Ontario,M8X 1G4,Canada,Other - Public Services,355,Sq. Ft.
+Eglinton-Bellamy Storm Pumping Station,35000543,3034 EGLINTON AVE E,Scarborough,Ontario,M1J 2H1,Canada,Other - Public Services,441,Sq. Ft.
+Yonge Street Yard,35000540,1008 YONGE ST,Toronto,Ontario,M4W 2K1,Canada,Other - Public Services,20247,Sq. Ft.
+Battery Park Storm Pumping Station,35000541,785 LAKE SHORE BLVD W,Toronto,Ontario,M5V 1A7,Canada,Other - Public Services,1,Sq. Ft.
+Whitlam Warehouse,35000538,25 WHITLAM AVE,Etobicoke,Ontario,M8V 2K1,Canada,Other - Public Services,24865,Sq. Ft.
+Winter Maintenance Depot,35000539,8270 SHEPPARD AVE E,Scarborough,Ontario,M1B 5R4,Canada,Other - Public Services,12152,Sq. Ft.
+Wellington Yard & Office,35000536,677 WELLINGTON ST W,Toronto,Ontario,M5V 1G8,Canada,Other - Public Services,2164,Sq. Ft.
+Western Yard (Obico),35000537,30 Newbridge Rd,Etobicoke,Ontario,M8Z 2L7,Canada,Other - Public Services,1,Sq. Ft.
+Morningside Yard,35000518,891 MORNINGSIDE AVE,Scarborough,Ontario,M1C 1B9,Canada,Other - Public Services,14779,Sq. Ft.
+Mt. Dennis Bus Garage,35000519,121 INDUSTRY ST,Toronto,Ontario,M6M 5B6,Canada,Other - Public Services,710493,Sq. Ft.
+Merton Yard & Sprint Office,35000517,140 MERTON ST,Toronto,Ontario,M4S 1A1,Canada,Other - Public Services,32044,Sq. Ft.
+Maintenance Yard #7,35000514,100 Turnberry Ave,Toronto,Ontario,M6N 1R1,Canada,Other - Public Services,11862,Sq. Ft.
+Marylin Bell Park Water Equipment Shed,35000515,1095 LAKE SHORE BLVD W,Toronto,Ontario,M6K 3C1,Canada,Other - Public Services,700,Sq. Ft.
+Leslie Yard,35000512,7 LESLIE ST,Toronto,Ontario,M4M 3M9,Canada,Other - Public Services,6135,Sq. Ft.
+Maintenance Yard #5,35000513,45 MANSTOR RD,Etobicoke,Ontario,M9C 1B1,Canada,Other - Public Services,7524,Sq. Ft.
+Oriole Yard (PF&R),35000526,2747 Old Leslie St,North York,Ontario,M2K 1J2,Canada,Other - Public Services,13046,Sq. Ft.
+Pharmacy Yard,35000527,125 PHARMACY AVE,Scarborough,Ontario,M1L 3E7,Canada,Other - Public Services,1851,Sq. Ft.
+Northline Parks and Garage,35000524,30 NORTHLINE RD,East York,Ontario,M4B 3E2,Canada,Other - Public Services,50041,Sq. Ft.
+Oriole Yard,35000525,2751 Old Leslie St.,North York,Ontario,M2K 1J2,Canada,Other - Public Services,26759,Sq. Ft.
+North East District Salt Dome,35000522,1 NANTUCKET BLVD,Scarborough,Ontario,M1P 2R5,Canada,Other - Public Services,9526,Sq. Ft.
+Northern Services Building,35000523,4801 DUFFERIN ST,North York,Ontario,M3H 5T3,Canada,Other - Public Services,5769,Sq. Ft.
+Murray Yard,35000520,64 MURRAY RD,North York,Ontario,M3K 1T2,Canada,Other - Public Services,38760,Sq. Ft.
+Nashdene Yard,35000521,70 NASHDENE RD,Scarborough,Ontario,M1V 2V2,Canada,Other - Public Services,24176,Sq. Ft.
+302 Wilson Hts Blvd,35000566,302 Wilson Heights Blvd.,North York,Ontario,M3H 2V3,Canada,Other - Public Services,1,Sq. Ft.
+4 Don Valley Parkway,35000567,4 Don Valley Parkway,North York,Ontario,M2J 1L4,Canada,Other - Public Services,1,Sq. Ft.
+23 Peele Ave,35000564,23 Peel Ave,Toronto,Ontario,M6J 1M3,Canada,Other - Public Services,1,Sq. Ft.
+254 Ranee Ave,35000565,254 Ranee Ave.,North York,Ontario,M6A 1N6,Canada,Other - Public Services,1,Sq. Ft.
+2077 Lake Shore Blvd W,35000562,2077 Lake Shore Blvd W,Etobicoke,Ontario,M8V 0A2,Canada,Other - Public Services,1,Sq. Ft.
+2120 Lake Shore Blvd W,35000563,2120 Lake Shore Blvd W,Etobicoke,Ontario,M8V 4G4,Canada,Other - Public Services,1,Sq. Ft.
+2000 Lake Shore,35000560,2000 LAKE SHORE BLVD W,Toronto,Ontario,M6S 1A1,Canada,Other - Public Services,1,Sq. Ft.
+2002 Lake Shore Blvd W,35000561,2002 Lake Shore Blvd W,Toronto,Ontario,M6S 5B7,Canada,Other - Public Services,1,Sq. Ft.
+80 Pottery Rd,35000574,80 Pottery Rd.,Toronto,Ontario,M4K 2B9,Canada,Other - Public Services,1,Sq. Ft.
+833 Royal York,35000575,833 Royal York,Etobicoke,Ontario,M8Y 2V1,Canada,Other - Public Services,1,Sq. Ft.
+715 Bloor St E-Pole 133 Viewndr/,35000572,715 Bloor ST E,Toronto,Ontario,M4W 1J4,Canada,Other - Public Services,1,Sq. Ft.
+80 Grenoble Dr,35000573,80 Grenoble Dr.,North York,Ontario,M3C 3E7,Canada,Other - Public Services,1,Sq. Ft.
+558 Wilson Ave,35000570,558 Wilson Ave.,North York,Ontario,M3H 1V1,Canada,Other - Public Services,1,Sq. Ft.
+590 Lake Shore Blvd E,35000571,590 Lake Shore Blvd E,Toronto,Ontario,M4M 3K8,Canada,Other - Public Services,1,Sq. Ft.
+402 Sewells Rd,35000568,402 Sewells Rd,Scarborough,Ontario,M1B 5H3,Canada,Other - Public Services,1,Sq. Ft.
+4881 Yonge St,35000569,4881 Yonge St.,North York,Ontario,M2N 6Y9,Canada,Other - Public Services,1,Sq. Ft.
+0 Gardiner Expressway,35000550,0 Gardiner Expressway,Toronto,Ontario,M6K 3L1,Canada,Other - Public Services,1,Sq. Ft.
+0 Wickman Rd-Near Fordhs,35000551,0 Wickman Rd,Etobicoke,Ontario,M8Z 1M6,Canada,Other - Public Services,1,Sq. Ft.
+Warden Ave Storm PS,35000548,1433 WARDEN AVE,Scarborough,Ontario,M1R 2S3,Canada,Other - Public Services,462,Sq. Ft.
+0 Don Valley Pkwy,35000549,0 Don Valley Pkwy,Toronto,Ontario,M4K 2L1,Canada,Other - Public Services,1,Sq. Ft.
+North Queen St Storm Pumping Station,35000546,20 NORTH QUEEN ST,Etobicoke,Ontario,M8Z 2C4,Canada,Other - Public Services,676,Sq. Ft.
+Roxborough Parkette,35000547,30 ROXBOROUGH DR,Toronto,Ontario,M4W 1X1,Canada,Other - Public Services,304,Sq. Ft.
+Islington Storm Pumping Station,35000544,1276 ISLINGTON AVE,Etobicoke,Ontario,M9A 3J9,Canada,Other - Public Services,450,Sq. Ft.
+Kenilworth Tank Storm Pumping Station,35000545,70 KEWBEACH AVE,Toronto,Ontario,M4L 1B8,Canada,Other - Public Services,78,Sq. Ft.
+1605 King St. W,35000558,1605 King St. W,Toronto,Ontario,M6K 1J7,Canada,Other - Public Services,1,Sq. Ft.
+195 Glen Park Ave,35000559,195 Glen Park Ave.,Toronto,Ontario,M6B 2E1,Canada,Other - Public Services,1,Sq. Ft.
+1230 Eglinton Ave E,35000556,1230 Eglinton Ave. E,Scarborough,Ontario,M1L 2T3,Canada,Other - Public Services,1,Sq. Ft.
+1585 Lake Shore Blvd W,35000557,1585 Lake Shore Blvd W,Toronto,Ontario,M6K 3C1,Canada,Other - Public Services,1,Sq. Ft.
+1161 York Mills Rd,35000554,1161 York Mills Rd.,North York,Ontario,M3A 1Y8,Canada,Other - Public Services,1,Sq. Ft.
+12 St. Dunstan Dr.,35000555,12 St. Dunstan Dr.,Scarborough,Ontario,M1L 2V3,Canada,Other - Public Services,1,Sq. Ft.
+1 Simcoe St,35000552,1 Simcoe St,Toronto,Ontario,M5J 2N1,Canada,Other - Public Services,1,Sq. Ft.
+100 St Lawrence St,35000553,100 St Lawrence St,Toronto,Ontario,M5A 3N1,Canada,Other - Public Services,1,Sq. Ft.
+13 Barberry Pl,35000598,13 BARBERRY PL,North York,Ontario,M2K 1G9,Canada,Other - Public Services,1,Sq. Ft.
+155 Harbour Street De-Icing Pump,35000599,155 Harbour St.,Toronto,Ontario,M5J 2Z7,Canada,Other - Public Services,1,Sq. Ft.
+Scarborough Transfer Station,35000596,1 TRANSFER PL,Scarborough,Ontario,M1S 5H8,Canada,Other - Public Services,96595,Sq. Ft.
+Victoria Park Transfer Station,35000597,3350 VICTORIA PARK AVE,North York,Ontario,M2H 3K5,Canada,Other - Public Services,83959,Sq. Ft.
+Dufferin Transfer Station,35000594,35 VANLEY CRES,North York,Ontario,M3J 2B7,Canada,Other - Public Services,120663,Sq. Ft.
+Ingram Drive Transfer Station,35000595,50 INGRAM DR,Toronto,Ontario,M6M 2L6,Canada,Other - Public Services,112268,Sq. Ft.
+Commissioners St Transfer Stn,35000592,400 COMMISSIONERS ST,Toronto,Ontario,M4M 3K2,Canada,Other - Public Services,76424,Sq. Ft.
+Disco Road Transfer Station,35000593,120 DISCO RD,Etobicoke,Ontario,M9W 1M4,Canada,Other - Public Services,57049,Sq. Ft.
+4423 Eglinton Ave W,35000606,4423 EGLINTON AVE W,Etobicoke,Ontario,M9A 4Z9,Canada,Other - Public Services,1,Sq. Ft.
+4445 Eglinton Ave W,35000607,4445 EGLINTON AVE W,Etobicoke,Ontario,M9A 4Z9,Canada,Other - Public Services,1,Sq. Ft.
+4201 Eglinton Ave W,35000604,EGLINTON AVE W,Etobicoke,Ontario,M9A 4A5,Canada,Other - Public Services,1,Sq. Ft.
+4421 Eglinton Ave W,35000605,4421 EGLINTON AVE W,Etobicoke,Ontario,M9A 4Z9,Canada,Other - Public Services,1,Sq. Ft.
+3 Morningview Trail,35000602,3 Morningview Trail,Scarborough,Ontario,M1B 5A8,Canada,Other - Public Services,1,Sq. Ft.
+3460 Midland Ave,35000603,3460 Midland Ave,Scarborough,Ontario,M1V 5B5,Canada,Other - Public Services,1,Sq. Ft.
+23 Barberry Pl,35000600,23 BARBERRY PL,North York,Ontario,M2K 1G9,Canada,Other - Public Services,1,Sq. Ft.
+290 Dean Park Rd,35000601,290 Dean Park Rd,Scarborough,Ontario,M1B 5R7,Canada,Other - Public Services,1,Sq. Ft.
+Street Lighting East York,35000582,850 Coxwell Ave Streetlighting,Toronto,Ontario,M4C 5R1,Canada,Other - Public Services,1,Sq. Ft.
+Street Lighting Etobicoke,35000583,Steetlighting Etobicoke,Etobicoke,Ontario,M9W 1H3,Canada,Other - Public Services,1,Sq. Ft.
+Sidney Belsey Cres,35000580,Sidney Belsey Cres,Toronto,Ontario,M6M 5H9,Canada,Other - Public Services,1,Sq. Ft.
+St James Town,35000581,16 ST JAMES CRT,Toronto,Ontario,M4X 1X4,Canada,Other - Public Services,1,Sq. Ft.
+Metro 27 Lighting,35000578,Streetlighting,Toronto,Ontario,M5V 3C6,Canada,Other - Public Services,1,Sq. Ft.
+Nyctophilia,35000579,1030 Weston Rd,Toronto,Ontario,M6N 3S2,Canada,Other - Public Services,1,Sq. Ft.
+BlueGold Variation,35000576,2 Windermere Ave,Toronto,Ontario,M6S 3J1,Canada,Other - Public Services,1,Sq. Ft.
+Don Mills Rd.,35000577,Don Mills Rd.,North York,Ontario,M3A 3L7,Canada,Other - Public Services,1,Sq. Ft.
+Traffic Control Signals,35000590,Various Locations,Toronto,Ontario,M5V 3C6,Canada,Other - Public Services,1,Sq. Ft.
+Bermondsey Transfer Station,35000591,188 BERMONDSEY RD,North York,Ontario,M4A 1Y1,Canada,Other - Public Services,48976,Sq. Ft.
+Toronto Island Street Lighting,35000588,Toronto Island,Toronto,Ontario,M5J 2W2,Canada,Other - Public Services,1,Sq. Ft.
+Advance Traffic Management,35000589,0 Various Locations,Toronto,Ontario,M5V 3C6,Canada,Other - Public Services,1,Sq. Ft.
+Street Lighting Toronto,35000586,City Streetlights,Toronto,Ontario,M6K 1E9,Canada,Other - Public Services,1,Sq. Ft.
+Street Lighting York,35000587,Streetlighting York,Toronto,Ontario,M6M 1V1,Canada,Other - Public Services,1,Sq. Ft.
+Street Lighting North York,35000584,NY Street Lighting,North York,Ontario,M3J 0H4,Canada,Other - Public Services,1,Sq. Ft.
+Street Lighting Scarborough,35000585,2100 Ellesmere Rd,Scarborough,Ontario,M1H 3B7,Canada,Other - Public Services,1,Sq. Ft.
+2800 Steeles Ave W,35000630,2800 Steeles Ave W,Concord,Ontario,L4K 4N5,Canada,Transportation Terminal/Station,1,Sq. Ft.
+298 Dundas St W Pole 76,35000631,298 Dundas St W Pole 76,Toronto,Ontario,M5T 1G2,Canada,Transportation Terminal/Station,2,Sq. Ft.
+24 Alness St,35000628,24 Alness St,North York,Ontario,M3J 3H4,Canada,Transportation Terminal/Station,1,Sq. Ft.
+27 Lascelles Blvd,35000629,1700 YONGE ST,Toronto,Ontario,M4S 1Z2,Canada,Transportation Terminal/Station,1,Sq. Ft.
+1873 Bloor Street W,35000626,1873 Bloor Street W,Toronto,Ontario,M6R 2Z3,Canada,Transportation Terminal/Station,1,Sq. Ft.
+20 The Queensway,35000627,20 The Queensway,Toronto,Ontario,M6R 1B4,Canada,Transportation Terminal/Station,1,Sq. Ft.
+1577 Danforth Ave Unit Ttcpkg,35000624,1577 Danforth Ave Unit Ttcpkg,Toronto,Ontario,M4C 1H7,Canada,Transportation Terminal/Station,1,Sq. Ft.
+1635 Danforth Ave,35000625,1627 DANFORTH AVE,Toronto,Ontario,M4C 1H7,Canada,Transportation Terminal/Station,1,Sq. Ft.
+554 Queen St W Pole 186,35000638,554 Queen St W Pole 186,Toronto,Ontario,M5V 2B5,Canada,Transportation Terminal/Station,1,Sq. Ft.
+700 Arrow Rd,35000639,700 ARROW RD,North York,Ontario,M9M 2M1,Canada,Transportation Terminal/Station,230000,Sq. Ft.
+366 Old Weston Rd,35000636,1850 ST CLAIR AVE W,Toronto,Ontario,M6N 1J8,Canada,Transportation Terminal/Station,1,Sq. Ft.
+406 Victoria Park Ave Pole Opp 3,35000637,410 VICTORIA PARK AVE,Toronto,Ontario,M4E 3T2,Canada,Transportation Terminal/Station,1,Sq. Ft.
+300 Transit Rd,35000634,300 TRANSIT RD,North York,Ontario,M3H 6C3,Canada,Transportation Terminal/Station,1,Sq. Ft.
+348 Queens Quay W,35000635,348 Queens Quay W,Toronto,Ontario,M5V 3T1,Canada,Transportation Terminal/Station,1,Sq. Ft.
+3 Spadina Ave Pole 5,35000632,3 Spadina Ave,Toronto,Ontario,M5V 3Y3,Canada,Transportation Terminal/Station,1,Sq. Ft.
+30 Denton Ave,35000633,30 Denton Ave,Scarborough,Ontario,M1L 4P2,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Bus Shelter Lighting,35000614,Various Locations,Toronto,Ontario,M5V 3C6,Canada,Other - Public Services,267,Sq. Ft.
+King-Liberty Bridge,35000615,127 Western Battery Rd.,Toronto,Ontario,M6K 3N9,Canada,Other - Public Services,1,Sq. Ft.
+86 Ingram Dr.,35000612,86 INGRAM DR,Toronto,Ontario,M6M 2L6,Canada,Other - Public Services,1,Sq. Ft.
+949 Wilson Ave,35000613,949 Wilson Ave.,North York,Ontario,M3K 1G2,Canada,Other - Public Services,1,Sq. Ft.
+617 Vaughan Rd,35000610,617 Vaughan Rd,Toronto,Ontario,M6C 2R4,Canada,Other - Public Services,1,Sq. Ft.
+760 Victoria Park Ave,35000611,760 Victoria Park Ave.,Scarborough,Ontario,M1L 1L1,Canada,Other - Public Services,1,Sq. Ft.
+519 Conlins Rd,35000608,519 Conlins Rd,Scarborough,Ontario,M1B 5S1,Canada,Other - Public Services,1,Sq. Ft.
+608 Bellamy Rd,35000609,608 Bellamy Rd,Scarborough,Ontario,M1H 1K4,Canada,Other - Public Services,1,Sq. Ft.
+1328 Lansdowne Ave,35000622,1330 LANSDOWNE AVE,Toronto,Ontario,M6H 3Z8,Canada,Transportation Terminal/Station,1,Sq. Ft.
+15 Price St,35000623,15 Price St,Toronto,Ontario,M4W 1Z1,Canada,Transportation Terminal/Station,1,Sq. Ft.
+1 Ranleigh - Fire Vent,35000620,1 Ranleigh Ave,Toronto,Ontario,M4N 1X2,Canada,Transportation Terminal/Station,1,Sq. Ft.
+128 York St Pole 50,35000621,128 York St Pole 50,Toronto,Ontario,M5H 1P9,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Steeles Bridge Over Rouge,35000618,Steeles Ave E,Scarborough,Ontario,M1V 5N3,Canada,Other - Public Services,1,Sq. Ft.
+Union Station,35000619,65 FRONT ST W,Toronto,Ontario,M5J 1E6,Canada,Transportation Terminal/Station,986748,Sq. Ft.
+Snow Melter Cisa,35000616,4080 Yonge Street,North York,Ontario,M2P 1N9,Canada,Other - Public Services,1,Sq. Ft.
+Snow Storage Facility,35000617,207 NEW TORONTO ST,Etobicoke,Ontario,M8V 2E8,Canada,Other - Public Services,1,Sq. Ft.
+Coxwell Subway Stn,35000662,355 STRATHMORE BLVD,Toronto,Ontario,M4J 1P9,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Danforth Substation,35000663,2357 Danforth Ave,Toronto,Ontario,M4C 1K7,Canada,Transportation Terminal/Station,1,Sq. Ft.
+College Subway Stn,35000660,1 Carlton St Room 11Y12,Toronto,Ontario,M5B 2A1,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Coxwell Substation,35000661,332 COXWELL AVE,Toronto,Ontario,M4C 3E1,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Chester Subway Stn,35000658,22 CHESTER AVE,Toronto,Ontario,M4K 2Z9,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Christie Subway Stn,35000659,5 CHRISTIE ST,Toronto,Ontario,M6G 3B1,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Casa Loma Substation,35000656,278 DUPONT ST,Toronto,Ontario,M5R 1V9,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Castle Frank Subway Stn,35000657,600 BLOOR ST E,Toronto,Ontario,M4W 3Z2,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Downsview Park Stn,35000670,1035 SHEPPARD AVE W,North York,Ontario,M3H 2T6,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Dufferin Gate Loop,35000671,158 DUFFERIN ST,Toronto,Ontario,M6K 1Z2,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Don Mills Substation,35000668,1700 SHEPPARD AVE E,North York,Ontario,M2J 1V1,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Donlands Subway Stn,35000669,30 DONLANDS AVE,Toronto,Ontario,M4J 3N5,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Davisville Subway Stn,35000666,1900 YONGE ST,Toronto,Ontario,M4S 1Z1,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Delaware Substation,35000667,213 DELAWARE AVE,Toronto,Ontario,M6H 2T4,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Davisville Garage & Shop,35000664,1900 YONGE ST,Toronto,Ontario,M4S 1Z1,Canada,Transportation Terminal/Station,120450,Sq. Ft.
+Davisville Substation,35000665,1800 YONGE ST,Toronto,Ontario,M4T 2A4,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Beaches Substation,35000646,1900 QUEEN ST E,Toronto,Ontario,M4L 1H3,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Bedford Substation,35000647,11 BEDFORD RD,Toronto,Ontario,M5R 2J7,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Bay Subway Stn,35000644, CUMBERLAND ST,Toronto,Ontario,M5R 3N7,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Bayview Substation,35000645,550 SHEPPARD AVE E,North York,Ontario,M2K 1B2,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Asquith Substation,35000642,30 ASQUITH AVE,Toronto,Ontario,M4W 3W7,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Bathurst Subway Stn,35000643,843 BATHURST ST,Toronto,Ontario,M5R 3G2,Canada,Transportation Terminal/Station,1,Sq. Ft.
+715 Spadina Ave,35000640,715 Spadina Ave,Toronto,Ontario,M5S 2J4,Canada,Transportation Terminal/Station,1,Sq. Ft.
+996 WOODBINE AVE,35000641,996 WOODBINE AVE,Toronto,Ontario,M4C 4B9,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Carlaw Substation,35000654,369 CARLAW AVE,Toronto,Ontario,M4M 2T3,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Carpark 654,35000655,11 OLD MILL DR,Toronto,Ontario,M6S 4J7,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Broadview Substation,35000652,769 BROADVIEW AVE,Toronto,Ontario,M4K 2P1,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Broadview Subway Stn,35000653,769 BROADVIEW AVE,Toronto,Ontario,M4K 2P1,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Birchmount Rd,35000650,720 BIRCHMOUNT RD,Scarborough,Ontario,M1K 1R4,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Bloor Subway Stn,35000651,7 SPADINA RD,Toronto,Ontario,M5R 2S7,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Berwick Substation,35000648,2180 Yonge St,Toronto,Ontario,M4S 2A9,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Birchmount Bus Garage,35000649,400 DANFORTH RD,Scarborough,Ontario,M1L 3X6,Canada,Transportation Terminal/Station,150996,Sq. Ft.
+Hillcrest Substation,35000694,1130 BATHURST ST,Toronto,Ontario,M5R 3H2,Canada,Transportation Terminal/Station,1,Sq. Ft.
+"Hillcrest, Gunn, Bathurst Garage",35000695,1130 BATHURST ST,Toronto,Ontario,M5R 3H2,Canada,Transportation Terminal/Station,295000,Sq. Ft.
+High Park Subway Stn,35000692,35 QUEBEC AVE,Toronto,Ontario,M6P 2T3,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Highway 407 Stn,35000693,7332 Jane St.,Concord,Ontario,L4K 1A7,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Gunns Loop,35000690,1996 St Clair Ave W,Toronto,Ontario,M6N 5B9,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Harbourfront Substation,35000691,21 LOWER SPADINA AVE,Toronto,Ontario,M5V 2Z1,Canada,Transportation Terminal/Station,2071,Sq. Ft.
+Greenwood Substation,35000688,137 STRATHMORE BLVD,Toronto,Ontario,M4J 4Y9,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Greenwood Subway Stn,35000689,10 LINSMORE CRES,Toronto,Ontario,M4J 4J5,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Jane & Eglinton (SW),35000702,1000 Jane Street,Toronto,Ontario,M6N 4Z4,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Jane Substation,35000703,15 JANE ST,Toronto,Ontario,M6S 3Y3,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Islington Subway Stn,35000700,1226 ISLINGTON AVE,Etobicoke,Ontario,M8X 1Y8,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Jane & Eglinton (NE),35000701,3700 Eglinton Ave W,Toronto,Ontario,M6M 1V7,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Indian Grove Substation,35000698,139 INDIAN GRV,Toronto,Ontario,M6P 2H2,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Islington Substation,35000699,9 ISLINGTON AVE,Etobicoke,Ontario,M8V 3B6,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Humber Loop,35000696,123 THE QUEENSWAY,Etobicoke,Ontario,M8Y 1H6,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Humber Loop Substation,35000697,123 The Queenswat,Etobicoke,Ontario,M8Y 1H6,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Eglinton Garage,35000678,38 COMSTOCK RD,Scarborough,Ontario,M1L 4V8,Canada,Transportation Terminal/Station,120986,Sq. Ft.
+Eglinton West Subway Stn,35000679,1300 EGLINTON AVE W,Toronto,Ontario,M6C 3Z7,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Dupont Subway Stn,35000676,278 DUPONT ST,Toronto,Ontario,M5R 1V9,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Eglington Subway Stn,35000677,2190 YONGE ST,Toronto,Ontario,M4S 2B8,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Dundas Subway Stn,35000674,2 Dundas St W,Toronto,Ontario,M5B 1R4,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Dundas W Subway Stn,35000675,2365 DUNDAS ST W,Toronto,Ontario,M6S 2R8,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Dufferin Subway Stn,35000672,1006 DUFFERIN ST,Toronto,Ontario,M6H 4B6,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Duncan  Substation,35000673,25-29 Nelson St,Scarborough,Ontario,M1J 3K8,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Glencairn Subway Stn,35000686,777 Glencairn Ave,Toronto,Ontario,M6B 3J3,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Granby Substation,35000687,21 GRANBY ST,Toronto,Ontario,M5B 1H8,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Freshmeadow & Don Mills (NE),35000684,4001 Freshmeadow Dr,North York,Ontario,M2H 3H6,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Glenayr Substation,35000685,4 GLENAYR RD,Toronto,Ontario,M5P 3B8,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Finch Substation,35000682,24 Hendon Ave,North York,Ontario,M2M 4G6,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Finch West Stn,35000683,3965 KEELE ST,North York,Ontario,M3J 2W1,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Ellesmere Substation,35000680,1025 ELLESMERE RD,Scarborough,Ontario,M1P 2W9,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Fairholme Substation,35000681,665 LAWRENCE AVE W,North York,Ontario,M6A 1A9,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Museum Subway Stn,35000726, QUEENS PARK,Toronto,Ontario,M7A 1A2,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Neilson & Ellesmere (NE),35000727,2856 Ellesmere Rd,Scarborough,Ontario,M1E 4B8,Canada,Transportation Terminal/Station,1,Sq. Ft.
+McNicoll Bus Garage,35000724,225 Milliken Blvd.,Scarborough,Ontario,M1V 0G4,Canada,Transportation Terminal/Station,830283,Sq. Ft.
+Meadowvale Loop,35000725,1365 Meadowvale Rd.,Scarborough,Ontario,M1B 5S4,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Malvern Garage & Shop,35000722,5050 SHEPPARD AVE E,Scarborough,Ontario,M1S 4N3,Canada,Transportation Terminal/Station,574125,Sq. Ft.
+McCowan Substation,35000723,1275 MCCOWAN RD,Scarborough,Ontario,M1P 3H5,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Long Branch Substation,35000720,3842 Lake Shore Blvd W,Etobicoke,Ontario,M8W 3P6,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Main Street Subway Stn,35000721,315 MAIN ST,Toronto,Ontario,M4C 4X6,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Osgoode Subway Stn,35000734,145 QUEEN ST W,Toronto,Ontario,M5H 4G1,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Ossington Substation,35000735,137 Winona Dr,Toronto,Ontario,M6G 3S7,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Old Mill Subway Stn,35000732,2672 BLOOR ST W,Etobicoke,Ontario,M8X 1A4,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Orde Substation,35000733,10 ORDE ST,Toronto,Ontario,M5T 1N7,Canada,Transportation Terminal/Station,1,Sq. Ft.
+North York Ctr Subway Stn,35000730,5102 YONGE ST,North York,Ontario,M2N 5V7,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Oakvale Substation,35000731,73 Oakvale Ave,Toronto,Ontario,M4L 2V6,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Neilson & Ellesmere (SW),35000728,2867 Ellesmere Rd,Scarborough,Ontario,M1E 4B9,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Neville Park Loop,35000729,2497 Queen St E,Toronto,Ontario,M4E 1H3,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Kipling Substation,35000710,25 St Albans Rd,Etobicoke,Ontario,M9B 6K4,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Lakeshore Garage & Shop,35000711,580 COMMISSIONERS ST,Toronto,Ontario,M4M 1A7,Canada,Transportation Terminal/Station,305356,Sq. Ft.
+Kipling & Dixon (NW),35000708,412 Dixon Rd,Etobicoke,Ontario,M9R 1T3,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Kipling & Dixon (SW),35000709,375 Dixon Rd,Etobicoke,Ontario,M9R 1S7,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Kennedy Substation,35000706,155 EGLINTON AVE E,Scarborough,Ontario,M1K 2P6,Canada,Transportation Terminal/Station,1,Sq. Ft.
+King Subway Stn,35000707,5 King St W Unit King,Toronto,Ontario,M5H 1C3,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Jane Subway Stn,35000704,15 JANE ST,Toronto,Ontario,M6S 3Y3,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Keele Subway Stn,35000705,21 KEELE ST,Toronto,Ontario,M6P 2J8,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Leslie  Substation,35000718,1209 SHEPPARD AVE E,North York,Ontario,M2K 1E2,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Lippincott Substation,35000719,386 LIPPINCOTT ST,Toronto,Ontario,M5S 2P7,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Lawrence Substation,35000716,3030 YONGE ST,Toronto,Ontario,M4N 2K4,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Lawrence Subway Stn,35000717,3030 YONGE ST,Toronto,Ontario,M4N 2K4,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Lansdowne Subway Stn,35000714,691 LANSDOWNE AVE,Toronto,Ontario,M6H 3Y9,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Lawrence East Substation,35000715,2444 LAWRENCE AVE E,Scarborough,Ontario,M1P 3H5,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Lakeshore Substation,35000712,3236 Lake Shore Blvd W,Etobicoke,Ontario,M8V 1M1,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Lansdowne Substation,35000713,587 LANSDOWNE AVE,Toronto,Ontario,M6H 3Y2,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Sherbourne Subway Stn,35000758,429 BLOOR ST E,Toronto,Ontario,M4W 3R4,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Spadina North Subway Stn,35000759,85 SPADINA RD,Toronto,Ontario,M5R 2T1,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Sheppard West Substation,35000756,1035 SHEPPARD AVE W,North York,Ontario,M3H 2T6,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Sheppard Yonge Substation,35000757,2 SHEPPARD AVE W,North York,Ontario,M2N 6S6,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Runnymede Subway Stn,35000754,265 RUNNYMEDE RD,Toronto,Ontario,M6S 2Y5,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Russell Substation,35000755,1353 QUEEN ST E,Toronto,Ontario,M4L 1C7,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Royal York Subway Stn,35000752,955 ROYAL YORK RD,Etobicoke,Ontario,M8X 2E6,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Runnymede Rd Unit Loop,35000753,Runnymede Rd and Dundas St W,Toronto,Ontario,M6S 2S1,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Summerhill Subway Stn,35000766,20 Shaftesbury Ave Stn Sum,Toronto,Ontario,M4T 1W2,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Toronto-York Spadina Subway,35000767,300 TRANSIT RD,Scarborough,Ontario,M3H 6C3,Canada,Transportation Terminal/Station,1,Sq. Ft.
+St Patrick Subway Stn,35000764,220 Dundas St W Stn St Pat,Toronto,Ontario,M5G 1W8,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Sumach Substation,35000765,23 SUMACH ST,Toronto,Ontario,M5A 3J5,Canada,Transportation Terminal/Station,1,Sq. Ft.
+St Clair Subway Stn,35000762,11 ST CLAIR AVE E,Toronto,Ontario,M4T 1L8,Canada,Transportation Terminal/Station,1,Sq. Ft.
+St Clair West Subway Stn,35000763,370 St Clair Ave W,Toronto,Ontario,M5P 1N4,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Spadina Subway Stn,35000760, SPADINA RD,Toronto,Ontario,M5R 2V6,Canada,Transportation Terminal/Station,1,Sq. Ft.
+St Andrew Subway Stn,35000761,160 King St W Unit Stn St,Toronto,Ontario,M5X 2A2,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Pleasant Substation,35000742,11 ST CLAIR AVE E,Toronto,Ontario,M4T 1L8,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Prince Edward Substation,35000743,339 PRINCE EDWARD DR,Etobicoke,Ontario,M8X 2L4,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Park Hill Substation,35000740,1300 EGLINTON AVE W,Toronto,Ontario,M6C 3Z4,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Pioneer Village Stn,35000741,2820 Steeles Ave W,Concord,Ontario,L4K 3R1,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Overlea & Thorncliffe (SW),35000738,59 Overlea Blvd,East York,Ontario,M4H 1C2,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Pape Subway Stn,35000739,743 PAPE AVE,Toronto,Ontario,M4K 3T1,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Ossington Subway Stn,35000736,746 OSSINGTON AVE,Toronto,Ontario,M6G 3T9,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Overlea & Thorncliffe (NW),35000737,60 Overlea Blvd,East York,Ontario,M4H 1B8,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Roncesvalles Substation,35000750,30 Roncesvalles Ave,Toronto,Ontario,M6R 1C7,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Rosedale Subway Stn,35000751,5 Crescent Rd Stn Rosedl,Toronto,Ontario,M4W 1S9,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Richmond Substation,35000748,35 Richmond St E,Toronto,Ontario,M5C 1M1,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Rockcliffe Pole Yard,35000749,200 Rockcliffe Crt,Toronto,Ontario,M6N 0A9,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Queens Quay Ferry Docks Terminal,35000746,0 Bay St Near Ququay,Toronto,Ontario,M5J 2R8,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Queensway Garage & Shop,35000747,400 EVANS AVE,Toronto,Ontario,M6S 3V9,Canada,Transportation Terminal/Station,123426,Sq. Ft.
+Queen St W Subway Station,35000744,1 Queen St W Stn Queen,Toronto,Ontario,M5H 3X4,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Queens Park Subway Stn,35000745,129 COLLEGE ST,Toronto,Ontario,M5T 1P5,Canada,Transportation Terminal/Station,1,Sq. Ft.
+1739 Bayview,35000790,1739 Bayview Ave,East York,Ontario,M4G 3C1,Canada,Other - Public Services,1,Sq. Ft.
+2427 Gerrard St E,35000791,2427 Gerrard St E,Toronto,Ontario,M4E 2G1,Canada,Other - Public Services,1,Sq. Ft.
+139A Dupont St.,35000788,139A Dupont St.,Toronto,Ontario,M5R 1K6,Canada,Other - Public Services,1,Sq. Ft.
+150 Disco Rd (Blower Enclosure),35000789,150 Disco Rd,Etobicoke,Ontario,M9W 1M4,Canada,Other - Public Services,1,Sq. Ft.
+York Mills Substation,35000786, YONGE ST,North York,Ontario,M2P 1N6,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Yorkdale Subway Stn,35000787,250 Ranee Ave,North York,Ontario,M6A 2P4,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Woodbine Subway Stn,35000784,991 WOODBINE AVE,Toronto,Ontario,M4C 4B8,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Yonge & Steeles Ave E (SW),35000785,6550 Yonge St,North York,Ontario,M2M 4J8,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Carlingview Pumping Station,35000798,475 Carlingview Dr,Etobicoke,Ontario,M9W 6M8,Canada,Other - Public Services,1,Sq. Ft.
+Coatsworth Cut Tank,35000799,32 Kingston Rd,Toronto,Ontario,M4L 1S4,Canada,Other - Public Services,1,Sq. Ft.
+Bayview & John,35000796,John St.,Markham,Ontario,L6C 0A0,Canada,Other - Public Services,1,Sq. Ft.
+Bayview Reservoir,35000797,8127 BAYVIEW AVE,North York,Ontario,M2M 3Z9,Canada,Other - Public Services,1,Sq. Ft.
+83 East Don Roadway,35000794,83 East Don Roadway,Toronto,Ontario,M4M 2A5,Canada,Other - Public Services,1,Sq. Ft.
+Bathurst St,35000795,Bathurst St,Toronto,Ontario,M5V 3C1,Canada,Other - Public Services,1,Sq. Ft.
+3971 Keele St.,35000792,3971 Keele St.,North York,Ontario,M3J 1P1,Canada,Other - Public Services,1,Sq. Ft.
+58 Humberview Rd,35000793,52 LESSARD AVE,Toronto,Ontario,M6S 1X5,Canada,Other - Public Services,1,Sq. Ft.
+Vaughan Metro Centre Station,35000774,3161 Hwy 7,Concord,Ontario,L4K 5Z7,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Victoria Park & Ellesmere (NW),35000775,2124 Victoria Park Ave,Scarborough,Ontario,M1R 1V6,Canada,Transportation Terminal/Station,1,Sq. Ft.
+TTC Various Locations,35000772,Various Locations Unit Ttc,Toronto,Ontario,M5V 3C6,Canada,Transportation Terminal/Station,6,Sq. Ft.
+Union Subway Stn,35000773,58 Front St W,Toronto,Ontario,M5J 1E6,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Trinity Substation,35000770,109 SHAW ST,Toronto,Ontario,M6J 2W6,Canada,Transportation Terminal/Station,1,Sq. Ft.
+TTC Various,35000771,0 Various Locations,Toronto,Ontario,M5V 3C6,Canada,Transportation Terminal/Station,24,Sq. Ft.
+Town Centre Substation,35000768,290 BOROUGH DR,Scarborough,Ontario,M1P 4P5,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Townsley Substation,35000769,1850 ST CLAIR AVE W,Toronto,Ontario,M6N 1J8,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Wilson Substation,35000782,570 WILSON AVE,North York,Ontario,M3K 1C9,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Wolseley Loop,35000783,203 Bathurst St Near Wol Lp,Toronto,Ontario,M5T 2S2,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Warden Subway Stn,35000780,701 WARDEN AVE,Scarborough,Ontario,M1L 3Z5,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Wellesley St E Subway Stn,35000781,16 WELLESLEY ST E,Toronto,Ontario,M5B 2L6,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Victoria Park Subway Stn,35000778,777 VICTORIA PARK AVE,Toronto,Ontario,M4C 5S8,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Warden Substation,35000779,701 WARDEN AVE,Scarborough,Ontario,M1L 3Z5,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Victoria Park & Ellesmere (SE),35000776,2135 Victoria Park Ave,Scarborough,Ontario,M1R 4B7,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Victoria Park Ave (Bingham Loop),35000777,416 Victoria Park Ave,Toronto,Ontario,M4E 3T2,Canada,Transportation Terminal/Station,1,Sq. Ft.
+Ellesmere Pumping Station,35000822,2950 ELLESMERE RD,Scarborough,Ontario,M1E 4B8,Canada,Drinking Water Treatment & Distribution,6243,Sq. Ft.
+High Level Pumping Station,35000823,235 COTTINGHAM ST,Toronto,Ontario,M4V 1C7,Canada,Drinking Water Treatment & Distribution,46403,Sq. Ft.
+Dorset Pumping Station,35000820,2900 KINGSTON RD,Scarborough,Ontario,M1M 1N5,Canada,Drinking Water Treatment & Distribution,1,Sq. Ft.
+Eglinton Pumping Station,35000821,885 PHARMACY AVE,Scarborough,Ontario,M1L 3K9,Canada,Drinking Water Treatment & Distribution,10075,Sq. Ft.
+Works and Emergency Serv,35000818,Works & Emergency Serv,Toronto,Ontario,M5V 3C6,Canada,Other - Public Services,1,Sq. Ft.
+Armour Heights Pumping Station,35000819,226 WILSON AVE,Toronto,Ontario,M5M 3B1,Canada,Drinking Water Treatment & Distribution,5780,Sq. Ft.
+Wilson Heights Pumping Station,35000816,279 WILSON HEIGHTS BLVD,North York,Ontario,M3H 2V3,Canada,Other - Public Services,1,Sq. Ft.
+Woodward & Highland,35000817,Woodward & Highland,Thornhill,Ontario,L3T 1E9,Canada,Other - Public Services,1,Sq. Ft.
+Parkdale Pumping Station,35000830,71 THE QUEENSWAY,Toronto,Ontario,M6R 1B7,Canada,Drinking Water Treatment & Distribution,11227,Sq. Ft.
+Riverside Common,35058174,657 Queen St E,Toronto,Ontario,M4M 1G4,Canada,Other - Public Services,8406,Sq. Ft.
+Richview Pumping Station,35000831,551 MARTIN GROVE RD,Etobicoke,Ontario,M9R 4B7,Canada,Drinking Water Treatment & Distribution,2357,Sq. Ft.
+Lawrence Pumping Station,35000828,1144 LAWRENCE AVE W,North York,Ontario,M6L 1A2,Canada,Drinking Water Treatment & Distribution,15629,Sq. Ft.
+Milliken Pumping Station,35000829,4375 FOURTEENTH AVE,Markham,Ontario,L3R 0J2,Canada,Drinking Water Treatment & Distribution,1,Sq. Ft.
+Keelesdale Park - Pumping Station,35000826,106 HYDE AVE,Toronto,Ontario,M6M 5B4,Canada,Drinking Water Treatment & Distribution,1,Sq. Ft.
+Kennedy Pumping Station,35000827,154 PURCELL SQ,Scarborough,Ontario,M1V 3C3,Canada,Drinking Water Treatment & Distribution,5360,Sq. Ft.
+John Street Pumping Station,35000824,28 REES ST,Toronto,Ontario,M5V 3J2,Canada,Drinking Water Treatment & Distribution,112773,Sq. Ft.
+Keele Pumping Station,35000825,4995 KEELE ST,North York,Ontario,M3J 3K1,Canada,Drinking Water Treatment & Distribution,2745,Sq. Ft.
+Old Mill Sewage Pumping Station,35000806,5 OLD MILL RD,Etobicoke,Ontario,M8X 1G5,Canada,Other - Public Services,1,Sq. Ft.
+Riverwood Sewage Pumping Station,35000807,115 Riverwood Pky,Etobicoke,Ontario,M8Y 4G3,Canada,Other - Public Services,1,Sq. Ft.
+Lower Riverwood Landfill,35000804,33A Riverwood Pky,Etobicoke,Ontario,M8Y 4E3,Canada,Other - Public Services,1,Sq. Ft.
+MacLean Detention Tank,35000805,6 Glen Manor Dr,Toronto,Ontario,M6B 2M1,Canada,Other - Public Services,7,Sq. Ft.
+Glendale Shaft,35000802,1699 Lake Shore Blvd W,Toronto,Ontario,M6S 5A3,Canada,Other - Public Services,1,Sq. Ft.
+High Park Sewage Pumping Station,35000803,1873 Bloor St W- Lot Cytor,Toronto,Ontario,M6P 3K7,Canada,Other - Public Services,1,Sq. Ft.
+Dufferin Reservoir,35000800,8851 DUFFERIN ST,Maple,Ontario,L6A 1S2,Canada,Other - Public Services,635,Sq. Ft.
+Edenbridge Sewage Blower,35000801,235 EDENBRIDGE DR,Etobicoke,Ontario,M9A 3G9,Canada,Other - Public Services,1,Sq. Ft.
+Stormwater Storage Tank,35000814,101 OLD SHEPPARD AVE,North York,Ontario,M2J 3L7,Canada,Other - Public Services,1,Sq. Ft.
+Whitlam Tank,35000815,26 WHITLAM AVE,Etobicoke,Ontario,M8V 2K1,Canada,Other - Public Services,1,Sq. Ft.
+Spadina St Clair Reservoir,35000812,301 ST CLAIR AVE W,Toronto,Ontario,M4V 1S4,Canada,Other - Public Services,678,Sq. Ft.
+Steelcase Rd,35000813,Steelcase Rd,Toronto,Ontario,M5V 3C6,Canada,Other - Public Services,1,Sq. Ft.
+Service Chambers,35000810,Various Locations,Toronto,Ontario,M5V 3C6,Canada,Other - Public Services,48,Sq. Ft.
+Sewer System Chamber,35000811,152 Disco Rd,Etobicoke,Ontario,M9W 1M4,Canada,Other - Public Services,1,Sq. Ft.
+Rosehill Reservoir,35000808,75 ROSEHILL AVE,Toronto,Ontario,M4T 2W7,Canada,Other - Public Services,2023,Sq. Ft.
+Rouge Water Tank & Valve House,35000809,8200 SHEPPARD AVE E,Scarborough,Ontario,M1B 5R3,Canada,Other - Public Services,2142,Sq. Ft.
+#43 Police Division,59463393,4331 Lawrence Ave E,Scarborough,Ontario,", ON M1E 2T4",Canada,Police Station,5151,Sq. M.
+FIRE STATION 331,59463292,33 CLAREMONT ST,Toronto,Ontario,M6J 2M3,Canada,Fire Station,1020,Sq. M.
+Clarence Park Encampment Trailer,35490439,25 Clarence Square,Toronto,Ontario,M5V1H1,Canada,Other,1,Sq. Ft.
+229 Richmond St. W,34999094,229 Richmond St. W,Toronto,Ontario,M5V 1W2,Canada,Office,1,Sq. Ft.
+2340 Dundas St W (Crossways),34999095,2340 Dundas St.W.,Toronto,Ontario,M6P 4A9,Canada,Office,1,Sq. Ft.
+2118 Danforth Ave - Ward 19 Office,34999092,2118 Danforth Ave,Toronto,Ontario,M4C 1J9,Canada,Office,1,Sq. Ft.
+2141 Kipling Ave - Ward 1 Office,34999093,2141 Kipling Ave,Etobicoke,Ontario,M9W 4K8,Canada,Office,1,Sq. Ft.
+18 Dyas Rd.,34999090,18 DYAS RD,North York,Ontario,M3B 1V5,Canada,Office,73927,Sq. Ft.
+2 Civic Centre Court,34999091,2 CIVIC CENTRE CRT,Etobicoke,Ontario,M9C 5A3,Canada,Office,46145,Sq. Ft.
+175 Memorial Park Ave,34999089,175 MEMORIAL PARK AVE,Toronto,Ontario,M4J 2K5,Canada,Office,6394,Sq. Ft.
+Archives and Records Centre,34999102,255 SPADINA RD,Toronto,Ontario,M5R 2V3,Canada,Office,39590,Sq. Ft.
+Atlantic Ave Storage Bldg,34999103,98 ATLANTIC AVE,Toronto,Ontario,M6K 1X9,Canada,Office,43002,Sq. Ft.
+53 Strachan Ave,34999100,805 WELLINGTON ST,Toronto,Ontario,M5V 1G8,Canada,Office,49213,Sq. Ft.
+51 Lisgar,34999099,51 LISGAR ST,Toronto,Ontario,M6J 0B9,Canada,Office,10053,Sq. Ft.
+275 Merton St,34999096,275 MERTON ST,Toronto,Ontario,M4S 1A7,Canada,Office,66747,Sq. Ft.
+2800 Keele,34999097,2800 Keele St,North York,Ontario,M3M 0B8,Canada,Office,1,Sq. Ft.
+Old City Hall,34999126,60 QUEEN ST W,Toronto,Ontario,M5H 2M3,Canada,Office,350494,Sq. Ft.
+Property Dept Workshop,34999127,786 DUNDAS ST E,Toronto,Ontario,M4M 1R1,Canada,Office,39170,Sq. Ft.
+North York Civic Centre,34999124,5100 YONGE ST,North York,Ontario,M2N 5V7,Canada,Office,303518,Sq. Ft.
+North York District Office,34999125,1118 FINCH AVE W,North York,Ontario,M3J 3J4,Canada,Office,11501,Sq. Ft.
+High Park Office,34999122,140 Colborne Dr.,Toronto,Ontario,M6R 2Z3,Canada,Office,2228,Sq. Ft.
+Metro Hall,34999123,55 JOHN ST,Toronto,Ontario,M5V 3C6,Canada,Office,787186,Sq. Ft.
+Golden Mile Employment & Social Services,34999120,1880 EGLINTON AVE E,Scarborough,Ontario,M1L 2L1,Canada,Office,45000,Sq. Ft.
+Health Office - Jane Street Clinic,34999121,662 JANE ST,Toronto,Ontario,M6N 4A7,Canada,Office,2540,Sq. Ft.
+The Queensway Employment & Social Services,34999134,779 THE QUEENSWAY,Etobicoke,Ontario,M8Z 1N4,Canada,Office,22497,Sq. Ft.
+Toronto Island Service Office,34999135,1 Lakeshore Ave,Toronto,Ontario,M5J 2W2,Canada,Office,20968,Sq. Ft.
+South District Office & Workshop,34999132,149 RIVER ST,Toronto,Ontario,M5A 3P8,Canada,Office,13487,Sq. Ft.
+St Lawrence Hall,34999133,157 KING ST E,Toronto,Ontario,M5A 1J3,Canada,Office,55413,Sq. Ft.
+Scarborough Civic Centre,34999130,150 BOROUGH DR,Scarborough,Ontario,M1P 4N7,Canada,Office,372868,Sq. Ft.
+Scarborough Village Employment & Social Services,34999131,3642 KINGSTON RD,Scarborough,Ontario,M1M 1R9,Canada,Office,1,Sq. Ft.
+Public Health HQ,34999128,277 VICTORIA ST,Toronto,Ontario,M5B 1W2,Canada,Office,111385,Sq. Ft.
+Rexdale Community Hub,34999129,21 PANORAMA CRT,Etobicoke,Ontario,M9V 4E3,Canada,Office,96369,Sq. Ft.
+City Hall Ancillary Office Building,34999110,75 ELIZABETH ST,Toronto,Ontario,M5G 1P4,Canada,Office,14768,Sq. Ft.
+Dufferin Employment & Social Services,34999111,900 Dufferin St,Toronto,Ontario,M6H 4A9,Canada,Office,27894,Sq. Ft.
+City Clerk's Office (2 Hobson Ave),34999108,2 HOBSON AVE,North York,Ontario,M4A 1B3,Canada,Office,34843,Sq. Ft.
+City Hall,34999109,100 QUEEN ST W,Toronto,Ontario,M5H 2N1,Canada,Office,780061,Sq. Ft.
+Bridlewood Employment & Social Services,34999106,2900 Warden Ave,Scarborough,Ontario,M1W 2S8,Canada,Office,34399,Sq. Ft.
+Chaplin Crescent Storage,34999107,329 CHAPLIN CRES,Toronto,Ontario,M5N 2M9,Canada,Office,18299,Sq. Ft.
+Attwell Employment & Social Services,34999104,220 ATTWELL DR,Etobicoke,Ontario,M9W 6T9,Canada,Office,20279,Sq. Ft.
+Beaches Employment & Social Services,34999105,1631 QUEEN ST E,Toronto,Ontario,M4L 1G4,Canada,Office,25327,Sq. Ft.
+Forestry W District Office,34999118,1 Bathurst St,Toronto,Ontario,M5V 2N8,Canada,Office,8999,Sq. Ft.
+Former Hydro Building,34999119,1652 KEELE ST,Toronto,Ontario,M6M 3W3,Canada,Office,22497,Sq. Ft.
+Election Services Building,34999116,89 NORTHLINE RD,East York,Ontario,M4B 3G1,Canada,Office,55004,Sq. Ft.
+Etobicoke Civic Centre,34999117,399 THE WEST MALL,Etobicoke,Ontario,M9C 2Y2,Canada,Office,154925,Sq. Ft.
+East York Civic Centre,34999114,850 COXWELL AVE,Toronto,Ontario,M4C 5R1,Canada,Office,67544,Sq. Ft.
+Eastville Training Centre,34999115,1 EASTVILLE AVE,Scarborough,Ontario,M1M 2N5,Canada,Office,19849,Sq. Ft.
+Dyas Road Archive Bldg,34999112,14 DYAS RD,North York,Ontario,M3B 1V5,Canada,Office,28589,Sq. Ft.
+East Court & Municipal Services,34999113,1530 MARKHAM RD,Scarborough,Ontario,M1B 3G4,Canada,Office,120104,Sq. Ft.
+TPS Station #33,34999158,760 DOVERCOURT RD,Toronto,Ontario,M6H 2X2,Canada,Other - Public Services,3132,Sq. Ft.
+TPS Station #34,34999159,674 MARKHAM ST,Toronto,Ontario,M6G 2L9,Canada,Other - Public Services,13939,Sq. Ft.
+TPS Station #31,34999156,4219 DUNDAS ST W,Etobicoke,Ontario,M8X 1Y3,Canada,Other - Public Services,2831,Sq. Ft.
+TPS Station #32,34999157,9 CLENDENAN AVE,Toronto,Ontario,M6P 2W4,Canada,Other - Public Services,3218,Sq. Ft.
+TPS Station #28,34999154,2900 LAWRENCE AVE E,Scarborough,Ontario,M1P 2T7,Canada,Other - Public Services,1905,Sq. Ft.
+TPS Station #30/District 3 Office,34999155,100 TURNBERRY AVE,Toronto,Ontario,M6N 1R1,Canada,Other - Public Services,16380,Sq. Ft.
+TPS Station #22,34999152,3100 EGLINTON AVE E,Scarborough,Ontario,M1J 2H1,Canada,Other - Public Services,2583,Sq. Ft.
+TPS Station #24,34999153,3061 BIRCHMOUNT RD,Scarborough,Ontario,M1W 2S4,Canada,Other - Public Services,2659,Sq. Ft.
+TPS Station #44,34999166,887 PHARMACY AVE,Scarborough,Ontario,M1L 3K9,Canada,Other - Public Services,2799,Sq. Ft.
+TPS Station #45,34999167,135 DAVENPORT RD,Toronto,Ontario,M5R 1J1,Canada,Other - Public Services,11496,Sq. Ft.
+TPS Station #41,34999164,1300 PAPE AVE,Toronto,Ontario,M4K 3X1,Canada,Other - Public Services,4970,Sq. Ft.
+TPS Station #42/District 4 Office,34999165,1535 KINGSTON RD,Scarborough,Ontario,M1N 1R5,Canada,Other - Public Services,6997,Sq. Ft.
+TPS Station #39,34999162,155 The East Mall,Etobicoke,Ontario,M8Z 5Y5,Canada,Other - Public Services,1927,Sq. Ft.
+TPS Station #40,34999163,58 RICHMOND ST E,Toronto,Ontario,M5C 1N7,Canada,Other - Public Services,12798,Sq. Ft.
+TPS Station #37,34999160,1288 QUEEN ST W,Toronto,Ontario,M6K 1L4,Canada,Other - Public Services,4413,Sq. Ft.
+TPS Station #38,34999161,259 HORNER AVE,Etobicoke,Ontario,M8Z 4Y3,Canada,Other - Public Services,5102,Sq. Ft.
+Ambulance Headquarters/TPS Station #53,34999142,4330 DUFFERIN ST,North York,Ontario,M3H 5R9,Canada,Other - Public Services,143494,Sq. Ft.
+Community Paramedicine/Post 17,34999143,50 TORYORK DR,North York,Ontario,M9L 1X6,Canada,Other - Public Services,13153,Sq. Ft.
+York Civic Center,34999140,2700 EGLINTON AVE W,Toronto,Ontario,M6M 1V1,Canada,Office,72915,Sq. Ft.
+York Humber Employment & Social Services,34999141,605 ROGERS RD,Toronto,Ontario,M6M 1B9,Canada,Office,32980,Sq. Ft.
+TPS Station #43/Amelie House,34999138,126 PAPE AVE,Toronto,Ontario,M4M 2V8,Canada,Office,9365,Sq. Ft.
+Wellesley Place Employment & Social Services,34999139,111 WELLESLEY ST E,Toronto,Ontario,M4Y 3A7,Canada,Office,52108,Sq. Ft.
+Toronto Water Centre,34999136,60 TIFFIELD RD,Scarborough,Ontario,M1V 5N2,Canada,Office,64831,Sq. Ft.
+Toronto Water Operations Building,34999137,2126 KIPLING AVE,Etobicoke,Ontario,M9W 4K5,Canada,Office,16952,Sq. Ft.
+TPS Station #18,34999150,643 EGLINTON AVE W,Toronto,Ontario,M5N 1C5,Canada,Other - Public Services,4930,Sq. Ft.
+TPS Station #20/District 2 Office,34999151,2430 LAWRENCE AVE E,Scarborough,Ontario,M1P 2R5,Canada,Other - Public Services,7782,Sq. Ft.
+TPS Station #13,34999148,555 MARTIN GROVE RD,Etobicoke,Ontario,M9R 4B7,Canada,Other - Public Services,2756,Sq. Ft.
+TPS Station #14,34999149,321 REXDALE BLVD,Etobicoke,Ontario,M9W 1R8,Canada,Other - Public Services,4252,Sq. Ft.
+TPS Station #11,34999146,1135 CALEDONIA RD,North York,Ontario,M6A 2W9,Canada,Other - Public Services,3574,Sq. Ft.
+TPS Station #12,34999147,1535 ALBION RD,Etobicoke,Ontario,M9V 1B2,Canada,Other - Public Services,1938,Sq. Ft.
+TPS Multi-Function Station #1,34999144,1300 WILSON AVE,North York,Ontario,M3M 1H5,Canada,Other - Public Services,29503,Sq. Ft.
+TPS Station #10,34999145,2015 Lawrence Ave.W.,Toronto,Ontario,M9N 3V5,Canada,Other - Public Services,5005,Sq. Ft.
+Ancaster Community Centre,34999190,41 ANCASTER RD,North York,Ontario,M3K 1S7,Canada,Community Center and Social Meeting Hall,7513,Sq. Ft.
+Armour Heights Community Centre,34999191,2140 AVENUE RD,Toronto,Ontario,M5M 4M7,Canada,Community Center and Social Meeting Hall,19773,Sq. Ft.
+St Clair Comm Tower,34999188,301 ST CLAIR AVE W,Toronto,Ontario,M5P 1N3,Canada,Other - Public Services,1,Sq. Ft.
+Amesbury Community Centre,34999189,1507 LAWRENCE AVE W,North York,Ontario,M6L 1A8,Canada,Community Center and Social Meeting Hall,37975,Sq. Ft.
+Roselawn Comm Tower,34999187,410 ROSELAWN AVE,Toronto,Ontario,M5N 1J8,Canada,Other - Public Services,1,Sq. Ft.
+Thomas Berry Early Learning & Child Care Centre,34999184,3495 LAKE SHORE BLVD W,Etobicoke,Ontario,M8W 1N5,Canada,Pre-school/Daycare,9117,Sq. Ft.
+Willowridge Early Learning & Child Care Centre,34999185,30 EARLDOWN DR,Etobicoke,Ontario,M9R 2L3,Canada,Pre-school/Daycare,4844,Sq. Ft.
+Cedarbrook Community Centre,34999198,91 EASTPARK BLVD,Scarborough,Ontario,M1H 1C6,Canada,Community Center and Social Meeting Hall,14951,Sq. Ft.
+Church Isabella Resident Coop,34999199,56 WELLESLEY ST E,Toronto,Ontario,M4Y 1G2,Canada,Community Center and Social Meeting Hall,19106,Sq. Ft.
+Burrows Hall Community Centre,34999196,1081 PROGRESS AVE,Scarborough,Ontario,M1B 5Z6,Canada,Community Center and Social Meeting Hall,43185,Sq. Ft.
+Carmine Stefano Community Centre,34999197,3100 WESTON RD,North York,Ontario,M9M 2Z9,Canada,Community Center and Social Meeting Hall,57867,Sq. Ft.
+Berner Trail Community Centre,34999194,120 BERNER TRL,Scarborough,Ontario,M1B 1B3,Canada,Community Center and Social Meeting Hall,10204,Sq. Ft.
+Birkdale Community Centre,34999195,1299 ELLESMERE RD,Scarborough,Ontario,M1P 2Y2,Canada,Community Center and Social Meeting Hall,11733,Sq. Ft.
+Banbury Community Centre,34999192,120 BANBURY RD,North York,Ontario,M3B 2L3,Canada,Community Center and Social Meeting Hall,9537,Sq. Ft.
+Bennington Heights Park,34999193,76 BENNINGTON HEIGHTS DR,East York,Ontario,M4G 1B1,Canada,Community Center and Social Meeting Hall,1432,Sq. Ft.
+West Animal Centre,34999174,146 THE EAST MALL,Etobicoke,Ontario,M8Z 5V5,Canada,Other - Public Services,6588,Sq. Ft.
+Albion Road Early Learning & Child Care Centre,34999175,1545 ALBION RD,Etobicoke,Ontario,M9V 1B2,Canada,Pre-school/Daycare,5543,Sq. Ft.
+East Animal Centre,34999172,821 PROGRESS AVE,Scarborough,Ontario,M1H 2X4,Canada,Other - Public Services,12831,Sq. Ft.
+North Animal Centre,34999173,1300 SHEPPARD AVE W,North York,Ontario,M3K 2A6,Canada,Other - Public Services,13218,Sq. Ft.
+TPS Station #54,34999170,4135 BATHURST ST,North York,Ontario,M3H 3P5,Canada,Other - Public Services,5790,Sq. Ft.
+TPS Station #9,34999171,866 RICHMOND ST W,Toronto,Ontario,M6J 1C9,Canada,Other - Public Services,1658,Sq. Ft.
+TPS Station #46,34999168,105 CEDARVALE AVE,Toronto,Ontario,M4C 4J9,Canada,Other - Public Services,1572,Sq. Ft.
+TPS Station #47,34999169,3600 ST CLAIR AVE E,Scarborough,Ontario,M1K 1M2,Canada,Other - Public Services,1787,Sq. Ft.
+Mount Dennis Early Learning & Child Care Centre,34999182,1296 WESTON RD,Toronto,Ontario,M6M 4R3,Canada,Pre-school/Daycare,7350,Sq. Ft.
+Regent Park Early Learning & Child Care Centre,34999183,40 REGENT ST,Toronto,Ontario,M5A 3N7,Canada,Pre-school/Daycare,15963,Sq. Ft.
+Kingston Rd Early Learning & Child Care Centre,34999180,3392 KINGSTON RD,Scarborough,Ontario,M1M 3W5,Canada,Pre-school/Daycare,5500,Sq. Ft.
+Malvern Early Learning & Child Care Centre,34999181,1321 NEILSON RD,Scarborough,Ontario,M1B 3C2,Canada,Pre-school/Daycare,6501,Sq. Ft.
+Danforth Early Learning & Child Care Centre,34999178,1125 DANFORTH AVE,Toronto,Ontario,M4J 1M5,Canada,Pre-school/Daycare,6351,Sq. Ft.
+Jesse Ketchum Early Learning & Child Care Centre,34999179,7 BERRYMAN ST,Toronto,Ontario,M5R 1M7,Canada,Pre-school/Daycare,11550,Sq. Ft.
+Ancaster Early Learning & Child Care Centre,34999176,45 ANCASTER RD,North York,Ontario,M3K 1S7,Canada,Pre-school/Daycare,7018,Sq. Ft.
+City Kids Early Learning & Child Care Centre,34999177,34 BATHURST ST,Toronto,Ontario,M5V 3W3,Canada,Pre-school/Daycare,8460,Sq. Ft.
+High Park Nature Centre,34999222,438 Parkside Dr.,Toronto,Ontario,M6P 2S3,Canada,Community Center and Social Meeting Hall,2465,Sq. Ft.
+High Park Training Centre,34999223,142 Colborne Lodge Dr.,Toronto,Ontario,M6R 2Z3,Canada,Community Center and Social Meeting Hall,2874,Sq. Ft.
+Harwood Hall,34999220,85 CAYUGA AVE,Toronto,Ontario,M6N 2G4,Canada,Community Center and Social Meeting Hall,4306,Sq. Ft.
+High Park Forest School,34999221,1873 BLOOR ST W,Toronto,Ontario,M6P 3K7,Canada,Community Center and Social Meeting Hall,9181,Sq. Ft.
+Forest Hill Community Centre,34999218,700 EGLINTON AVE W,Toronto,Ontario,M5N 1B9,Canada,Community Center and Social Meeting Hall,32841,Sq. Ft.
+Franklin Horner Community Centre,34999219,432 HORNER AVE,Etobicoke,Ontario,M8W 2B2,Canada,Community Center and Social Meeting Hall,39500,Sq. Ft.
+Falstaff Community Centre,34999216,20 FALSTAFF AVE,North York,Ontario,M6L 2C8,Canada,Community Center and Social Meeting Hall,13853,Sq. Ft.
+Flemingdon Community Centre,34999217,150 GRENOBLE DR,North York,Ontario,M3C 1E3,Canada,Community Center and Social Meeting Hall,10000,Sq. Ft.
+Lawrence Heights Community Centre,34999230,5 REPLIN RD,North York,Ontario,M6A 2M8,Canada,Community Center and Social Meeting Hall,22152,Sq. Ft.
+Malvern Recreation Centre,34999231,30 SEWELLS RD,Scarborough,Ontario,M1B 3G5,Canada,Community Center and Social Meeting Hall,106466,Sq. Ft.
+L'Amoreaux Community Recreation Centre,34999228,2000 MCNICOLL AVE,Scarborough,Ontario,M1V 5E9,Canada,Community Center and Social Meeting Hall,25995,Sq. Ft.
+Lamp Community Health Centre,34999229,185 FIFTH ST,Etobicoke,Ontario,M8V 2Z5,Canada,Community Center and Social Meeting Hall,26318,Sq. Ft.
+Jenner Jean-Marie Community Centre,34999226,48 THORNCLIFFE PARK DR,East York,Ontario,M4H 1J7,Canada,Community Center and Social Meeting Hall,13207,Sq. Ft.
+June Rowlands Park,34999227,220 DAVISVILLE AVE,Toronto,Ontario,M4S 1G8,Canada,Community Center and Social Meeting Hall,2777,Sq. Ft.
+Horner Avenue Seniors Centre,34999224,320 HORNER AVE,Etobicoke,Ontario,M8W 1Z3,Canada,Community Center and Social Meeting Hall,4252,Sq. Ft.
+Islington Seniors Centre,34999225,4968 DUNDAS ST W,Etobicoke,Ontario,M9A 1B7,Canada,Community Center and Social Meeting Hall,9967,Sq. Ft.
+Earl Bales Community Centre,34999206,4169 BATHURST ST,North York,Ontario,M3H 3P7,Canada,Community Center and Social Meeting Hall,21657,Sq. Ft.
+East Scarborough Boys/Girls Club,34999207,100 GALLOWAY RD,Scarborough,Ontario,M1E 1W7,Canada,Community Center and Social Meeting Hall,13972,Sq. Ft.
+Driftwood Community Recreation Centre,34999205,4401 JANE ST,North York,Ontario,M3N 2K3,Canada,Community Center and Social Meeting Hall,25015,Sq. Ft.
+David Appleton Community Centre,34999202,33 PRITCHARD AVE,Toronto,Ontario,M6N 1T4,Canada,Community Center and Social Meeting Hall,2906,Sq. Ft.
+Domenico Di Luca Community Recreation Centre,34999203,25 STANLEY RD,North York,Ontario,M3N 1C2,Canada,Community Center and Social Meeting Hall,12895,Sq. Ft.
+Curran Hall Community Centre,34999200,277 ORTON PARK RD,Scarborough,Ontario,M1G 3T4,Canada,Community Center and Social Meeting Hall,2508,Sq. Ft.
+Davenport 1347,34999201,1347 DAVENPORT RD,Toronto,Ontario,M6H 2H5,Canada,Community Center and Social Meeting Hall,2282,Sq. Ft.
+Fairbank Memorial Community Centre,34999214,2213 DUFFERIN ST,Toronto,Ontario,M6E 3S2,Canada,Community Center and Social Meeting Hall,19364,Sq. Ft.
+Fairfield Senior Centre,34999215,80 LOTHIAN AVE,Etobicoke,Ontario,M8Z 4K5,Canada,Community Center and Social Meeting Hall,14316,Sq. Ft.
+Ellesmere Community Centre,34999212,20 CANADIAN RD,Scarborough,Ontario,M1R 4B4,Canada,Community Center and Social Meeting Hall,24402,Sq. Ft.
+Elmbank Community Centre,34999213,10 RAMPART RD,Etobicoke,Ontario,M9V 4L9,Canada,Community Center and Social Meeting Hall,14725,Sq. Ft.
+Edgehill House,34999210,61 EDGEHILL RD,Etobicoke,Ontario,M9A 4N1,Canada,Community Center and Social Meeting Hall,4844,Sq. Ft.
+Edithvale Community Centre,34999211,121 FINCH AVE W,North York,Ontario,M2N 2R4,Canada,Community Center and Social Meeting Hall,24725,Sq. Ft.
+Eastview Neighbourhood C.C.,34999208,86 BLAKE ST,Toronto,Ontario,M4J 3C9,Canada,Community Center and Social Meeting Hall,25510,Sq. Ft.
+Edgehill Centre,34999209,235 Edenbridge Dr.,Etobicoke,Ontario,M9A 3G9,Canada,Community Center and Social Meeting Hall,4133,Sq. Ft.
+Sir Adam Beck C.C.,34999254,525 HORNER AVE,Etobicoke,Ontario,M8W 2B9,Canada,Community Center and Social Meeting Hall,7341,Sq. Ft.
+Stan Wadlow Clubhouse,34999255,373 CEDARVALE AVE,Toronto,Ontario,M4C 4K7,Canada,Community Center and Social Meeting Hall,10323,Sq. Ft.
+Scott Westney House,34999252,180 MCLEVIN AVE,Scarborough,Ontario,M1B 2V5,Canada,Community Center and Social Meeting Hall,3046,Sq. Ft.
+Seneca Village Community Centre,34999253,1700 FINCH AVE E,North York,Ontario,M2J 4X8,Canada,Community Center and Social Meeting Hall,9408,Sq. Ft.
+Regent Park Community Centre,34999250,402 SHUTER ST,Toronto,Ontario,M5A 1X6,Canada,Community Center and Social Meeting Hall,55004,Sq. Ft.
+S.H. Armstrong Community Centre,34999251,60 WOODFIELD RD,Toronto,Ontario,M4L 2W6,Canada,Community Center and Social Meeting Hall,18277,Sq. Ft.
+Power House Recreation Centre,34999248,65 Colonel Samuel Smith,Etobicoke,Ontario,M8V 4B6,Canada,Community Center and Social Meeting Hall,5737,Sq. Ft.
+Regent Park,34999249,417 GERRARD ST E,Toronto,Ontario,M5A 2H4,Canada,Community Center and Social Meeting Hall,6168,Sq. Ft.
+Waterfront Neighbourhood Centre,34999262,627 QUEENS QUAY W,Toronto,Ontario,M5V 3G3,Canada,Community Center and Social Meeting Hall,123214,Sq. Ft.
+Wellesley Community Centre,34999263,495 SHERBOURNE ST,Toronto,Ontario,M4X 1K7,Canada,Community Center and Social Meeting Hall,41904,Sq. Ft.
+Warden Hilltop Community Centre,34999260,25 MENDELSSOHN ST,Scarborough,Ontario,M1L 0G6,Canada,Community Center and Social Meeting Hall,25995,Sq. Ft.
+Wards Island Buildings,34999261,0 Wards Isld,Toronto,Ontario,M5J 2C2,Canada,Community Center and Social Meeting Hall,2,Sq. Ft.
+Thistletown Community Centre,34999258,925 ALBION RD,Etobicoke,Ontario,M9V 1A6,Canada,Community Center and Social Meeting Hall,44810,Sq. Ft.
+Trace Manes Park Clubhouse,34999259,110 RUMSEY RD,East York,Ontario,M4G 1P2,Canada,Community Center and Social Meeting Hall,6329,Sq. Ft.
+Sunshine Center for Seniors,34999256,446 LAKESHORE AVE,Toronto,Ontario,M5J 2H3,Canada,Community Center and Social Meeting Hall,2250,Sq. Ft.
+Tall Pines Community Centre,34999257,64 RYLANDER BLVD,East York,Ontario,M4B 1V4,Canada,Community Center and Social Meeting Hall,5188,Sq. Ft.
+Niagara C.C,34999238,700 WELLINGTON ST W,Toronto,Ontario,M5V 1G7,Canada,Community Center and Social Meeting Hall,5296,Sq. Ft.
+North York Memorial Hall,34999239,5110 YONGE ST,North York,Ontario,M2N 5N9,Canada,Community Center and Social Meeting Hall,10473,Sq. Ft.
+Mount Dennis Community Centre,34999236,4 HOLLIS ST,Toronto,Ontario,M6M 4M9,Canada,Community Center and Social Meeting Hall,3003,Sq. Ft.
+New Toronto Seniors Club,34999237,105 FOURTH ST,Etobicoke,Ontario,M8V 2Y4,Canada,Community Center and Social Meeting Hall,3025,Sq. Ft.
+Masaryk-Cowan Community Recreation Centre,34999234,212 COWAN AVE,Toronto,Ontario,M6K 2N6,Canada,Community Center and Social Meeting Hall,32270,Sq. Ft.
+Milliken Park Recreation Centre,34999235,4325 MCCOWAN RD,Scarborough,Ontario,M1V 4P1,Canada,Community Center and Social Meeting Hall,17631,Sq. Ft.
+Maple Leaf Cottage,34999232,62 LAING ST,Toronto,Ontario,M4L 2N2,Canada,Community Center and Social Meeting Hall,2842,Sq. Ft.
+Markdale Preschool,34999233,41 MARKDALE AVE,Toronto,Ontario,M6C 1T4,Canada,Community Center and Social Meeting Hall,1829,Sq. Ft.
+Pelmo Park,34999246,171 PELLATT AVE,Toronto,Ontario,M9N 2P5,Canada,Community Center and Social Meeting Hall,2573,Sq. Ft.
+Port Union Community Recreation Centre,34999247,5450 LAWRENCE AVE E,Scarborough,Ontario,M1C 3B2,Canada,Community Center and Social Meeting Hall,19978,Sq. Ft.
+Oakridge Seniors Bocce Club,34999244,6 THORA AVE,Scarborough,Ontario,M1L 2P8,Canada,Community Center and Social Meeting Hall,4004,Sq. Ft.
+Ourland Community Centre,34999245,18 OURLAND AVE,Etobicoke,Ontario,M8Z 4C9,Canada,Community Center and Social Meeting Hall,9451,Sq. Ft.
+Oakdale Community Centre,34999242,350 GRANDRAVINE DR,North York,Ontario,M3N 1J4,Canada,Community Center and Social Meeting Hall,10000,Sq. Ft.
+Oakridge Community Centre,34999243,63 PHARMACY AVE,Scarborough,Ontario,M1L 4S9,Canada,Community Center and Social Meeting Hall,18600,Sq. Ft.
+Northwood Community Centre,34999240,15 CLUBHOUSE CRT,North York,Ontario,M3L 2L7,Canada,Community Center and Social Meeting Hall,36167,Sq. Ft.
+O'Connor Community Centre,34999241,1386 VICTORIA PARK AVE,North York,Ontario,M4A 2L8,Canada,Community Center and Social Meeting Hall,16254,Sq. Ft.
+St Lawrence Market South,34999286,91 FRONT ST E,Toronto,Ontario,M5E 1C4,Canada,Other - Entertainment/Public Assembly,99114,Sq. Ft.
+Temp - St Lawrence Market North,34999287,125 THE ESPLANADE,Toronto,Ontario,M5E 1C3,Canada,Other - Entertainment/Public Assembly,11711,Sq. Ft.
+Spadina House Museum,34999284,285 SPADINA RD,Toronto,Ontario,M5R 2V5,Canada,Other - Entertainment/Public Assembly,27588,Sq. Ft.
+Spadina Marina Museum,34999285,537 QUEENS QUAY W,Toronto,Ontario,M5V 3G3,Canada,Other - Entertainment/Public Assembly,17922,Sq. Ft.
+Riverdale Farm,34999282,201 WINCHESTER ST,Toronto,Ontario,M4X 1B8,Canada,Other - Entertainment/Public Assembly,23713,Sq. Ft.
+Roundhouse Complex,34999283,255 BREMNER BLVD,Toronto,Ontario,M5V 3M9,Canada,Other - Entertainment/Public Assembly,94001,Sq. Ft.
+Montgomery's Inn,34999280, DUNDAS ST W,Etobicoke,Ontario,M9A 1A8,Canada,Other - Entertainment/Public Assembly,7642,Sq. Ft.
+Neilson Park Creative Centre,34999281,56 NEILSON DR,Etobicoke,Ontario,M9C 1V7,Canada,Other - Entertainment/Public Assembly,12346,Sq. Ft.
+0 Lake Shore Blvd W,34999294,2 STRACHAN AVE,Toronto,Ontario,M6K 1W7,Canada,Other - Public Services,431,Sq. Ft.
+City Hall Eternal Flame,34999295,100 QUEEN ST W,Toronto,Ontario,M5H 2N1,Canada,Other - Public Services,1,Sq. Ft.
+Zion School House,34999293,1091 FINCH AVE E,North York,Ontario,M2J 2X3,Canada,Other - Entertainment/Public Assembly,1582,Sq. Ft.
+Toronto Botanical Gardens,34999290,777 LAWRENCE AVE E,North York,Ontario,M3C 1P2,Canada,Other - Entertainment/Public Assembly,36953,Sq. Ft.
+William Goodwin House,34999291,355 LESMILL RD,North York,Ontario,M3B 2W8,Canada,Other - Entertainment/Public Assembly,1744,Sq. Ft.
+Time and Clock Monument,34999288,0 Queen St E Unit Bridge,Toronto,Ontario,M5A 4C2,Canada,Other - Entertainment/Public Assembly,1,Sq. Ft.
+Todmorden Mills,34999289,67 POTTERY RD,Toronto,Ontario,M4K 2B8,Canada,Other - Entertainment/Public Assembly,17707,Sq. Ft.
+Colborne Lodge,34999270,11 COLBORNE LODGE DR,Toronto,Ontario,M6P 3K7,Canada,Other - Entertainment/Public Assembly,7050,Sq. Ft.
+Dawes Crossing,34999271,1052 Victoria Park,East York,Ontario,M4B 2K1,Canada,Other - Entertainment/Public Assembly,1,Sq. Ft.
+Campbell House,34999268,3620 KINGSTON RD,Scarborough,Ontario,M1M 1R9,Canada,Other - Entertainment/Public Assembly,3595,Sq. Ft.
+Cedar Ridge Creative Centre,34999269,225 CONFEDERATION DR,Scarborough,Ontario,M1G 1B2,Canada,Other - Entertainment/Public Assembly,13110,Sq. Ft.
+West Scarborough N.C,34999266,313 PHARMACY AVE,Scarborough,Ontario,M1L 3E7,Canada,Community Center and Social Meeting Hall,25198,Sq. Ft.
+Willowdale Lawn Bowling Club,34999267,150 BEECROFT RD,North York,Ontario,M2N 5Z5,Canada,Community Center and Social Meeting Hall,2293,Sq. Ft.
+West Rouge Community Centre,34999265,270 ROUGE HILLS DR,Scarborough,Ontario,M1C 2Z1,Canada,Community Center and Social Meeting Hall,24402,Sq. Ft.
+Lakeshore Assembly Hall,34999278,1 Colonel Samuel Smith Park Dr,Etobicoke,Ontario,M8V 4B6,Canada,Other - Entertainment/Public Assembly,14596,Sq. Ft.
+Mackenzie House Museum,34999279,82 BOND ST,Toronto,Ontario,M5B 1X2,Canada,Other - Entertainment/Public Assembly,2573,Sq. Ft.
+Gzowski Monument,34999276,2001 LAKE SHORE BLVD W,Toronto,Ontario,M6S 5A3,Canada,Other - Entertainment/Public Assembly,1,Sq. Ft.
+Historic Fort York,34999277,100 GARRISON RD,Toronto,Ontario,M5V 3K9,Canada,Other - Entertainment/Public Assembly,22819,Sq. Ft.
+Fort York Visitor Centre,34999274,660 FLEET ST,Toronto,Ontario,M5V 1A9,Canada,Other - Entertainment/Public Assembly,123946,Sq. Ft.
+Gibson House Museum,34999275,5172 YONGE ST,North York,Ontario,M2N 5P6,Canada,Other - Entertainment/Public Assembly,8364,Sq. Ft.
+Edenbridge Centre,34999272,235 EDENBRIDGE DR,Etobicoke,Ontario,M9A 3G9,Canada,Other - Entertainment/Public Assembly,5013,Sq. Ft.
+Edwards Gardens,34999273,755 LAWRENCE AVE E,North York,Ontario,M3C 1P2,Canada,Other - Entertainment/Public Assembly,10021,Sq. Ft.
+One Yonge Community Centre,37103860,24 Freeland St,Toronto,Ontario,M5E 1L7,Canada,Other - Recreation,51000,Sq. Ft.
+St. Lawrence Market North [NEW],60569792,92 Front St E.,Toronto,Ontario,M5E 1C4,Canada,Mixed Use Property,21203,Sq. Ft.
+Ethennonnhawahstihnen’ CRC & Library,37103960,100 Ethennonnhawahstihnen' Ln,North York,Ontario,M2K 1H8,Canada,Other - Recreation,218400,Sq. Ft.
+Kew Gardens Outdoor Rink,34999830,2075 QUEEN ST E,Toronto,Ontario,M4L 1J1,Canada,Other - Public Services,196,Sq. Ft.
+Kew Gardens Park,34999831,77 KEWBEACH AVE,Toronto,Ontario,M4L 1B8,Canada,Other - Public Services,197,Sq. Ft.
+Kenaston Gardens,34999828,12 KENASTON GDNS,North York,Ontario,M2K 1G8,Canada,Other - Public Services,195,Sq. Ft.
+Kenaston Park,34999829,573 SHEPPARD AVE E,North York,Ontario,M2K 1B3,Canada,Other - Public Services,1,Sq. Ft.
+Keelesdale Park,34999826,2801 EGLINTON AVE W,York,Ontario,M6M 5B4,Canada,Other - Public Services,198,Sq. Ft.
+Kempton Howard Park,34999827,150 Blake St.,Toronto,Ontario,M4J 3C9,Canada,Other - Public Services,1,Sq. Ft.
+June Callwood Park,34999824,636 FLEET ST,Toronto,Ontario,M5V 1A9,Canada,Other - Public Services,193,Sq. Ft.
+Keele C.C,34999825,181 GLENLAKE AVE,Toronto,Ontario,M6P 4B6,Canada,Other - Public Services,194,Sq. Ft.
+Knob Hill Public School,34999838,625 BRIMLEY RD,Scarborough,Ontario,M1J 1B7,Canada,Other - Public Services,199,Sq. Ft.
+L'Amoreaux Sports Centre,34999839,300 SILVER SPRINGS BLVD,Scarborough,Ontario,M1V 1S4,Canada,Other - Public Services,205,Sq. Ft.
+Kirkwood Park,34999836,25 KIRKWOOD RD,North York,Ontario,M2L 2X7,Canada,Other - Public Services,202,Sq. Ft.
+Kiwanis Outdoor Pool,34999837,375 CEDARVALE AVE,Toronto,Ontario,M4C 4K7,Canada,Other - Public Services,201,Sq. Ft.
+Kinsdale Park,34999834,3 KINSDALE BLVD,Toronto,Ontario,M5V 3C6,Canada,Other - Public Services,1,Sq. Ft.
+Kirkdene Park,34999835,100 KIRKDENE DR,Scarborough,Ontario,M1C 2N7,Canada,Other - Public Services,1,Sq. Ft.
+Kilgour Parkette,34999832,2045 Bayview Ave.,Toronto,Ontario,M4N 3M5,Canada,Other - Public Services,1,Sq. Ft.
+Kings Mill Park,34999833,2595 Bloor St W,Toronto,Ontario,M6S 1S2,Canada,Other - Public Services,1,Sq. Ft.
+James Gardens,34999814,61 EDGEHILL RD,Etobicoke,Ontario,M9A 4N1,Canada,Other - Public Services,189,Sq. Ft.
+Jean Augustine Park,34999815,2113 LAKE SHORE BLVD W,Etobicoke,Ontario,M8V 4B2,Canada,Other - Public Services,1,Sq. Ft.
+Jack Layton Ferry Terminal,34999812,9 QUEENS QUAY W,Toronto,Ontario,M5J 1A6,Canada,Other - Public Services,231,Sq. Ft.
+James Canning Gardens,34999813,15 Gloucester St,Toronto,Ontario,M4Y 1L8,Canada,Other - Public Services,1,Sq. Ft.
+Jack Evelyn Wiggins Park,34999810,18 Applebaum Terrace,North York,Ontario,M3J 0E7,Canada,Other - Public Services,1,Sq. Ft.
+Jack Goodlad Park,34999811,929 KENNEDY RD,Scarborough,Ontario,M1K 2E8,Canada,Other - Public Services,190,Sq. Ft.
+Iroquois Park,34999808,295 CHARTLAND BLVD S,Scarborough,Ontario,M1S 2S6,Canada,Other - Public Services,186,Sq. Ft.
+Ivan Forrest Gardens,34999809,131 GLEN MANOR DR,Toronto,Ontario,M4E 3V3,Canada,Other - Public Services,185,Sq. Ft.
+Joseph Sheard Parkette,34999822,11 GRANBY ST,Toronto,Ontario,M5B 1H8,Canada,Other - Public Services,192,Sq. Ft.
+Joseph Tough Park,34999823,246 Davenport Rd,Toronto,Ontario,M5R 1J6,Canada,Other - Public Services,1,Sq. Ft.
+Jonathan Ashbridge Park,34999820,1515 QUEEN ST E,Toronto,Ontario,M4L 1E3,Canada,Other - Public Services,947,Sq. Ft.
+Joseph Bannon Park,34999821,65 Mary Chapman Blvd,Etobicoke,Ontario,M9C 2Y2,Canada,Other - Public Services,1,Sq. Ft.
+Jimmie Simpson Park,34999818,872 Queen St. E,Toronto,Ontario,M4M 1H9,Canada,Other - Public Services,1,Sq. Ft.
+John Tabor Park,34999819,240 JOHN TABOR TRL,Scarborough,Ontario,M1B 2R4,Canada,Other - Public Services,191,Sq. Ft.
+Jean Sibelius Square,34999816,50 KENDAL AVE,Toronto,Ontario,M5R 1L8,Canada,Other - Public Services,53,Sq. Ft.
+Jeff Healey Park,34999817,1 DELROY DR,Etobicoke,Ontario,M8Y 3E7,Canada,Other - Public Services,1,Sq. Ft.
+Long Branch Park,34999862,245 LAKE PROMENADE,Etobicoke,Ontario,M8W 1A6,Canada,Other - Public Services,1,Sq. Ft.
+Lora Hill Park,34999863,36 FERNALROY BLVD,Etobicoke,Ontario,M8Z 3V8,Canada,Other - Public Services,1,Sq. Ft.
+Logan Ave Parkette,34999861,15 ARUNDEL AVE,Toronto,Ontario,M4K 3A1,Canada,Other - Public Services,215,Sq. Ft.
+Lithuania Park,34999858,155 OAKMOUNT RD,Toronto,Ontario,M6P 2M9,Canada,Other - Public Services,212,Sq. Ft.
+Little Norway Park,34999859,659 QUEENS QUAY W,Toronto,Ontario,M5V 3N2,Canada,Other - Public Services,214,Sq. Ft.
+Lillian Park,34999856,227 OTONABEE AVE,North York,Ontario,M2M 2S9,Canada,Other - Public Services,213,Sq. Ft.
+Lisgar Park,34999857,90 LISGAR ST,Toronto,Ontario,M6J 3G2,Canada,Other - Public Services,211,Sq. Ft.
+Maple Leaf Park,34999870,320 CULFORD RD,North York,Ontario,M6L 2V6,Canada,Other - Public Services,224,Sq. Ft.
+Margaret Fairley Park,34999871,100 BRUNSWICK AVE,Toronto,Ontario,M5S 2L8,Canada,Other - Public Services,1,Sq. Ft.
+Malta Park,34999868,3179 DUNDAS ST W,Toronto,Ontario,M6P 2A2,Canada,Other - Public Services,223,Sq. Ft.
+Manchester Park,34999869,75 MANCHESTER ST,Etobicoke,Ontario,M8V 3V7,Canada,Other - Public Services,1,Sq. Ft.
+Maberley Parkette,34999866,76 MABERLEY CRES,Scarborough,Ontario,M1C 3K8,Canada,Other - Public Services,1,Sq. Ft.
+MacGregor Playground,34999867,2 ST HELENS AVE,Toronto,Ontario,M6H 4A1,Canada,Other - Public Services,233,Sq. Ft.
+Love Crescent Parkette,34999864,16 LOVE CRES,Toronto,Ontario,M4E 1V6,Canada,Other - Public Services,1,Sq. Ft.
+Lytton Park,34999865,195 LYTTON BLVD,Toronto,Ontario,M4R 1L6,Canada,Other - Public Services,222,Sq. Ft.
+Lanyard Park,34999846,138 LANYARD RD,North York,Ontario,M9M 1Y9,Canada,Other - Public Services,221,Sq. Ft.
+Larry Sefton Park,34999847,500 Bay St.,Toronto,Ontario,M5G 1P4,Canada,Other - Public Services,1,Sq. Ft.
+Lambton Kingsway Pool/Rink,34999844,37 MARQUIS AVE,Etobicoke,Ontario,M8X 1V3,Canada,Other - Public Services,207,Sq. Ft.
+Langford Parkette,34999845,13 WOODYCREST AVE,Toronto,Ontario,M4J 3A5,Canada,Other - Public Services,209,Sq. Ft.
+Laburnham Park,34999842,23 Evergreen Ave.,Etobicoke,Ontario,M8W 3A3,Canada,Other - Public Services,1,Sq. Ft.
+Lake Front Boathouse,34999843,2 SILVER BIRCH AVE,Toronto,Ontario,M5J 1Y2,Canada,Other - Public Services,208,Sq. Ft.
+L'Amoreux Fieldhouse,34999840,3059 BIRCHMOUNT RD,Scarborough,Ontario,M1W 2S4,Canada,Other - Public Services,203,Sq. Ft.
+La Rose Park,34999841,65 LA ROSE AVE,Etobicoke,Ontario,M9P 1A6,Canada,Other - Public Services,204,Sq. Ft.
+Leslie Grove Park,34999854,1158 QUEEN ST E,Toronto,Ontario,M4M 1L3,Canada,Other - Public Services,210,Sq. Ft.
+Liberty Village Park,34999855,70 EAST LIBERTY ST,Toronto,Ontario,M6K 3R7,Canada,Other - Public Services,1,Sq. Ft.
+Lee Lifeson Art Park,34999852,223 Gladys Allison Pl,North York,Ontario,M2N 3R6,Canada,Other - Public Services,1,Sq. Ft.
+Leonard Linton Park,34999853,60 RESEARCH RD,East York,Ontario,M4G 2G8,Canada,Other - Public Services,1,Sq. Ft.
+Leaside Lawn Bowling Club,34999850,194 HANNA RD,East York,Ontario,M4G 3N8,Canada,Other - Public Services,218,Sq. Ft.
+Leaside Park Pool,34999851,5 LEASIDE PARK DR,East York,Ontario,M4H 1R3,Canada,Other - Public Services,219,Sq. Ft.
+Lawren Harris Park,34999848,160 ROSEDALE VALLEY RD,Toronto,Ontario,M4W 1P7,Canada,Other - Public Services,184,Sq. Ft.
+Lawren Harris Square,34999849,150 Bayview Avenue,Toronto,Ontario,M5A 1H7,Canada,Other - Public Services,206,Sq. Ft.
+Monarch Park,34999894,115 FELSTEAD AVE,Toronto,Ontario,M4J 1G4,Canada,Other - Public Services,239,Sq. Ft.
+Monarch Park Pool,34999895,115 FELSTEAD AVE,Toronto,Ontario,M4J 1G4,Canada,Other - Public Services,242,Sq. Ft.
+Mimico Memorial Park,34999892,29 GEORGE ST,Etobicoke,Ontario,M8V 2S1,Canada,Other - Public Services,1,Sq. Ft.
+Moatfield Farm Park,34999893,360 LESMILL RD,North York,Ontario,M3B 2T5,Canada,Other - Public Services,230,Sq. Ft.
+Millwood Park,34999890,4350 Bloor St,Etobicoke,Ontario,M9C 1Y2,Canada,Other - Public Services,235,Sq. Ft.
+Milner Parkette,34999891,675 Church St.,Toronto,Ontario,M4W 1J8,Canada,Other - Public Services,1,Sq. Ft.
+Metro Square Eternal Flame,34999888,200 Wellington St W,Toronto,Ontario,M5V 3C7,Canada,Other - Public Services,243,Sq. Ft.
+Michael Power Park,34999889,5055 Dundas St. W,Etobicoke,Ontario,M9A 1B9,Canada,Other - Public Services,1,Sq. Ft.
+Muirhead Park,34999902,65 MUIRHEAD RD,North York,Ontario,M2J 3W4,Canada,Other - Public Services,246,Sq. Ft.
+Murison Park,34999903,99 MURISON BLVD,Scarborough,Ontario,M1B 2L6,Canada,Other - Public Services,15,Sq. Ft.
+Morse St Playground,34999900,76 MORSE ST,Toronto,Ontario,M4M 2P6,Canada,Other - Public Services,245,Sq. Ft.
+Mt Pleasant Parkette,34999901,441 MOUNT PLEASANT RD,Toronto,Ontario,M4S 2L8,Canada,Other - Public Services,241,Sq. Ft.
+Moorevale Park,34999898,175 MOORE AVE,Toronto,Ontario,M4T 1V8,Canada,Other - Public Services,240,Sq. Ft.
+Morningside Park,34999899,360 MORNINGSIDE AVE,Scarborough,Ontario,M1E 3G3,Canada,Other - Public Services,244,Sq. Ft.
+Moncur Park,34999896,10 GAINSBOROUGH RD,Toronto,Ontario,M4L 3C2,Canada,Other - Public Services,258,Sq. Ft.
+Montclair Ave Parkette,34999897,48 MONTCLAIR AVE,Toronto,Ontario,M5P 2W1,Canada,Other - Public Services,1,Sq. Ft.
+Maryland Park Tennis Clubhouse,34999878,19 Maryland Blvd,Toronto,Ontario,M4C 1R2,Canada,Other - Public Services,1,Sq. Ft.
+Maryvale Park,34999879,1325 PHARMACY AVE,Scarborough,Ontario,M1R 2J1,Canada,Other - Public Services,226,Sq. Ft.
+Martin Grove House / Bungalow,34999876,412 MARTIN GROVE RD,Etobicoke,Ontario,M9B 4L9,Canada,Other - Public Services,232,Sq. Ft.
+Martingrove Gardens Park,34999877,31 LAVINGTON DR,Etobicoke,Ontario,M9R 2H1,Canada,Other - Public Services,1,Sq. Ft.
+Marie Curtis Park,34999874,2 Forty-Second St,Etobicoke,Ontario,M8W 3P2,Canada,Other - Public Services,228,Sq. Ft.
+Maria Street Parkette,34999872,240 Maria St.,Toronto,Ontario,M6P 1W4,Canada,Other - Public Services,1,Sq. Ft.
+Marian Engel Park,34999873,285 Melita Ave.,Toronto,Ontario,M6G 3X3,Canada,Other - Public Services,1,Sq. Ft.
+Memorial Park,34999886,340 CHAPLIN CRES,Toronto,Ontario,M5N 2N3,Canada,Other - Public Services,238,Sq. Ft.
+Metered Park Lighting,34999887,Metered Park Lighting,Toronto,Ontario,M5V 3C6,Canada,Other - Public Services,1,Sq. Ft.
+McNicoll Park,34999884,215 MCNICOLL AVE,North York,Ontario,M2H 2C6,Canada,Other - Public Services,227,Sq. Ft.
+Mel Lastman Square,34999885,5100 YONGE ST,North York,Ontario,M2N 5V7,Canada,Other - Public Services,237,Sq. Ft.
+McCleary Park,34999882,755 LAKE SHORE BLVD E,Toronto,Ontario,M4M 1A9,Canada,Other - Public Services,229,Sq. Ft.
+McCowan District Park,34999883,150 McCOWAN RD,Scarborough,Ontario,M1M 2A4,Canada,Other - Public Services,1,Sq. Ft.
+Matty Eckler Playground,34999880,953 GERRARD ST E,Toronto,Ontario,M4M 1Z4,Canada,Other - Public Services,261,Sq. Ft.
+McAllister Park,34999881,31 McAllister Rd.,North York,Ontario,M3H 2N1,Canada,Other - Public Services,1,Sq. Ft.
+Osler Walkway,34999926,16A Osler St,Toronto,Ontario,M6P 4A2,Canada,Other - Public Services,1,Sq. Ft.
+Otter Creek Centre,34999927,125 CHATSWORTH DR,Toronto,Ontario,M4R 1S1,Canada,Other - Public Services,254,Sq. Ft.
+Oriole Park,34999924,201 ORIOLE PKWY,Toronto,Ontario,M5P 2H1,Canada,Other - Public Services,259,Sq. Ft.
+Osler Playground,34999925,123 ARGYLE ST,Toronto,Ontario,M6J 1N9,Canada,Other - Public Services,260,Sq. Ft.
+Olympic Island Buildings,34999922,0 Olympic Isld,Toronto,Ontario,M5J 2V3,Canada,Other - Public Services,255,Sq. Ft.
+Orchard Park,34999923,1987 Dundas St. E,Toronto,Ontario,M4L 1M7,Canada,Other - Public Services,1,Sq. Ft.
+Old Orchard Park,34999920,465 OLD ORCHARD GRV,Toronto,Ontario,M5M 2G3,Canada,Other - Public Services,1,Sq. Ft.
+Olive Square Park,34999921,5575 YONGE ST,North York,Ontario,M2N 5S4,Canada,Other - Public Services,1,Sq. Ft.
+Perth Avenue Parkette,34999934,160 Perth Ave.,Toronto,Ontario,M6P 3X5,Canada,Other - Public Services,1,Sq. Ft.
+Perth Square Park,34999935,350 PERTH AVE,Toronto,Ontario,M6P 3Y3,Canada,Other - Public Services,266,Sq. Ft.
+Parks Various Locations,34999932,Various Locations,Toronto,Ontario,M5V 3C6,Canada,Other - Public Services,1,Sq. Ft.
+Parkway Forest Park,34999933,59 FOREST MANOR RD,North York,Ontario,M2J 0C2,Canada,Other - Public Services,132,Sq. Ft.
+Pantry Park,34999930,70 KEWBEACH AVE,Toronto,Ontario,M4L 1B8,Canada,Other - Public Services,274,Sq. Ft.
+Parklawn Pool/Rink,34999931,340 PARK LAWN RD,Etobicoke,Ontario,M8Y 3K4,Canada,Other - Public Services,263,Sq. Ft.
+Ourland Pool (outdoor),34999928,36 OURLAND AVE,Etobicoke,Ontario,M8Z 4C9,Canada,Other - Public Services,257,Sq. Ft.
+Page Parkette,34999929,23 Valliere Pl,North York,Ontario,M2K 2E1,Canada,Other - Public Services,1,Sq. Ft.
+North Humber Park,34999910,2851 KIPLING AVE,Etobicoke,Ontario,M9V 5E5,Canada,Other - Public Services,1,Sq. Ft.
+North Toronto Lawn Bowling & Croquet Club,34999911,200 LYTTON BLVD,Toronto,Ontario,M4R 1L4,Canada,Other - Public Services,217,Sq. Ft.
+North Bendale Park,34999908,40 Erinlea Cres.,Scarborough,Ontario,M1H 2P4,Canada,Other - Public Services,1,Sq. Ft.
+North Bridlewood Park,34999909,11 ADENCLIFF RD,Scarborough,Ontario,M1W 1M8,Canada,Other - Public Services,1,Sq. Ft.
+Nightstar Park,34999906,18 NIGHTSTAR RD,Scarborough,Ontario,M1X 1Z8,Canada,Other - Public Services,1,Sq. Ft.
+Norman Jewison Park,34999907,13 ISABELLA ST,Toronto,Ontario,M4Y 1M7,Canada,Other - Public Services,1,Sq. Ft.
+Nathan Phillips Square,34999904,100 QUEEN ST W,Toronto,Ontario,M5H 2N1,Canada,Other - Public Services,62,Sq. Ft.
+Neilson House,34999905,1555 NEILSON RD,Scarborough,Ontario,M1B 5Z7,Canada,Other - Public Services,249,Sq. Ft.
+Oakridge Park,34999918,3459 DANFORTH AVE,Scarborough,Ontario,M1L 1C9,Canada,Other - Public Services,1,Sq. Ft.
+Oates Park,34999919,10 Oates Dr,Scarborough,Ontario,M1L 0A9,Canada,Other - Public Services,253,Sq. Ft.
+Oakcrest Parkette,34999916,30 OAKCREST AVE,Toronto,Ontario,M4C 1B4,Canada,Other - Public Services,256,Sq. Ft.
+Oakdale VIllage Park,34999917,95 FRED YOUNG DR,North York,Ontario,M3L 1E8,Canada,Other - Public Services,252,Sq. Ft.
+Northwood Park,34999914,15 CLUBHOUSE CRT,North York,Ontario,M3L 2L7,Canada,Other - Public Services,251,Sq. Ft.
+Norwood Park,34999915,16 NORWOOD RD,Toronto,Ontario,M4E 2R8,Canada,Other - Public Services,248,Sq. Ft.
+Northcliffe Parkette,34999912,1114 ST CLAIR AVE W,Toronto,Ontario,M6E 1A4,Canada,Other - Public Services,1,Sq. Ft.
+Northern Linear Park,34999913,4 BLUE JAYS WAY,Toronto,Ontario,M5V 3S9,Canada,Other - Public Services,1,Sq. Ft.
+Regent Park South Rink,34999958,480 SHUTER ST,Toronto,Ontario,M5A 3K1,Canada,Other - Public Services,294,Sq. Ft.
+Rennie Park,34999959,1 RENNIE TER,Toronto,Ontario,M6S 3C6,Canada,Other - Public Services,283,Sq. Ft.
+Redpath Avenue Parkette,34999956,130 Erskine Ave.,Toronto,Ontario,M4P 1Z1,Canada,Other - Public Services,1,Sq. Ft.
+Regan Park,34999957,9310 Sheppard Ave E,Toronto,Ontario,M5H 2T5,Canada,Other - Public Services,282,Sq. Ft.
+Reading Sprouts Garden,34999954,77 Whitbread Cres,North York,Ontario,M3L 2A8,Canada,Other - Public Services,1,Sq. Ft.
+Rean Park,34999955,7 REAN DR,North York,Ontario,M2K 3C2,Canada,Other - Public Services,1,Sq. Ft.
+Randy Padmore Park,34999952,47 DENISON AVE,Toronto,Ontario,M5T 2M7,Canada,Other - Public Services,77,Sq. Ft.
+Ravina Gardens,34999953,290 CLENDENAN AVE,Toronto,Ontario,M6P 2X3,Canada,Other - Public Services,301,Sq. Ft.
+Riverdale Park West,34999966,500 GERRARD ST E,Toronto,Ontario,M5A 2H3,Canada,Other - Public Services,303,Sq. Ft.
+Robertson Parkette,34999967,1549 DANFORTH AVE,Toronto,Ontario,M4J 1N8,Canada,Other - Public Services,1,Sq. Ft.
+Rivercrest Rink,34999964,30 HAREFIELD DR,Etobicoke,Ontario,M9W 4C9,Canada,Other - Public Services,1,Sq. Ft.
+Riverdale Park East,34999965,550 BROADVIEW AVE,Toronto,Ontario,M4K 2N1,Canada,Other - Public Services,302,Sq. Ft.
+Richview Park,34999962,100 WIDDICOMBE HILL BLVD,Etobicoke,Ontario,M9R 4A6,Canada,Other - Public Services,1,Sq. Ft.
+Ridge Park,34999963,85 RIDGE RD,North York,Ontario,M3M 1C6,Canada,Other - Public Services,1,Sq. Ft.
+Rexlington Park,34999960,30 BERGAMOT AVE,Etobicoke,Ontario,M9W 1V9,Canada,Other - Public Services,1,Sq. Ft.
+Richmond Gardens Pool (outdoor),34999961,44 STRATHDEE DR,Etobicoke,Ontario,M9R 1A4,Canada,Other - Public Services,284,Sq. Ft.
+Port Union Village Common Park,34999942,105 Bridgend St,Scarborough,Ontario,M1C 5G5,Canada,Other - Public Services,7,Sq. Ft.
+Prairie Drive Park,34999943,70 PRAIRIE DR,Scarborough,Ontario,M1L 1L4,Canada,Other - Public Services,265,Sq. Ft.
+Polson Street Park,34999940,318 Cherry St,Toronto,Ontario,M5A 2E0,Canada,Other - Public Services,278,Sq. Ft.
+Poplar Plains Parkette,34999941,125 BOULTON DR,Toronto,Ontario,M4V 2V5,Canada,Other - Public Services,272,Sq. Ft.
+Pine Point Pool,34999938,15 GRIERSON RD,Etobicoke,Ontario,M9W 3R2,Canada,Other - Public Services,268,Sq. Ft.
+Playter Gardens,34999939,4 Cambridge Ave.,Toronto,Ontario,M4K 2L1,Canada,Other - Public Services,1,Sq. Ft.
+Phin Ave Parkette,34999936,115 CONDOR AVE,Toronto,Ontario,M4J 3N2,Canada,Other - Public Services,267,Sq. Ft.
+Pine Point Park,34999937, NORFIELD CRES,Etobicoke,Ontario,M9W 1X6,Canada,Other - Public Services,8,Sq. Ft.
+R.V. Burgess Park,34999950,48 Thorncliffe Park Dr.,East York,Ontario,M4H 1J7,Canada,Other - Public Services,1,Sq. Ft.
+Ramsden Park,34999951,1020 YONGE ST,Toronto,Ontario,M4W 2K9,Canada,Other - Public Services,287,Sq. Ft.
+Queen's Park,34999948,0 Queen's Park,Toronto,Ontario,M5S 2C3,Canada,Other - Public Services,1,Sq. Ft.
+Queensway Park,34999949,8 AVON PARK DR,Toronto,Ontario,M6N 3W7,Canada,Other - Public Services,280,Sq. Ft.
+Prince Of Wales Park,34999946,1 THIRD ST,Etobicoke,Ontario,M8V 2X6,Canada,Other - Public Services,277,Sq. Ft.
+Princess Park,34999947, DORIS AVE,North York,Ontario,M2N 6T3,Canada,Other - Public Services,276,Sq. Ft.
+Prescott Parkette,34999944,3 PRESCOTT AVE,Toronto,Ontario,M6N 3G6,Canada,Other - Public Services,1,Sq. Ft.
+Pricefield Road Playground,34999945,50 PRICEFIELD RD,Toronto,Ontario,M4W 1Z9,Canada,Other - Public Services,1,Sq. Ft.
+Sentinel Park Baseball,34999990,295 SENTINEL RD,North York,Ontario,M3J 1T8,Canada,Other - Public Services,313,Sq. Ft.
+Serena Gundy Park,34999991,58 RYKERT CRES,East York,Ontario,M4G 2S9,Canada,Other - Public Services,1,Sq. Ft.
+Seasons Park,34999988,40 Seasons Dr,Scarborough,Ontario,M1X 1X4,Canada,Other - Public Services,1,Sq. Ft.
+Seneca Hill Park,34999989,620 SENECA HILL DR,North York,Ontario,M2J 4S7,Canada,Other - Public Services,312,Sq. Ft.
+Scarborough Village Park Fieldhouse,34999986,23 GATESVIEW AVE,Scarborough,Ontario,M1J 3G4,Canada,Other - Public Services,330,Sq. Ft.
+Scarlett Woods Golf Course,34999987,1000 JANE ST,Toronto,Ontario,M6N 4E2,Canada,Other - Public Services,333,Sq. Ft.
+Sackville Playground,34999984,420 KING ST E,Toronto,Ontario,M5A 1L4,Canada,Other - Public Services,1,Sq. Ft.
+Sadra Park,34999985,10 Blackthorn Av,Toronto,Ontario,M6N 3H5,Canada,Other - Public Services,305,Sq. Ft.
+Sir Adam Beck Park,34999998,55 ELTHAM DR,Etobicoke,Ontario,M8W 2J1,Canada,Other - Public Services,1,Sq. Ft.
+Sir Adam Beck Rink,34999999,6 ORIANNA DR,Etobicoke,Ontario,M8W 4Y1,Canada,Other - Public Services,317,Sq. Ft.
+Sherwood Park,34999996,190 SHERWOOD AVE,Toronto,Ontario,M4P 2A9,Canada,Other - Public Services,316,Sq. Ft.
+Silvio Colella Park,34999997,20 LAURA RD,North York,Ontario,M3N 1Z6,Canada,Other - Public Services,216,Sq. Ft.
+Shawn Blu Rose Park,34999994,30 EMPRINGHAM DR,Scarborough,Ontario,M1B 3Y9,Canada,Other - Public Services,1,Sq. Ft.
+Sherbourne Common Park,34999995,61 DOCKSIDE DR,Toronto,Ontario,M5A 1B4,Canada,Other - Public Services,1,Sq. Ft.
+Sergeant Ryan Russell Parkette,34999992,250 Avenue Rd,Toronto,Ontario,M5R 1V2,Canada,Other - Public Services,1,Sq. Ft.
+Seven Oaks Park,34999993,372 MILITARY TRL,Scarborough,Ontario,M1E 4E2,Canada,Other - Public Services,321,Sq. Ft.
+Rotary Peace Park Pool (outdoor),34999974,25 ELEVENTH ST,Etobicoke,Ontario,M8V 3G2,Canada,Other - Public Services,299,Sq. Ft.
+Rouge Beach Park,34999975,195 ROUGE HILLS DR,Scarborough,Ontario,M1C 2Y9,Canada,Other - Public Services,281,Sq. Ft.
+Rosetta Mcclain Gardens,34999972,5 GLEN EVEREST RD,Scarborough,Ontario,M1N 1J2,Canada,Other - Public Services,288,Sq. Ft.
+Rotary Peace Park,34999973,153 LAKE SHORE DR,Etobicoke,Ontario,M8V 2A1,Canada,Other - Public Services,1,Sq. Ft.
+Roseneath Park,34999970,15 GLENHURST AVE,Toronto,Ontario,M6C 3X4,Canada,Other - Public Services,1,Sq. Ft.
+Rosethorn Park,34999971, REMINGTON DR,Etobicoke,Ontario,M9A 1N5,Canada,Other - Public Services,1,Sq. Ft.
+Rose Garden Park,34999968,Rosegarden Park,Toronto,Ontario,M6K 3C3,Canada,Other - Public Services,290,Sq. Ft.
+Rosedale Park,34999969,20 SCHOLFIELD AVE,Toronto,Ontario,M4W 2Y3,Canada,Other - Public Services,297,Sq. Ft.
+Rustic Park,34999982,35 RAVEN RD,North York,Ontario,M6L 2A5,Canada,Other - Public Services,1,Sq. Ft.
+Ryerson Community Park,34999983,50 GOULD ST,Toronto,Ontario,M5B 2M7,Canada,Other - Public Services,296,Sq. Ft.
+Ruddington Park,34999980,75 RUDDINGTON DR,North York,Ontario,M2K 2X8,Canada,Other - Public Services,300,Sq. Ft.
+Runnymede Park,34999981,221 RYDING AVE,Toronto,Ontario,M6N 1H6,Canada,Other - Public Services,289,Sq. Ft.
+Royalcrest Rink,34999978,50 CABERNET CRCL,Etobicoke,Ontario,M9V 5A2,Canada,Other - Public Services,291,Sq. Ft.
+Roywood Park R.C. Clubhouse,34999979,2 ROYWOOD DR,North York,Ontario,M3A 2C6,Canada,Other - Public Services,292,Sq. Ft.
+Rowntree Mills Park,34999977,155 ROWNTREE MILL RD,Etobicoke,Ontario,M9V 5C2,Canada,Other - Public Services,298,Sq. Ft.
+Strathburn Park,35000022,55 STRATHBURN BLVD,North York,Ontario,M9M 2K5,Canada,Other - Public Services,1,Sq. Ft.
+Sugar Beach Park,35000023,11 Dockside Dr,Toronto,Ontario,M5A 1B6,Canada,Other - Public Services,327,Sq. Ft.
+Steeles Ave and Track & Field Rd,35000020,Steeles Ave and Track & Field Rd,Concord,Ontario,L4K 0A0,Canada,Other - Public Services,1,Sq. Ft.
+Stephenson Park,35000021,61 STEPHENSON AVE,Toronto,Ontario,M4C 1E9,Canada,Other - Public Services,1,Sq. Ft.
+Stanley Park South,35000018,890 KING ST W,Toronto,Ontario,M5V 3H5,Canada,Other - Public Services,1,Sq. Ft.
+Starry Park,35000019,505 STAINES RD,Scarborough,Ontario,M1X 2B7,Canada,Other - Public Services,1,Sq. Ft.
+Stanley Greene Park,35000016,55 Stanley Greene Blvd.,North York,Ontario,M3K 1X1,Canada,Other - Public Services,1,Sq. Ft.
+Stanley Park North,35000017,890 KING ST W,Toronto,Ontario,M5V 3H5,Canada,Other - Public Services,326,Sq. Ft.
+Suydam Park,35000030,22 RELMAR RD,Toronto,Ontario,M5P 2Y4,Canada,Other - Public Services,311,Sq. Ft.
+Sweeney Park,35000031,110 SWEENEY DR,North York,Ontario,M4A 1T7,Canada,Other - Public Services,332,Sq. Ft.
+Sunnyside Park,35000028,1755 LAKE SHORE BLVD W,Toronto,Ontario,M6S 5A3,Canada,Other - Public Services,320,Sq. Ft.
+Superior Park,35000029,1 SUPERIOR AVE,Etobicoke,Ontario,M8V 2M1,Canada,Other - Public Services,1,Sq. Ft.
+Sunnybrook Stable,35000026,1132 LESLIE ST,North York,Ontario,M3C 3L7,Canada,Other - Public Services,271,Sq. Ft.
+Sunnydale Acres Park,35000027,50 AMORO DR,Etobicoke,Ontario,M9W 4S4,Canada,Other - Public Services,329,Sq. Ft.
+Summerlea Park,35000024,450 ALBION RD,Etobicoke,Ontario,M9W 3P7,Canada,Other - Public Services,328,Sq. Ft.
+Sunnybrook Park,35000025,1132 LESLIE ST,North York,Ontario,M3C 3L7,Canada,Other - Public Services,308,Sq. Ft.
+Southern Linear Park,35000006,350 Lakeshore Blvd W,Toronto,Ontario,M5V 3V7,Canada,Other - Public Services,1,Sq. Ft.
+Spadina Road Park,35000007,210 SPADINA RD,Toronto,Ontario,M5R 2V1,Canada,Other - Public Services,323,Sq. Ft.
+Smythe Park,35000004, SCARLETT RD,Toronto,Ontario,M6N 2K6,Canada,Other - Public Services,319,Sq. Ft.
+Sorauren Avenue Park Fieldhouse,35000005,50 Wabash Ave.,Toronto,Ontario,M6R 1N2,Canada,Other - Public Services,1,Sq. Ft.
+Six Points Park,35000002,10 Viking Lane,Etobicoke,Ontario,M9B 6L9,Canada,Other - Public Services,1,Sq. Ft.
+Smithfield Park Outdoor Pool,35000003,173 MOUNT OLIVE DR,Etobicoke,Ontario,M9V 2E3,Canada,Other - Public Services,314,Sq. Ft.
+Sir Winston Churchill Park,35000000,301 ST CLAIR AVE W,Toronto,Ontario,M4V 1S4,Canada,Other - Public Services,331,Sq. Ft.
+Sisken Trail Park,35000001,157 Staines Rd,Scarborough,Ontario,M1X 1V3,Canada,Other - Public Services,1,Sq. Ft.
+St. Alban's Square,35000014,90 Howland Ave.,Toronto,Ontario,M5R 3C3,Canada,Other - Public Services,1,Sq. Ft.
+Stan Wadlow Park,35000015,888 COSBURN AVE,Toronto,Ontario,M4C 4K7,Canada,Other - Public Services,1,Sq. Ft.
+St James Park,35000012,120 King St E,Toronto,Ontario,M5C 1G6,Canada,Other - Public Services,1,Sq. Ft.
+St Jamestown West Park,35000013,120 KING ST E,Toronto,Ontario,M5C 1G6,Canada,Other - Public Services,318,Sq. Ft.
+St Clements-Yonge Parkette,35000010,14 ST CLEMENTS AVE,Toronto,Ontario,M4R 1G9,Canada,Other - Public Services,1,Sq. Ft.
+Spenvalley Park,35000008,130 SPENVALLEY DR,North York,Ontario,M3L 1Z5,Canada,Other - Public Services,1,Sq. Ft.
+St Andrew's Playground,35000009,450 ADELAIDE ST W,Toronto,Ontario,M5V 1T1,Canada,Other - Public Services,307,Sq. Ft.
+Tubs & Gee Gage Rugby Field,35000054,1091 Eastern Avenue,Toronto,Ontario,M4L 1G5,Canada,Other - Public Services,1,Sq. Ft.
+Ukranian Canadian Memorial Park,35000055,565 SCARLETT RD,Etobicoke,Ontario,M9P 2S4,Canada,Other - Public Services,1,Sq. Ft.
+Trinity Square,35000052,19 TRINITY SQ,Toronto,Ontario,M5G 1B1,Canada,Other - Public Services,349,Sq. Ft.
+Trumpeter Park,35000053,33A Panda Sq,Scarborough,Ontario,M1B 6G5,Canada,Other - Public Services,1,Sq. Ft.
+Trinity Bellwoods Park,35000050,790 QUEEN ST W,Toronto,Ontario,M6J 1G3,Canada,Other - Public Services,338,Sq. Ft.
+Trinity Bellwoods Park Outdoor Rink,35000051,790 QUEEN ST W,Toronto,Ontario,M6J 1G3,Canada,Other - Public Services,337,Sq. Ft.
+Tournament Park,35000048,40 TOURNAMENT DR,North York,Ontario,M2P 1K2,Canada,Other - Public Services,341,Sq. Ft.
+Town Hall Square,35000049,25 Yorkville Ave.,Toronto,Ontario,M4W 1L4,Canada,Other - Public Services,1,Sq. Ft.
+Vermont Square Park,35000062,819 PALMERSTON AVE,Toronto,Ontario,M6G 2R8,Canada,Other - Public Services,1,Sq. Ft.
+Victoria Memorial Square Park,35000063,539 Wellington Ave. W,Toronto,Ontario,M5V 3L8,Canada,Other - Public Services,1,Sq. Ft.
+Upper Junction Park,35000060,99 Birdstone Cres.,Toronto,Ontario,M6N 5H5,Canada,Other - Public Services,1,Sq. Ft.
+Valleyfield Outdoor Rink,35000061,35 THE WESTWAY,Etobicoke,Ontario,M9P 2B4,Canada,Other - Public Services,353,Sq. Ft.
+Unmetered Park Lighting,35000058,Unmetered Park Lighting,Toronto,Ontario,M5V 3C6,Canada,Other - Public Services,1,Sq. Ft.
+Unwin Nursery,35000059,275 UNWIN AVE,Toronto,Ontario,M5A 1A3,Canada,Other - Public Services,1,Sq. Ft.
+Underpass Park,35000056,33 ST LAWRENCE ST,Toronto,Ontario,M5A 3M9,Canada,Other - Public Services,352,Sq. Ft.
+University Avenue Islands,35000057,University Ave.,Toronto,Ontario,M5V 3C6,Canada,Other - Public Services,351,Sq. Ft.
+Thomas Riley Park,35000038, BLOOR ST W,Etobicoke,Ontario,M8X 1E1,Canada,Other - Public Services,346,Sq. Ft.
+Thomson Memorial Park,35000039,1005 BRIMLEY RD,Scarborough,Ontario,M1P 3E8,Canada,Other - Public Services,348,Sq. Ft.
+Taylor Creek Park,35000036,260 DAWES,Toronto,Ontario,M4C 5M8,Canada,Other - Public Services,339,Sq. Ft.
+The Mission Ground,35000037,399 MERTON ST,Toronto,Ontario,M4S 1B4,Canada,Other - Public Services,342,Sq. Ft.
+Taddle Creek Park,35000034,40 BEDFORD RD,Toronto,Ontario,M5R 2K1,Canada,Other - Public Services,335,Sq. Ft.
+Tam O'shanter Golf Course,35000035,2481 BIRCHMOUNT RD,Scarborough,Ontario,M1T 2M6,Canada,Other - Public Services,343,Sq. Ft.
+Syd Cole Park,35000032,60 EASTWOOD PARK GDNS,Etobicoke,Ontario,M8W 1N6,Canada,Other - Public Services,1,Sq. Ft.
+Symington Avenue Playground,35000033,431 PERTH AVE,Toronto,Ontario,M6P 3W9,Canada,Other - Public Services,1,Sq. Ft.
+Toronto Sculpture Gardens,35000046,115 KING ST E,Toronto,Ontario,M5C 1G6,Canada,Other - Public Services,200,Sq. Ft.
+Totts Tot Lot,35000047,1 GRADWELL DR,Scarborough,Ontario,M1M 2N1,Canada,Other - Public Services,345,Sq. Ft.
+Topham Park Clubhouse,35000044,1 TIAGO AVE,East York,Ontario,M4B 1Z9,Canada,Other - Public Services,344,Sq. Ft.
+Toronto Island Filtration Plant,35000045,446 LAKESHORE AVE,Toronto,Ontario,M5J 2H3,Canada,Other - Public Services,340,Sq. Ft.
+Tommy Thompson Park,35000042,1 Leslie St,Toronto,Ontario,M4M 3M2,Canada,Other - Public Services,1125,Sq. Ft.
+Topham Park,35000043,181 WESTVIEW BLVD,East York,Ontario,M4B 1Z9,Canada,Other - Public Services,1,Sq. Ft.
+Three Valleys Park,35000040,82 THREE VALLEYS DR,North York,Ontario,M3A 3B7,Canada,Other - Public Services,350,Sq. Ft.
+TO Ward's Island,35000041,0 Cibola Ave,Toronto,Ontario,M5J 2W6,Canada,Other - Public Services,1,Sq. Ft.
+Westmount Outdoor Pool,35000086,22 ARCADE DR,Etobicoke,Ontario,M9P 2V9,Canada,Other - Public Services,376,Sq. Ft.
+West Toronto Rail Path,35000084,385 Wallace Ave,Toronto,Ontario,M6P 3N8,Canada,Other - Public Services,1,Sq. Ft.
+Westgrove Outdoor Pool & AIR,35000085,15 REDGRAVE DR,Etobicoke,Ontario,M9R 3T9,Canada,Other - Public Services,367,Sq. Ft.
+West Mall Outdoor Pool,35000082,370 THE WEST MALL,Etobicoke,Ontario,M9C 1E4,Canada,Other - Public Services,374,Sq. Ft.
+West Mall Outdoor Rink,35000083,370 THE WEST MALL,Etobicoke,Ontario,M9C 1E4,Canada,Other - Public Services,364,Sq. Ft.
+West Humber Parkland,35000080, WEST HUMBER BLVD,Etobicoke,Ontario,M9W 3M6,Canada,Other - Public Services,368,Sq. Ft.
+West Lodge Park,35000081,165 LANSDOWNE AVE,Toronto,Ontario,M6K 2W1,Canada,Other - Public Services,1,Sq. Ft.
+Willowdale Park,35000094,75 HOLLYWOOD AVE,North York,Ontario,M2N 3K1,Canada,Other - Public Services,183,Sq. Ft.
+Willowdale Park Tennis,35000095,75 HOLLYWOOD AVE,North York,Ontario,M2N 3K1,Canada,Other - Public Services,369,Sq. Ft.
+Wigmore Park,35000092,106 WIGMORE DR,North York,Ontario,M4A 2E8,Canada,Other - Public Services,375,Sq. Ft.
+Wilket Creek Park,35000093,1132 LESLIE ST,North York,Ontario,M3C 3L7,Canada,Other - Public Services,361,Sq. Ft.
+Westwood Park,35000090,90 Floyd Ave,Toronto,Ontario,M4K 2E4,Canada,Other - Public Services,365,Sq. Ft.
+Wexford Park,35000091,55 ELM BANK RD,Scarborough,Ontario,M1R 2H6,Canada,Other - Public Services,1,Sq. Ft.
+Weston Lions Park,35000088,2125 LAWRENCE AVE W,Toronto,Ontario,M9N 1H7,Canada,Other - Public Services,378,Sq. Ft.
+Westway Outdoor Rink,35000089,175 THE WESTWAY,Etobicoke,Ontario,M9P 2C2,Canada,Other - Public Services,366,Sq. Ft.
+Wanless Park,35000070,250 WANLESS AVE,Toronto,Ontario,M4N 1W5,Canada,Other - Public Services,373,Sq. Ft.
+Water's Edge Promenade,35000071,15 Merchants Wharf,Toronto,Ontario,M5A 0N8,Canada,Other - Public Services,1,Sq. Ft.
+Wadsworth Park,35000068,120 CONNOLLY ST,Toronto,Ontario,M6N 1E7,Canada,Other - Public Services,220,Sq. Ft.
+Walter Saunders Memorial Park,35000069,426 Hopewell Ave.,Toronto,Ontario,M6B 4M4,Canada,Other - Public Services,1,Sq. Ft.
+Vine Avenue Playground,35000066,200 VINE AVE,Toronto,Ontario,M6P 1V9,Canada,Other - Public Services,354,Sq. Ft.
+Vradenberg Park,35000067,40 VRADENBERG DR,Scarborough,Ontario,M1T 1M6,Canada,Other - Public Services,1,Sq. Ft.
+Viewmount Park,35000064,169 VIEWMOUNT AVE,Toronto,Ontario,M6B 1T5,Canada,Other - Public Services,356,Sq. Ft.
+Village of Yorkville Park,35000065,115 CUMBERLAND ST,Toronto,Ontario,M5R 1A2,Canada,Other - Public Services,58,Sq. Ft.
+West Deane Outdoor Rink,35000078,410 MARTIN GROVE RD,Etobicoke,Ontario,M9B 4L9,Canada,Other - Public Services,225,Sq. Ft.
+West Deane Park,35000079, ANTIOCH DR,Etobicoke,Ontario,M9B 3B2,Canada,Other - Public Services,1,Sq. Ft.
+Wells Hill Park,35000076,145 Hilton Ave.,Toronto,Ontario,M5R 3B1,Canada,Other - Public Services,1,Sq. Ft.
+West Deane Outdoor Pool,35000077,19 SEDGEBROOK CRES,Etobicoke,Ontario,M9B 2X2,Canada,Other - Public Services,362,Sq. Ft.
+Wellesley Park,35000074,500 WELLESLEY ST E,Toronto,Ontario,M4X 1H9,Canada,Other - Public Services,372,Sq. Ft.
+Wellesworth Park,35000075,55 DIXFIELD DR,Etobicoke,Ontario,M9C 4J2,Canada,Other - Public Services,1,Sq. Ft.
+Wedgewood Park Outdoor Pool,35000072,15 SWAN AVE,Etobicoke,Ontario,M9B 1V3,Canada,Other - Public Services,379,Sq. Ft.
+Wedgewood Park Outdoor Rink,35000073,15 SWAN AVE,Etobicoke,Ontario,M9B 1V3,Canada,Other - Public Services,363,Sq. Ft.
+Carpark 109,35000118,51 ABERDEEN AVE,Toronto,Ontario,M4X 1A1,Canada,Parking,35,Sq. Ft.
+Carpark 11,35000119,21 PLEASANT BLVD,Toronto,Ontario,M4T 1K2,Canada,Parking,55700,Sq. Ft.
+Carpark 106,35000116,15 DENISON AVE,Toronto,Ontario,M5T 2M6,Canada,Parking,28152,Sq. Ft.
+Carpark 107,35000117,251 MACPHERSON AVE,Toronto,Ontario,M4V 1A1,Canada,Parking,9384,Sq. Ft.
+Carpark 1,35000114,20 CHARLES ST E,Toronto,Ontario,M4Y 1T1,Canada,Parking,43000,Sq. Ft.
+Carpark 104,35000115,6 CARLING AVE,Toronto,Ontario,M6G 3S1,Canada,Parking,45,Sq. Ft.
+50 Richmond St. E,35000112,50 RICHMOND ST E,Toronto,Ontario,M5C 1N7,Canada,Office,13800,Sq. Ft.
+838 Broadview Ave (Parking),35000113,838 Broadview Ave.,Toronto,Ontario,M4K 2R1,Canada,Parking,1,Sq. Ft.
+Carpark 131,35000126,912 EGLINTON AVE W,Toronto,Ontario,M6C 2C2,Canada,Parking,28,Sq. Ft.
+Carpark 133,35000127,20 PRESCOTT AVE,Toronto,Ontario,M6N 3H4,Canada,Parking,1642,Sq. Ft.
+Carpark 13,35000124,10 DELISLE AVE,Toronto,Ontario,M4V 1S8,Canada,Parking,56304,Sq. Ft.
+Carpark 130,35000125,7 BARTLETT AVE,Toronto,Ontario,M6H 3E8,Canada,Parking,38,Sq. Ft.
+Carpark 116,35000122,24 KENNEDY PARK RD,Toronto,Ontario,M6P 3H3,Canada,Parking,56,Sq. Ft.
+Carpark 12,35000123,26 Alvin Ave,Toronto,Ontario,M4T 1S2,Canada,Parking,41993,Sq. Ft.
+Carpark 110,35000120,1612 DANFORTH AVE,Toronto,Ontario,M4C 1H6,Canada,Parking,8708,Sq. Ft.
+Carpark 111,35000121,72 CLINTON ST,Toronto,Ontario,M6G 3Z9,Canada,Parking,79,Sq. Ft.
+Woburn Ave Playground,35000102,75 WOBURN AVE,Toronto,Ontario,M5M 1K6,Canada,Other - Public Services,359,Sq. Ft.
+Woburn Park,35000103,50 DORMINGTON DR,Scarborough,Ontario,M1G 3N2,Canada,Other - Public Services,358,Sq. Ft.
+Withrow Park,35000100,725 LOGAN AVE,Toronto,Ontario,M4K 3C6,Canada,Other - Public Services,371,Sq. Ft.
+Withrow Park Ice Rink,35000101,725 LOGAN AVE,Toronto,Ontario,M4K 3C6,Canada,Other - Public Services,377,Sq. Ft.
+Winchester Square Park,35000098,474 Ontario St.,Toronto,Ontario,M4X 1M7,Canada,Other - Public Services,1,Sq. Ft.
+Wishing Well Park,35000099,1700 PHARMACY AVE,Scarborough,Ontario,M1T 1G9,Canada,Other - Public Services,380,Sq. Ft.
+Winchester Field,35000096,530 ONTARIO ST,Toronto,Ontario,M4X 1M7,Canada,Other - Public Services,370,Sq. Ft.
+Winchester Park,35000097,149 Bleecker St.,Toronto,Ontario,M4X 1M7,Canada,Other - Public Services,1,Sq. Ft.
+2696 Eglinton Ave W,35000110,2696 EGLINTON AVE W,Toronto,Ontario,M6M 1T9,Canada,Other - Public Services,14790,Sq. Ft.
+437 Rogers Rd,35000111,437 ROGERS RD,Toronto,Ontario,M6M 1A4,Canada,Office,1,Sq. Ft.
+Zooview Park,35000108,50 HEDGE END RD,Scarborough,Ontario,M1B 5Z8,Canada,Other - Public Services,382,Sq. Ft.
+21 Connell Crt,35000109,"21 Connell Crt, Unit 1",Etobicoke,Ontario,M8Z 1E8,Canada,Other - Public Services,19262,Sq. Ft.
+York Mills Valley Park,35000106,3865 YONGE ST,North York,Ontario,M2P 1B3,Canada,Other - Public Services,381,Sq. Ft.
+Yorkdale Park,35000107,238 Ranee Ave,North York,Ontario,M6A 1N6,Canada,Other - Public Services,1,Sq. Ft.
+Woodbine Beach Park,35000104,1561 LAKE SHORE BLVD E,Toronto,Ontario,M4L 3W6,Canada,Other - Public Services,357,Sq. Ft.
+Woodbine Park,35000105,1695 Queen St E,Toronto,Ontario,M4L 1G5,Canada,Other - Public Services,1,Sq. Ft.
+Carpark 180,35000150,268 RHODES AVE,Toronto,Ontario,M4L 3A1,Canada,Parking,9149,Sq. Ft.
+Carpark 181,35000151,1155 KING ST W,Toronto,Ontario,M6K 1E9,Canada,Parking,329,Sq. Ft.
+Carpark 179,35000148,661 GERRARD ST E,Toronto,Ontario,M4M 1Y2,Canada,Parking,25,Sq. Ft.
+Carpark 18,35000149,351 KEELE ST,Toronto,Ontario,M6P 2K6,Canada,Parking,77,Sq. Ft.
+Carpark 173,35000146,737 Rhodes Ave,Toronto,Ontario,M4J 4X6,Canada,Parking,24,Sq. Ft.
+Carpark 17,35000144,716 PAPE AVE,Toronto,Ontario,M4K 3S7,Canada,Parking,85,Sq. Ft.
+Carpark 170,35000145,117 HAMMERSMITH AVE,Toronto,Ontario,M4E 2W5,Canada,Parking,9171,Sq. Ft.
+Carpark 21,35000158,72 AMROTH AVE,Toronto,Ontario,M4C 4H2,Canada,Parking,54,Sq. Ft.
+Carpark 212,35000159,363 ADELAIDE ST W,Toronto,Ontario,M5A 1N3,Canada,Parking,5161,Sq. Ft.
+Carpark 202,35000156,1141 Eastern Ave,Toronto,Ontario,M4L 1G5,Canada,Parking,4223,Sq. Ft.
+Carpark 204,35000157,1113 DUNDAS ST W,Toronto,Ontario,M6J 1W9,Canada,Parking,8680,Sq. Ft.
+Carpark 195,35000154,15 Price St,Toronto,Ontario,M4W 1Y7,Canada,Parking,16422,Sq. Ft.
+Carpark 20,35000155,101 CEDARVALE AVE,Toronto,Ontario,M4C 4J7,Canada,Parking,37,Sq. Ft.
+Carpark 188,35000152,157 BEATRICE ST,Toronto,Ontario,M6J 2T2,Canada,Parking,4223,Sq. Ft.
+Carpark 19,35000153,385 PACIFIC AVE,Toronto,Ontario,M6P 2R2,Canada,Parking,15718,Sq. Ft.
+Carpark 149,35000134,12 WOODYCREST AVE,Toronto,Ontario,M4J 3A6,Canada,Parking,14198,Sq. Ft.
+Carpark 150,35000135,40 LARCH ST,Toronto,Ontario,M5T 3J6,Canada,Parking,77887,Sq. Ft.
+Carpark 144,35000132,376 CLINTON ST,Toronto,Ontario,M6G 2Z2,Canada,Parking,33,Sq. Ft.
+Carpark 146,35000133,573 GERRARD ST E,Toronto,Ontario,M4M 1X9,Canada,Parking,37,Sq. Ft.
+Carpark 142,35000130,31 LANGFORD AVE,Toronto,Ontario,M4J 3E4,Canada,Parking,27,Sq. Ft.
+Carpark 143,35000131,265 WILLARD AVE,Toronto,Ontario,M6S 3R1,Canada,Parking,88,Sq. Ft.
+Carpark 137,35000128,77 GOUGH AVE,Toronto,Ontario,M4K 3N9,Canada,Parking,3988,Sq. Ft.
+Carpark 141,35000129,141 GREENLAW AVE,Toronto,Ontario,M6H 3V9,Canada,Parking,13197,Sq. Ft.
+Carpark 167,35000142,16 OSSINGTON AVE,Toronto,Ontario,M6J 2Y7,Canada,Parking,4692,Sq. Ft.
+Carpark 168,35000143,146 HARRISON ST,Toronto,Ontario,M6J 2A4,Canada,Parking,15812,Sq. Ft.
+Carpark 158,35000140,1325 QUEEN ST W,Toronto,Ontario,M6K 1L8,Canada,Parking,12303,Sq. Ft.
+Carpark 164,35000141,453 SPADINA RD,Toronto,Ontario,M5P 2W5,Canada,Parking,55,Sq. Ft.
+Carpark 156,35000138,18 FERRIER AVE,Toronto,Ontario,M4K 3H4,Canada,Parking,5396,Sq. Ft.
+Carpark 157,35000139,1511 BAYVIEW AVE,East York,Ontario,M4G 4E2,Canada,Parking,4692,Sq. Ft.
+Carpark 152,35000136,25 GLENFOREST RD,Toronto,Ontario,M4N 1Z7,Canada,Parking,6100,Sq. Ft.
+Carpark 155,35000137,995 EGLINTON AVE W,Toronto,Ontario,M6C 2C7,Canada,Parking,33,Sq. Ft.
+Carpark 260,35000182,94 NORTHCLIFFE BLVD,Toronto,Ontario,M6H 3H2,Canada,Parking,3050,Sq. Ft.
+Carpark 261,35000183,45 ABELL ST,Toronto,Ontario,M6J 0A9,Canada,Parking,29090,Sq. Ft.
+Carpark 256,35000180,1624 QUEEN ST W,Toronto,Ontario,M6R 1B2,Canada,Parking,7742,Sq. Ft.
+Carpark 26,35000181,33 QUEEN ST E,Toronto,Ontario,M5C 1R5,Canada,Parking,173030,Sq. Ft.
+Carpark 251,35000178,201 CLAREMONT ST,Toronto,Ontario,M6J 2N2,Canada,Parking,43,Sq. Ft.
+Carpark 244,35000176,1439 DANFORTH AVE,Toronto,Ontario,M4J 1N3,Canada,Parking,20,Sq. Ft.
+Carpark 248,35000177,136 BROADVIEW AVE,Toronto,Ontario,M4M 2G2,Canada,Parking,3050,Sq. Ft.
+Carpark 29,35000190,75 HOLLY ST,Toronto,Ontario,M4S 3A5,Canada,Parking,460,Sq. Ft.
+Carpark 28,35000188,670 PAPE AVE,Toronto,Ontario,M4K 3S5,Canada,Parking,76,Sq. Ft.
+Carpark 287,35000189,1091 Eastern Ave,Toronto,Ontario,M4L 1A8,Canada,Parking,11026,Sq. Ft.
+Carpark 277,35000186,242 DANFORTH AVE,Toronto,Ontario,M4K 1N6,Canada,Parking,4457,Sq. Ft.
+Carpark 279,35000187,287 RUSHTON RD,Toronto,Ontario,M6C 2X6,Canada,Parking,3988,Sq. Ft.
+Carpark 262,35000184,300 Queen St. W,Toronto,Ontario,M5V 2A4,Canada,Parking,27214,Sq. Ft.
+Carpark 271,35000185,800 FLEET ST,Toronto,Ontario,M5V 1A9,Canada,Parking,22991,Sq. Ft.
+Carpark 226,35000166,646 St Clair Ave W,Toronto,Ontario,M6C 1A9,Canada,Parking,4223,Sq. Ft.
+Carpark 227,35000167,105 SPADINA AVE,Toronto,Ontario,M5V 2K2,Canada,Parking,3284,Sq. Ft.
+Carpark 223,35000164,30 ALVIN AVE,Toronto,Ontario,M4T 2X8,Canada,Parking,8680,Sq. Ft.
+Carpark 224,35000165,34 Hanna Ave,Toronto,Ontario,M6K 1W8,Canada,Parking,43166,Sq. Ft.
+Carpark 219,35000162,87 RICHMOND ST E,Toronto,Ontario,M5C 1N9,Canada,Parking,4692,Sq. Ft.
+Carpark 220,35000163,789 St. Clair Ave W,Toronto,Ontario,M6C 1B7,Canada,Parking,4223,Sq. Ft.
+Carpark 216,35000160,207 McCaul,Toronto,Ontario,M5T 1W6,Canada,Parking,53335,Sq. Ft.
+Carpark 218,35000161,3354 DUNDAS ST W,Toronto,Ontario,M6P 2A4,Canada,Parking,2581,Sq. Ft.
+Carpark 240,35000174,700 St Clair Ave W,Toronto,Ontario,M6C 1B3,Canada,Parking,4223,Sq. Ft.
+Carpark 241,35000175,9 Bonar Pl,Toronto,Ontario,M6H 1E4,Canada,Parking,7976,Sq. Ft.
+Carpark 235,35000172,2191 Dundas St W,Toronto,Ontario,M6R 1X5,Canada,Parking,2346,Sq. Ft.
+Carpark 231,35000170,19 SPADINA RD,Toronto,Ontario,M5R 2S9,Canada,Parking,15249,Sq. Ft.
+Carpark 228,35000168,11 KENWOOD AVE,Toronto,Ontario,M6C 2R6,Canada,Parking,5865,Sq. Ft.
+Carpark 229,35000169,110 Dovercourt Rd,Toronto,Ontario,M6J 1H8,Canada,Parking,1877,Sq. Ft.
+Carpark 503,35000214,12 WILLINGDON BLVD,Etobicoke,Ontario,M8X 2H2,Canada,Parking,15014,Sq. Ft.
+Carpark 505,35000215,15 CLIVEDEN AVE,Etobicoke,Ontario,M8Z 3M7,Canada,Parking,2581,Sq. Ft.
+Carpark 501,35000212, WENDOVER RD,Etobicoke,Ontario,M8X 2K9,Canada,Parking,19472,Sq. Ft.
+Carpark 502,35000213, PRINCE EDWARD DR N,Etobicoke,Ontario,M8X 2L5,Canada,Parking,44,Sq. Ft.
+Carpark 5,35000210,15 WELLESLEY ST E,Toronto,Ontario,M4Y 2S9,Canada,Parking,41603,Sq. Ft.
+Carpark 500,35000211,7 JACKSON AVE,Etobicoke,Ontario,M8X 2J2,Canada,Parking,9384,Sq. Ft.
+Carpark 47,35000208,125 BURNABY BLVD,Toronto,Ontario,M5N 1G3,Canada,Parking,36363,Sq. Ft.
+Carpark 48,35000209,85 LEE AVE,Toronto,Ontario,M4E 2P1,Canada,Parking,68,Sq. Ft.
+Carpark 52,35000222,40 YORK ST,Toronto,Ontario,M5J 1R7,Canada,Parking,32300,Sq. Ft.
+Carpark 521,35000223,7 MONKTON AVE,Etobicoke,Ontario,M8Z 4M9,Canada,Parking,5865,Sq. Ft.
+Carpark 512,35000220,3220 Bloor St W,Etobicoke,Ontario,M8X 1G2,Canada,Parking,15953,Sq. Ft.
+Carpark 517,35000221,16 SUPERIOR AVE,Etobicoke,Ontario,M8V 2M6,Canada,Parking,5396,Sq. Ft.
+Carpark 51,35000218,351 Lippincott St,Toronto,Ontario,M5S 1Y5,Canada,Parking,144,Sq. Ft.
+Carpark 511,35000219, SEVENTH ST,Etobicoke,Ontario,M8V 3B5,Canada,Parking,13607,Sq. Ft.
+Carpark 506,35000216, FIFTH ST,Etobicoke,Ontario,M8V 2Z7,Canada,Parking,12199,Sq. Ft.
+Carpark 508,35000217,130 EIGHTH ST,Etobicoke,Ontario,M8V 3C6,Canada,Parking,13607,Sq. Ft.
+Carpark 404,35000198,95 BEECROFT RD,North York,Ontario,M2N 6N6,Canada,Parking,120297,Sq. Ft.
+Carpark 41,35000199,7 NORTON AVE,Toronto,Ontario,M6E 1E1,Canada,Parking,16996,Sq. Ft.
+Carpark 402,35000196,10 EMPRESS AVE,North York,Ontario,M2N 3T3,Canada,Parking,15718,Sq. Ft.
+Carpark 403,35000197,10 HARLANDALE AVE,North York,Ontario,M2N 7H9,Canada,Parking,100,Sq. Ft.
+Carpark 39,35000194,20 CASTLEFIELD AVE,Toronto,Ontario,M4R 1G4,Canada,Parking,37620,Sq. Ft.
+Carpark 400,35000195,10 KINGSDALE AVE,North York,Ontario,M2N 3W1,Canada,Parking,50,Sq. Ft.
+Carpark 34,35000192,1 DUNDAS ST E,Toronto,Ontario,M5B 2L6,Canada,Parking,26500,Sq. Ft.
+Carpark 36 (Nathan Phillips Square),35000193,100 QUEEN ST W,Toronto,Ontario,M5H 2N1,Canada,Parking,598473,Sq. Ft.
+Carpark 44,35000206,14 FULLER AVE,Toronto,Ontario,M6R 2C3,Canada,Parking,19547,Sq. Ft.
+Carpark 45,35000207,111 BROADVIEW AVE,Toronto,Ontario,M4M 2E9,Canada,Parking,26135,Sq. Ft.
+Carpark 42,35000204,91 VIA ITALIA,Toronto,Ontario,M6H 3S2,Canada,Parking,169,Sq. Ft.
+Carpark 43,35000205,2 CHURCH ST,Toronto,Ontario,M5E 1Z3,Canada,Parking,125023,Sq. Ft.
+Carpark 418,35000202,68 SHEPPARD AVE W,North York,Ontario,M2N 1M2,Canada,Parking,7038,Sq. Ft.
+Carpark 419,35000203,5667 YONGE ST,North York,Ontario,M2M 3T2,Canada,Parking,5396,Sq. Ft.
+Carpark 410,35000200,174 BEECROFT RD,North York,Ontario,M2N 5Z5,Canada,Parking,173,Sq. Ft.
+Carpark 414,35000201,3885 YONGE ST,Toronto,Ontario,M4N 2P2,Canada,Parking,139,Sq. Ft.
+Carpark 81,35000246,695 LANSDOWNE AVE,Toronto,Ontario,M6H 3Y9,Canada,Parking,40,Sq. Ft.
+Carpark 82,35000247,9 EMERSON AVE,Toronto,Ontario,M6H 3S7,Canada,Parking,40,Sq. Ft.
+Carpark 80,35000244,400 KEELE ST,Toronto,Ontario,M6P 4H4,Canada,Parking,54,Sq. Ft.
+Carpark 801,35000245,917 Kipling Ave.,Etobicoke,Ontario,M8Z 5H3,Canada,Parking,194483,Sq. Ft.
+Carpark 78,35000242,35 ERINDALE AVE,Toronto,Ontario,M4K 1R9,Canada,Parking,93,Sq. Ft.
+Carpark 79,35000243,405 SHERBOURNE ST,Toronto,Ontario,M4X 1K5,Canada,Parking,21349,Sq. Ft.
+Carpark 709,35000240,1950 Lawrence Ave E,Scarborough,Ontario,M1R 2Y7,Canada,Parking,25,Sq. Ft.
+Carpark 71,35000241,35 BELLEVUE AVE,Toronto,Ontario,M5T 2N5,Canada,Parking,91,Sq. Ft.
+Carpark 93,35000254,675 MANNING AVE,Toronto,Ontario,M6G 2W3,Canada,Parking,52,Sq. Ft.
+Carpark 96,35000255,2 PORTLAND ST,Toronto,Ontario,M5V 3N6,Canada,Parking,8680,Sq. Ft.
+Carpark 89,35000252,20 EATON AVE,Toronto,Ontario,M4J 2Z5,Canada,Parking,13841,Sq. Ft.
+Carpark 91,35000253,265 ARMADALE AVE,Toronto,Ontario,M6S 3X5,Canada,Parking,33782,Sq. Ft.
+Carpark 87,35000250,14 ARUNDEL AVE,Toronto,Ontario,M4K 3A2,Canada,Parking,11496,Sq. Ft.
+Carpark 88,35000251,25 FERRIER AVE,Toronto,Ontario,M4K 3H5,Canada,Parking,47,Sq. Ft.
+Carpark 84,35000248,9 SALEM AVE,Toronto,Ontario,M6H 3C2,Canada,Parking,35,Sq. Ft.
+Carpark 85,35000249,557 PALMERSTON AVE,Toronto,Ontario,M6G 2P6,Canada,Parking,58,Sq. Ft.
+Carpark 653,35000230,17 RIVERVIEW GDNS,Toronto,Ontario,M6S 4E6,Canada,Parking,100,Sq. Ft.
+Carpark 653 & 654 Sign,35000231,2454 Bloor St W,Toronto,Ontario,M6S 1R1,Canada,Parking,13841,Sq. Ft.
+Carpark 64,35000228,265 DURIE ST,Toronto,Ontario,M6S 3G2,Canada,Parking,33782,Sq. Ft.
+Carpark 650,35000229,22 JOHN ST,Toronto,Ontario,M9N 1J3,Canada,Parking,17830,Sq. Ft.
+Carpark 55,35000226,23 BEDFORD PARK AVE,Toronto,Ontario,M5M 1H8,Canada,Parking,9853,Sq. Ft.
+Carpark 602,35000227,1505 BAYVIEW AVE,East York,Ontario,M4G 3A8,Canada,Parking,5630,Sq. Ft.
+Carpark 53,35000224,803 RICHMOND ST W,Toronto,Ontario,M6J 3P7,Canada,Parking,49,Sq. Ft.
+Carpark 533,35000225,2300 LAKE SHORE BLVD W,Etobicoke,Ontario,M8V 1B4,Canada,Parking,5630,Sq. Ft.
+Carpark 700,35000238,101 GRANGEWAY AVE,Scarborough,Ontario,M1H 3E9,Canada,Parking,97,Sq. Ft.
+Carpark 706,35000239,284 MILNER AVE,Scarborough,Ontario,M1S 5C4,Canada,Parking,21583,Sq. Ft.
+Carpark 674,35000236,2623 EGLINTON AVE W,Toronto,Ontario,M6M 1T6,Canada,Parking,2815,Sq. Ft.
+Carpark 68,35000237,20 ST ANDREW ST,Toronto,Ontario,M5T 1K6,Canada,Parking,45000,Sq. Ft.
+Carpark 667,35000234,1535 EGLINTON AVE W,Toronto,Ontario,M6E 2G7,Canada,Parking,4692,Sq. Ft.
+Carpark 670,35000235,2053 DUFFERIN ST,Toronto,Ontario,M6E 3R3,Canada,Parking,5396,Sq. Ft.
+Carpark 661,35000232,433 ROGERS RD,Toronto,Ontario,M6M 1A4,Canada,Parking,6569,Sq. Ft.
+Carpark 663,35000233,1 RAMSDEN RD,Toronto,Ontario,M6E 3X8,Canada,Parking,32375,Sq. Ft.
+Humber Bay Life Stn,35000278,225 HUMBER BAY PARK RD W,Etobicoke,Ontario,M8V 3X7,Canada,Police Station,1830,Sq. Ft.
+Intelligence Bureau,35000279,2 DYAS RD,North York,Ontario,M3B 1V5,Canada,Police Station,70547,Sq. Ft.
+Emergency Task Force,35000276,300 LESMILL RD,North York,Ontario,M3B 3P4,Canada,Police Station,35995,Sq. Ft.
+"Forensic Service, Store & Garage",35000277,2050 JANE ST,Toronto,Ontario,M9N 2V3,Canada,Police Station,62484,Sq. Ft.
+Cherry Beach Life Stn,35000274,0 Cherry St,Toronto,Ontario,M5A 3L2,Canada,Police Station,680,Sq. Ft.
+Detective Services Building,35000275,160 DUNCAN MILL RD,North York,Ontario,M3B 1Z5,Canada,Police Station,24000,Sq. Ft.
+#55 Police Division,35000272,101 COXWELL AVE,Toronto,Ontario,M4L 3B3,Canada,Police Station,23519,Sq. Ft.
+Centre Island Police Division,35000273,31 AVENUE OF THE ISLANDS,Toronto,Ontario,M5J 2C3,Canada,Police Station,1001,Sq. Ft.
+Police Marine Hq,35000286,259 QUEENS QUAY W,Toronto,Ontario,M5V 1A2,Canada,Police Station,23035,Sq. Ft.
+Property Evidence,35000287,791 ISLINGTON AVE,Etobicoke,Ontario,M8Z 5W8,Canada,Police Station,7492,Sq. Ft.
+Police Garage,35000284,18 CRANFIELD RD,East York,Ontario,M4B 3G7,Canada,Police Station,33024,Sq. Ft.
+Police Headquarters,35000285,40 COLLEGE ST,Toronto,Ontario,M5G 2J3,Canada,Police Station,425000,Sq. Ft.
+Police Academy,35000282,70 BIRMINGHAM ST,Etobicoke,Ontario,M8V 3W6,Canada,Police Station,302735,Sq. Ft.
+Police Dog Service,35000283,44 BEECHWOOD DR,Toronto,Ontario,M4K 3H8,Canada,Police Station,9440,Sq. Ft.
+Leuty Beach,35000280,77 KEWBEACH AVE,Toronto,Ontario,M4L 1B8,Canada,Police Station,1000,Sq. Ft.
+PMMD Materials Management & Stores,35000281,799 ISLINGTON AVE,Etobicoke,Ontario,M8Z 5W8,Canada,Police Station,43992,Sq. Ft.
+#31 Police Division,35000262,40 NORFINCH DR,North York,Ontario,M3N 1X1,Canada,Police Station,35489,Sq. Ft.
+#32 Police Division,35000263,30 ELLERSLIE AVE,North York,Ontario,M2N 1X8,Canada,Police Station,47652,Sq. Ft.
+#22 Police Division,35000260,3699 BLOOR ST W,Etobicoke,Ontario,M9A 1A2,Canada,Police Station,32270,Sq. Ft.
+#23 Police Division,35000261,5230 FINCH AVE W,Etobicoke,Ontario,M9V 0A1,Canada,Police Station,57264,Sq. Ft.
+#13 Police Division,35000258,1435 EGLINTON AVE W,Toronto,Ontario,M6C 3Z4,Canada,Police Station,20344,Sq. Ft.
+#14 Police Division,35000259,350 DOVERCOURT RD,Toronto,Ontario,M6J 2C2,Canada,Police Station,64200,Sq. Ft.
+#11 Police Division,35000256,2054 DAVENPORT RD,Toronto,Ontario,M6N 1C8,Canada,Police Station,62000,Sq. Ft.
+#12 Police Division,35000257,200 TRETHEWEY DR,Toronto,Ontario,M6M 5E6,Canada,Police Station,25780,Sq. Ft.
+#53 Police Division,35000270,75 EGLINTON AVE W,Toronto,Ontario,M4R 2G9,Canada,Police Station,52183,Sq. Ft.
+#54 Police Division (#55 Subunit),35000271,41 CRANFIELD RD,East York,Ontario,M4B 3H6,Canada,Police Station,23358,Sq. Ft.
+#51 Police Division,35000268,51 PARLIAMENT ST,Toronto,Ontario,M5A 4L2,Canada,Police Station,56000,Sq. Ft.
+#52 Police Division,35000269,255 DUNDAS ST W,Toronto,Ontario,M5T 2W5,Canada,Police Station,71677,Sq. Ft.
+#42 Police Division,35000266,242 MILNER AVE,Scarborough,Ontario,M1S 5C4,Canada,Police Station,36620,Sq. Ft.
+#43 Police Division,35000267,4331 Lawrence Ave E,Scarborough,Ontario,M1E 2T4,Canada,Police Station,55450,Sq. Ft.
+#33 Police Division,35000264,50 UPJOHN RD,North York,Ontario,M3B 2W1,Canada,Police Station,27889,Sq. Ft.
+#41 Police Division,35000265,2222 EGLINTON AVE E,Scarborough,Ontario,M1K 2M2,Canada,Police Station,51080,Sq. Ft.
+Danforth Coxwell Library,35000310,1675 DANFORTH AVE,Toronto,Ontario,M4C 5P2,Canada,Library,9617,Sq. Ft.
+Davenport Library,35000311,1246 SHAW ST,Toronto,Ontario,M6G 3P1,Canada,Library,3604,Sq. Ft.
+Cliffcrest Library,35000308,3017 KINGSTON RD,Scarborough,Ontario,M1M 1P1,Canada,Library,4859,Sq. Ft.
+College Shaw Library,35000309,766 COLLEGE ST,Toronto,Ontario,M6G 1C4,Canada,Library,7684,Sq. Ft.
+Cedarbrae Library,35000306,545 MARKHAM RD,Scarborough,Ontario,M1H 2A1,Canada,Library,31506,Sq. Ft.
+Centennial Library,35000307,578 FINCH AVE W,North York,Ontario,M2R 1N7,Canada,Library,6866,Sq. Ft.
+Bridlewood Library,35000304,2900 Warden Avenue,Scarborough,Ontario,M1W 2S8,Canada,Library,8000,Sq. Ft.
+Brookbanks Library,35000305,210 BROOKBANKS DR,North York,Ontario,M3A 2T8,Canada,Library,7933,Sq. Ft.
+Eatonville Library,35000318,430 BURNHAMTHORPE RD,Etobicoke,Ontario,M9B 2B1,Canada,Library,12203,Sq. Ft.
+Eglinton Square Library,35000319,1 EGLINTON SQ,Scarborough,Ontario,M1L 2K1,Canada,Library,10000,Sq. Ft.
+Dufferin St Clair Library,35000316,1625 DUFFERIN ST,Toronto,Ontario,M6H 3L9,Canada,Library,11208,Sq. Ft.
+East Service Building,35000317,1076 ELLESMERE RD,Scarborough,Ontario,M1P 4P4,Canada,Library,20040,Sq. Ft.
+Don Mills Library,35000314,888 LAWRENCE AVE E,North York,Ontario,M3C 1P6,Canada,Library,21563,Sq. Ft.
+Downsview Library,35000315,2793 KEELE ST,North York,Ontario,M3M 2G3,Canada,Library,20016,Sq. Ft.
+Dawes Road Library,35000312,416 DAWES RD,East York,Ontario,M4B 2E8,Canada,Library,6740,Sq. Ft.
+Deer Park Library,35000313,40 ST CLAIR AVE E,Toronto,Ontario,M4T 1M9,Canada,Library,16558,Sq. Ft.
+Albion Library,35000294,1515 ALBION RD,Etobicoke,Ontario,M9V 1B2,Canada,Library,29000,Sq. Ft.
+Amesbury Park Library,35000295,1565 LAWRENCE AVE W,North York,Ontario,M6L 1A8,Canada,Library,6320,Sq. Ft.
+Agincourt Library,35000292,155 BONIS AVE,Scarborough,Ontario,M1T 3W6,Canada,Library,27000,Sq. Ft.
+Albert Campbell Library,35000293,496 BIRCHMOUNT RD,Scarborough,Ontario,M1K 1N8,Canada,Library,26100,Sq. Ft.
+"Radio, Electronics and Telecom",35000290,951 WILSON AVE,North York,Ontario,M3K 2A7,Canada,Police Station,18000,Sq. Ft.
+Traffic Services and Garage,35000291,9 HANNA AVE,Toronto,Ontario,M6K 1W8,Canada,Police Station,297988,Sq. Ft.
+Property Evidence Unit,35000288,330 PROGRESS AVE,Scarborough,Ontario,M1P 2Z4,Canada,Police Station,287752,Sq. Ft.
+Public Order,35000289,4610 FINCH AVE E,Scarborough,Ontario,M1S 4G2,Canada,Police Station,8342,Sq. Ft.
+Bloor Gladstone Library,35000302,1101 BLOOR ST W,Toronto,Ontario,M6H 1M7,Canada,Library,20627,Sq. Ft.
+Brentwood Library,35000303,36 BRENTWOOD RD N,Etobicoke,Ontario,M8X 2B5,Canada,Library,17500,Sq. Ft.
+Bendale Library,35000300,1515 DANFORTH RD,Scarborough,Ontario,M1J 1H5,Canada,Library,8500,Sq. Ft.
+Black Creek Library,35000301,1700 WILSON AVE,North York,Ontario,M3L 1B2,Canada,Library,5782,Sq. Ft.
+Bayview Library,35000298,2901 BAYVIEW AVE - 123A,North York,Ontario,M2K 1E6,Canada,Library,6333,Sq. Ft.
+Beaches Library,35000299,2161 QUEEN ST E,Toronto,Ontario,M4L 1J1,Canada,Library,8000,Sq. Ft.
+Annette Street Library,35000296,145 ANNETTE ST,Toronto,Ontario,M6P 1P3,Canada,Library,7806,Sq. Ft.
+Barbara Frum Library,35000297,20 COVINGTON RD,North York,Ontario,M6A 3C1,Canada,Library,39223,Sq. Ft.
+Fire Station 134,34999318,16 MONTGOMERY AVE,Toronto,Ontario,M4R 1C8,Canada,Fire Station,7126,Sq. Ft.
+Fire Station 135,34999319,325 CHAPLIN CRES,Toronto,Ontario,M5N 2M9,Canada,Fire Station,12718,Sq. Ft.
+Fire Station 132,34999316,476 LAWRENCE AVE W,Toronto,Ontario,M5M 1C4,Canada,Fire Station,7664,Sq. Ft.
+Fire Station 133,34999317,1505 LAWRENCE AVE W,North York,Ontario,M6L 1A8,Canada,Fire Station,8062,Sq. Ft.
+Fire Station 125,34999314,1109 LESLIE ST,North York,Ontario,M3C 2J7,Canada,Fire Station,5813,Sq. Ft.
+Fire Station 131,34999315,3135 YONGE ST,Toronto,Ontario,M4N 2K8,Canada,Fire Station,5845,Sq. Ft.
+Fire Station 122,34999312,2545 BAYVIEW AVE,North York,Ontario,M2L 1B4,Canada,Fire Station,3046,Sq. Ft.
+Fire Station 123,34999313,143 BOND AVE,North York,Ontario,M3B 1M1,Canada,Fire Station,2497,Sq. Ft.
+Fire Station 146,34999326,2220 JANE ST,North York,Ontario,M3M 1A4,Canada,Fire Station,7535,Sq. Ft.
+Fire Station 211/TPS Station #27,34999327,900 TAPSCOTT RD,Scarborough,Ontario,M1X 1C3,Canada,Fire Station,5005,Sq. Ft.
+Fire Station 144,34999324,2945 Keele St,North York,Ontario,M3K 2C5,Canada,Fire Station,12917,Sq. Ft.
+Fire Station 145,34999325,20 BEFFORT RD,North York,Ontario,M3K 2B1,Canada,Fire Station,11001,Sq. Ft.
+Fire Station 142/TPS Station #15,34999322,2753 JANE ST,North York,Ontario,M3L 2M1,Canada,Fire Station,5586,Sq. Ft.
+Fire Station 143,34999323,1009 SHEPPARD AVE W,North York,Ontario,M3H 2T7,Canada,Fire Station,2895,Sq. Ft.
+Fire Station 135 - OLD,34999320,641 EGLINTON AVE W,Toronto,Ontario,M5N 1C5,Canada,Fire Station,10592,Sq. Ft.
+Fire Station 141,34999321,4100 KEELE ST,North York,Ontario,M3J 1P1,Canada,Fire Station,12500,Sq. Ft.
+Fire Academy,34999302,895 EASTERN AVE,Toronto,Ontario,M4L 1A2,Canada,Fire Station,61214,Sq. Ft.
+Fire Museum And Storage,34999303,351 BIRCHMOUNT RD,Scarborough,Ontario,M1N 3K1,Canada,Fire Station,3272,Sq. Ft.
+401 Gladstone Av Shelter,34999300,875 DUFFERIN ST,Toronto,Ontario,M6H 4J3,Canada,Other - Public Services,1,Sq. Ft.
+FM Corporate Services,34999301,55 John St,Toronto,Ontario,M5V 3C6,Canada,Other - Public Services,1,Sq. Ft.
+The Guild Inn,34999298,191 GUILDWOOD PKWY,Scarborough,Ontario,M1E 1P5,Canada,Other - Public Services,13627,Sq. Ft.
+Three Points Where Two Lines Meet,34999299,1 Vaughan Rd. Island,Toronto,Ontario,M6E 2Y4,Canada,Other - Public Services,1,Sq. Ft.
+Old City Hall - Cenotaph,34999296,60 Queen St W,Toronto,Ontario,M5H 2M3,Canada,Other - Public Services,1,Sq. Ft.
+Prince Edward Viaduct Lighting Project,34999297,Multiple,Toronto,Ontario,M4K 3Y5,Canada,Other - Public Services,1,Sq. Ft.
+Fire Station 116,34999310,255 ESTHER SHINER BLVD,North York,Ontario,M2K 3A6,Canada,Fire Station,11776,Sq. Ft.
+Fire Station 121,34999311,10 WILLIAM CARSON CRES,North York,Ontario,M2P 2E1,Canada,Fire Station,4219,Sq. Ft.
+Fire Station 114/TPS Station #58,34999308,12 CANTERBURY PL,North York,Ontario,M2N 6N8,Canada,Fire Station,8633,Sq. Ft.
+Fire Station 115,34999309,115 PARKWAY FOREST DR,North York,Ontario,M2J 1L8,Canada,Fire Station,5985,Sq. Ft.
+Fire Station 112/TPS Station #55,34999306,5700 BATHURST ST,North York,Ontario,M2R 3N4,Canada,Fire Station,7018,Sq. Ft.
+Fire Station 113,34999307,700 SENECA HILL DR,North York,Ontario,M2J 2W8,Canada,Fire Station,4833,Sq. Ft.
+Fire Prevention Office,34999304,3 DOHME AVE,East York,Ontario,M4B 1Y7,Canada,Fire Station,25898,Sq. Ft.
+Fire Station 111/TPS Station #56,34999305,3300 BAYVIEW AVE,North York,Ontario,M2M 3R7,Canada,Fire Station,5662,Sq. Ft.
+Fire Station 312,34999350,34 YORKVILLE AVE,Toronto,Ontario,M4W 1L4,Canada,Fire Station,9806,Sq. Ft.
+Fire Station 313,34999351,441 BLOOR ST E,Toronto,Ontario,M4W 1J1,Canada,Fire Station,12099,Sq. Ft.
+Fire Station 245,34999348,1600 BIRCHMOUNT RD,Scarborough,Ontario,M1P 2H6,Canada,Fire Station,5608,Sq. Ft.
+Fire Station 311,34999349,20 BALMORAL AVE,Toronto,Ontario,M4V 1J4,Canada,Fire Station,12755,Sq. Ft.
+Fire Station 243/TPS Station #29,34999346,4560 SHEPPARD AVE E,Scarborough,Ontario,M1S 1V2,Canada,Fire Station,5350,Sq. Ft.
+Fire Station 244,34999347,2340 BIRCHMOUNT RD,Scarborough,Ontario,M1T 2M3,Canada,Fire Station,5350,Sq. Ft.
+Fire Station 241,34999344,3325 WARDEN AVE,Scarborough,Ontario,M1W 3L6,Canada,Fire Station,5500,Sq. Ft.
+Fire Station 242,34999345,2733 BRIMLEY RD,Scarborough,Ontario,M1V 1T4,Canada,Fire Station,5500,Sq. Ft.
+Fire Station 325,34999358,475 DUNDAS ST E,Toronto,Ontario,M5A 2B5,Canada,Fire Station,10129,Sq. Ft.
+Fire Station 331,34999359,33 CLAREMONT ST,Toronto,Ontario,M6J 2M3,Canada,Fire Station,10979,Sq. Ft.
+Fire Station 323,34999356,153 CHATHAM AVE,Toronto,Ontario,M4J 1K8,Canada,Fire Station,10236,Sq. Ft.
+Fire Station 324,34999357,840 GERRARD ST E,Toronto,Ontario,M4M 1Y7,Canada,Fire Station,13153,Sq. Ft.
+Fire Station 321,34999354,231 MCRAE DR,East York,Ontario,M4G 1T6,Canada,Fire Station,7535,Sq. Ft.
+Fire Station 322,34999355,256 COSBURN AVE,Toronto,Ontario,M4J 2M1,Canada,Fire Station,7535,Sq. Ft.
+Fire Station 314,34999352,12 GROSVENOR ST,Toronto,Ontario,M4Y 1A8,Canada,Fire Station,11937,Sq. Ft.
+Fire Station 315,34999353,132 BELLEVUE AVE,Toronto,Ontario,M5T 2N9,Canada,Fire Station,7244,Sq. Ft.
+Fire Station 223,34999334,116 DORSET RD,Scarborough,Ontario,M1M 2T1,Canada,Fire Station,7459,Sq. Ft.
+Fire Station 224,34999335,1313 WOODBINE AVE,Toronto,Ontario,M4C 4E9,Canada,Fire Station,3767,Sq. Ft.
+Fire Station 221,34999332,2575 EGLINTON AVE E,Scarborough,Ontario,M1K 2R8,Canada,Fire Station,11916,Sq. Ft.
+Fire Station 222,34999333,755 WARDEN AVE,Scarborough,Ontario,M1L 4B3,Canada,Fire Station,6910,Sq. Ft.
+Fire Station 214,34999330,745 MEADOWVALE RD,Scarborough,Ontario,M1C 1T1,Canada,Fire Station,4887,Sq. Ft.
+Fire Station 215,34999331,5318 LAWRENCE AVE E,Scarborough,Ontario,M1C 1R4,Canada,Fire Station,5737,Sq. Ft.
+Fire Station 212/TPS Station #25,34999328,8500 SHEPPARD AVE E,Scarborough,Ontario,M1B 5R4,Canada,Fire Station,16501,Sq. Ft.
+Fire Station 213,34999329,7 LAPSLEY RD,Scarborough,Ontario,M1B 1K1,Canada,Fire Station,5048,Sq. Ft.
+Fire Station 234,34999342,40 CORONATION DR,Scarborough,Ontario,M1E 2H1,Canada,Fire Station,5350,Sq. Ft.
+Fire Station 235,34999343,200 BERMONDSEY RD,North York,Ontario,M4A 1Y1,Canada,Fire Station,8902,Sq. Ft.
+Fire Station 232,34999340,1550 MIDLAND AVE,Scarborough,Ontario,M1P 3C2,Canada,Fire Station,5350,Sq. Ft.
+Fire Station 233,34999341,59 CURLEW DR,North York,Ontario,M3A 2P8,Canada,Fire Station,11001,Sq. Ft.
+Fire Station 227,34999338,1904 QUEEN ST E,Toronto,Ontario,M4L 1H4,Canada,Fire Station,10484,Sq. Ft.
+Fire Station 231,34999339,740 MARKHAM RD,Scarborough,Ontario,M1H 2A9,Canada,Fire Station,14241,Sq. Ft.
+Fire Station 225,34999336,3600 DANFORTH AVE,Scarborough,Ontario,M1N 4E9,Canada,Fire Station,9085,Sq. Ft.
+Fire Station 226,34999337,87 MAIN ST,Toronto,Ontario,M4E 2V6,Canada,Fire Station,11808,Sq. Ft.
+Fire Station 434,34999382,3 LUNNESS RD,Etobicoke,Ontario,M8W 4M2,Canada,Fire Station,5188,Sq. Ft.
+Fire Station 435,34999383,130 EIGHTH ST,Etobicoke,Ontario,M8V 3C6,Canada,Fire Station,6889,Sq. Ft.
+Fire Station 432,34999380,155 The East Mall,Etobicoke,Ontario,M8Z 5Y5,Canada,Fire Station,11765,Sq. Ft.
+Fire Station 433,34999381,615 ROYAL YORK RD,Etobicoke,Ontario,M8Y 2S8,Canada,Fire Station,5038,Sq. Ft.
+Fire Station 426,34999378,140 LANSDOWNE AVE,Toronto,Ontario,M6K 2V9,Canada,Fire Station,12486,Sq. Ft.
+Fire Station 431,34999379,308 PRINCE EDWARD DR S,Etobicoke,Ontario,M8Y 3Z2,Canada,Fire Station,3907,Sq. Ft.
+Fire Station 424,34999376,462 RUNNYMEDE RD,Toronto,Ontario,M6S 2Z3,Canada,Fire Station,5866,Sq. Ft.
+Fire Station 425,34999377,83 DEFOREST RD,Toronto,Ontario,M6S 1J5,Canada,Fire Station,7955,Sq. Ft.
+Fire Warehouse & Mechanical Building,34999390,15 ROTHERHAM AVE,Toronto,Ontario,M6M 1L9,Canada,Fire Station,23002,Sq. Ft.
+HUSAR,34999391,21 OLD EGLINTON AVE,North York,Ontario,M4A 0A2,Canada,Fire Station,11485,Sq. Ft.
+Fire Station 445,34999388,280 BURNHAMTHORPE RD,Etobicoke,Ontario,M9B 1Z5,Canada,Fire Station,11765,Sq. Ft.
+Fire Training Centre,34999389,4562 SHEPPARD AVE E,Scarborough,Ontario,M1S 1V2,Canada,Fire Station,7998,Sq. Ft.
+Fire Station 443,34999386,1724 ISLINGTON AVE,Etobicoke,Ontario,M9A 3N2,Canada,Fire Station,3929,Sq. Ft.
+Fire Station 444,34999387,666 RENFORTH DR,Etobicoke,Ontario,M9C 2N6,Canada,Fire Station,3929,Sq. Ft.
+Fire Station 441,34999384,947 MARTIN GROVE RD,Etobicoke,Ontario,M9W 4V6,Canada,Fire Station,19472,Sq. Ft.
+Fire Station 442,34999385,2015 Lawrence Ave W,Toronto,Ontario,M9N 3V5,Canada,Fire Station,15479,Sq. Ft.
+Fire Station 343,34999366,65 HENDRICK AVE,Toronto,Ontario,M6G 3S4,Canada,Fire Station,9827,Sq. Ft.
+Fire Station 344,34999367,240 HOWLAND AVE,Toronto,Ontario,M5R 3B6,Canada,Fire Station,11238,Sq. Ft.
+Fire Station 341,34999364,555 OAKWOOD AVE,Toronto,Ontario,M6E 2X4,Canada,Fire Station,9268,Sq. Ft.
+Fire Station 342,34999365,106 ASCOT AVE,Toronto,Ontario,M6E 1G2,Canada,Fire Station,3057,Sq. Ft.
+Fire Station 334/TPS Station #36,34999362,339 QUEENS QUAY W,Toronto,Ontario,M5V 1A2,Canada,Fire Station,13003,Sq. Ft.
+Fire Station 335/TPS Station #59,34999363,235 CIBOLA AVE,Toronto,Ontario,M5J 2W6,Canada,Fire Station,4402,Sq. Ft.
+Fire Station 332,34999360,260 ADELAIDE ST W,Toronto,Ontario,M5H 1X6,Canada,Fire Station,24865,Sq. Ft.
+Fire Station 333,34999361,207 FRONT ST E,Toronto,Ontario,M5A 1E8,Canada,Fire Station,12723,Sq. Ft.
+Fire Station 422,34999374,590 JANE ST,Toronto,Ontario,M6S 4A6,Canada,Fire Station,7944,Sq. Ft.
+Fire Station 423,34999375,358 KEELE ST,Toronto,Ontario,M6P 2K7,Canada,Fire Station,12335,Sq. Ft.
+Fire Station 415,34999372,2120 KIPLING AVE,Etobicoke,Ontario,M9W 4K5,Canada,Fire Station,7804,Sq. Ft.
+Fire Station 421,34999373,6 LAMBTON AVE,Toronto,Ontario,M6N 2S1,Canada,Fire Station,9461,Sq. Ft.
+Fire Station 412,34999370,267 HUMBERLINE DR,Etobicoke,Ontario,M9W 5T6,Canada,Fire Station,7029,Sq. Ft.
+Fire Station 413,34999371,1549 ALBION RD,Etobicoke,Ontario,M9V 1B2,Canada,Fire Station,3929,Sq. Ft.
+Fire Station 345,34999368,1285 DUFFERIN ST,Toronto,Ontario,M6H 4C2,Canada,Fire Station,12809,Sq. Ft.
+Fire Station 411,34999369,75 TORYORK DR,North York,Ontario,M9L 1X9,Canada,Fire Station,8762,Sq. Ft.
+Ledbury Park,34999414,146 LEDBURY ST,Toronto,Ontario,M5M 4J1,Canada,Other - Recreation,5780,Sq. Ft.
+McGregor Park Community Centre,34999415,2231 LAWRENCE AVE E,Scarborough,Ontario,M1P 2P5,Canada,Other - Recreation,45262,Sq. Ft.
+L'Amoreaux Park Yard,34999412,3079 BIRCHMOUNT RD,Scarborough,Ontario,M1W 2S4,Canada,Other - Recreation,1690,Sq. Ft.
+L'Amoreaux Tennis Centre,34999413,300 SILVER SPRINGS BLVD,Scarborough,Ontario,M1V 1S4,Canada,Other - Recreation,31474,Sq. Ft.
+Irving W. Chapley Community Centre,34999410,205 WILMINGTON AVE,North York,Ontario,M3H 6B3,Canada,Other - Recreation,6997,Sq. Ft.
+Jimmie Simpson Recreation Centre,34999411,870 QUEEN ST E,Toronto,Ontario,M4M 3G9,Canada,Other - Recreation,43906,Sq. Ft.
+Grandravine Community Recreation Centre,34999408,23 GRANDRAVINE DR,North York,Ontario,M3J 1B3,Canada,Other - Recreation,33637,Sq. Ft.
+Heron Park Community Centre,34999409,292 MANSE RD,Scarborough,Ontario,M1E 3V4,Canada,Other - Recreation,52377,Sq. Ft.
+Angela James Arena,34999422,165 GRENOBLE DR,North York,Ontario,M3C 3E7,Canada,Indoor Arena,25640,Sq. Ft.
+Baycrest Arena,34999423,160 NEPTUNE DR,North York,Ontario,M6A 2Y3,Canada,Indoor Arena,27060,Sq. Ft.
+Wallace Emerson Community Centre,34999420,1260 DUFFERIN ST,Toronto,Ontario,M6H 4C3,Canada,Other - Recreation,51882,Sq. Ft.
+Albion Arena,34999421,1501 ALBION RD,Etobicoke,Ontario,M9V 1B2,Canada,Indoor Arena,32658,Sq. Ft.
+Pleasantview Community Centre,34999418,545 VAN HORNE AVE,North York,Ontario,M2J 4S8,Canada,Other - Recreation,30559,Sq. Ft.
+Roding Community Centre,34999419,600 RODING ST,North York,Ontario,M3M 2A5,Canada,Other - Recreation,30494,Sq. Ft.
+Mitchell Field Community Centre,34999416,89 CHURCH AVE,North York,Ontario,M2N 6C9,Canada,Other - Recreation,30182,Sq. Ft.
+Oriole Community Centre,34999417,2975 DON MILLS RD W,North York,Ontario,M2J 3B7,Canada,Other - Recreation,64347,Sq. Ft.
+Rockcliffe GreenHouse,34999398,301 ROCKCLIFFE BLVD,Toronto,Ontario,M6N 4R8,Canada,Other - Public Services,12271,Sq. Ft.
+Agincourt Recreation Centre,34999399,15 HEATHER RD,Scarborough,Ontario,M1S 2B7,Canada,Other - Recreation,93398,Sq. Ft.
+High Park Greenhouses,34999396,1873 BLOOR ST W,Toronto,Ontario,M6P 3K7,Canada,Other - Public Services,60386,Sq. Ft.
+Riverlea Greenhouse,34999397,919 SCARLETT RD,Etobicoke,Ontario,M9P 2V3,Canada,Other - Public Services,17018,Sq. Ft.
+Centennial Park Conservatory,34999394,151 ELMCREST RD,Etobicoke,Ontario,M9C 3S2,Canada,Other - Public Services,29170,Sq. Ft.
+Cloud Gardens,34999395,14 TEMPERANCE ST,Toronto,Ontario,M5H 1Y4,Canada,Other - Public Services,6243,Sq. Ft.
+Toryork Office,34999392,40 TORYORK DR,North York,Ontario,M9L 1X6,Canada,Fire Station,42625,Sq. Ft.
+Allan Gardens,34999393,121 CARLTON ST,Toronto,Ontario,M5A 2K2,Canada,Other - Public Services,25177,Sq. Ft.
+Gord & Irene Risk Community Centre,34999406,2650 FINCH AVE W,North York,Ontario,M9M 3A3,Canada,Other - Recreation,44304,Sq. Ft.
+Goulding Community Centre,34999407,45 GOULDING AVE,North York,Ontario,M2M 1K8,Canada,Other - Recreation,43540,Sq. Ft.
+Cummer Park Community Centre,34999404,6000 LESLIE ST,North York,Ontario,M2H 1J9,Canada,Other - Recreation,34348,Sq. Ft.
+Glenlong Community Centre,34999405,35 GLEN LONG AVE,Toronto,Ontario,M6B 2M1,Canada,Other - Recreation,10236,Sq. Ft.
+Broadlands Community Centre,34999402,19 CASTLEGROVE BLVD,North York,Ontario,M3A 1K9,Canada,Other - Recreation,10667,Sq. Ft.
+Centennial Recreation Centre,34999403,1967 ELLESMERE RD,Scarborough,Ontario,M1H 2W5,Canada,Other - Recreation,102376,Sq. Ft.
+Birchmount Community Centre,34999401,93 BIRCHMOUNT RD,Scarborough,Ontario,M1N 3J7,Canada,Other - Recreation,46166,Sq. Ft.
+Victoria Village Arena,34999446,190 BERMONDSEY RD,North York,Ontario,M4A 1Y1,Canada,Indoor Arena,33637,Sq. Ft.
+York Mills Arena,34999447,2539 BAYVIEW AVE,North York,Ontario,M2L 1A9,Canada,Indoor Arena,23573,Sq. Ft.
+Scarborough Village Recreation Centre,34999445,3600 KINGSTON RD,Scarborough,Ontario,M1M 1R9,Canada,Indoor Arena,58125,Sq. Ft.
+Phil White Arena,34999442,443 ARLINGTON AVE,Toronto,Ontario,M6C 3A4,Canada,Indoor Arena,25941,Sq. Ft.
+Pine Point Arena,34999443,15 GRIERSON RD,Etobicoke,Ontario,M9W 3R2,Canada,Indoor Arena,32001,Sq. Ft.
+Long Branch Arena,34999440,75 ARCADIAN CRCL,Etobicoke,Ontario,M8W 2Z5,Canada,Indoor Arena,25629,Sq. Ft.
+Mimico Arena,34999441,31 DRUMMOND ST,Etobicoke,Ontario,M8V 1Y7,Canada,Indoor Arena,35607,Sq. Ft.
+East York Community Centre,34999454,1081 PAPE AVE,Toronto,Ontario,M4K 3W6,Canada,Other - Recreation,31000,Sq. Ft.
+Etobicoke Olympium,34999455,590 RATHBURN RD,Etobicoke,Ontario,M9C 3T3,Canada,Other - Recreation,139995,Sq. Ft.
+Dennis R. Timbrell Resource Centre,34999452,29 ST DENNIS DR,North York,Ontario,M3C 3J3,Canada,Other - Recreation,34348,Sq. Ft.
+Douglas Snow Aquatic Centre,34999453,5100 YONGE ST,North York,Ontario,M2N 5V7,Canada,Other - Recreation,40666,Sq. Ft.
+Antibes Park (Community Centre),34999450,140 ANTIBES DR,North York,Ontario,M2R 3J3,Canada,Other - Recreation,18492,Sq. Ft.
+Beaches Recreation Centre,34999451,6 WILLIAMSON RD,Toronto,Ontario,M4E 1K5,Canada,Other - Recreation,14445,Sq. Ft.
+Albion Pool & Health Club,34999448,1485 ALBION RD,Etobicoke,Ontario,M9V 1B2,Canada,Other - Recreation,20688,Sq. Ft.
+Annette Community Recreation Centre,34999449,333 ANNETTE ST,Toronto,Ontario,M6P 1R3,Canada,Other - Recreation,20774,Sq. Ft.
+Don Montgomery Community Centre,34999430,2467 EGLINTON AVE E,Scarborough,Ontario,M1K 2R1,Canada,Indoor Arena,89125,Sq. Ft.
+Downsview Arena,34999431,1633 WILSON AVE,North York,Ontario,M3L 1A5,Canada,Indoor Arena,34218,Sq. Ft.
+Commander Park Recreation Centre,34999428,140 COMMANDER BLVD,Scarborough,Ontario,M1S 3H7,Canada,Indoor Arena,56317,Sq. Ft.
+Don MilIs Citivan Arena,34999429,1030 DON MILLS RD,North York,Ontario,M3C 1W6,Canada,Indoor Arena,27857,Sq. Ft.
+Central Arena,34999426,50 MONTGOMERY RD,Etobicoke,Ontario,M8X 1Z4,Canada,Indoor Arena,32001,Sq. Ft.
+Chris Tonks Arena,34999427,95 BLACK CREEK DR,Toronto,Ontario,M6M 2K6,Canada,Indoor Arena,23638,Sq. Ft.
+Bayview Arena,34999424,3230 BAYVIEW AVE,North York,Ontario,M2M 3R7,Canada,Indoor Arena,28417,Sq. Ft.
+Centennial Park Arena & Stadium,34999425,156 CENTENNIAL PARK RD,Etobicoke,Ontario,M9C 5H1,Canada,Indoor Arena,72050,Sq. Ft.
+Lambton Arena,34999438,4100 DUNDAS ST W,Toronto,Ontario,M6S 2T7,Canada,Indoor Arena,24854,Sq. Ft.
+Herbert H. Carnegie Centennial Centre,34999436,580 FINCH AVE W,North York,Ontario,M2R 1N7,Canada,Indoor Arena,42270,Sq. Ft.
+John Booth Memorial Arena,34999437,230 GOSFORD BLVD,North York,Ontario,M3N 2H1,Canada,Indoor Arena,27007,Sq. Ft.
+Fenside Arena,34999434,30 SLIDELL CRES,North York,Ontario,M3A 2C4,Canada,Indoor Arena,26307,Sq. Ft.
+Habitant Arena,34999435,3383 WESTON RD,Toronto,Ontario,M6N 3P6,Canada,Indoor Arena,26307,Sq. Ft.
+East York Curling Club,34999432,901 COSBURN AVE,Toronto,Ontario,M4C 2W7,Canada,Indoor Arena,17868,Sq. Ft.
+East York Memorial Arena,34999433,888 COSBURN AVE,Toronto,Ontario,M4C 2W6,Canada,Indoor Arena,30257,Sq. Ft.
+888 Cosburn Ave (Blower),34999478,373 CEDARVALE AVE,Toronto,Ontario,M4C 4K7,Canada,Other - Public Services,1,Sq. Ft.
+Beare Road Landfill (Closed),34999479,8145 FINCH AVE E,Scarborough,Ontario,M1B 5W3,Canada,Other - Public Services,5942,Sq. Ft.
+Dee Avenue Lab,34999476,30 DEE AVE,Toronto,Ontario,M9N 1S9,Canada,Other - Public Services,14994,Sq. Ft.
+110 Coe Hill Dr (Blower Enclosure),34999477,110 COE HILL DR,Toronto,Ontario,M6S 3E1,Canada,Other - Public Services,20,Sq. Ft.
+University Settlement,34999474,23 GRANGE RD,Toronto,Ontario,M5T 1C3,Canada,Other - Recreation,47566,Sq. Ft.
+York Recreation Centre,34999475,115 Black Creek Dr,Toronto,Ontario,M6N 2K6,Canada,Other - Recreation,67879,Sq. Ft.
+The Elms Pool and Community School,34999472,45 GOLFDOWN DR,Etobicoke,Ontario,M9W 2H8,Canada,Other - Recreation,13885,Sq. Ft.
+Trinity Community Recreation Centre,34999473,155 CRAWFORD ST,Toronto,Ontario,M6J 2V5,Canada,Other - Recreation,36909,Sq. Ft.
+100 Rosedale Valley,34999486,100 ROSEDALE VALLEY RD,Toronto,Ontario,M4W 1P7,Canada,Other - Public Services,2691,Sq. Ft.
+Storer Landfill,34999484,57A Storer Dr,North York,Ontario,M9M 1X6,Canada,Other - Public Services,1,Sq. Ft.
+1 STRATHMORE BLVD,34999485,1 STRATHMORE BLVD,Toronto,Ontario,M4J 1P1,Canada,Other - Public Services,2383,Sq. Ft.
+Donlands Landfill,34999482,485 DONLANDS AVE,Toronto,Ontario,M4J 3S4,Canada,Other - Public Services,603,Sq. Ft.
+Keele Valley Landfill,34999483,200 McNaughton Rd,Maple,Ontario,L6A 4E2,Canada,Other - Public Services,10764,Sq. Ft.
+Brock North Landfill (Closed),34999480,3rd Concession Rd & Rossland Rd,Pickering,Ontario,L1T 4P8,Canada,Other - Public Services,1,Sq. Ft.
+Brock West Landfill (Closed),34999481,2357 Meriadoc Dr,Pickering,Ontario,L1X 2T1,Canada,Other - Public Services,10764,Sq. Ft.
+Main Square Community Centre,34999462,245 MAIN ST,Toronto,Ontario,M4C 5R8,Canada,Other - Recreation,35123,Sq. Ft.
+Mary McCormick Recreation Centre,34999463,66 SHERIDAN AVE,Toronto,Ontario,M6K 2G9,Canada,Other - Recreation,43099,Sq. Ft.
+John Innes Community Recreation Centre,34999460,140 SHERBOURNE ST,Toronto,Ontario,M5A 2R6,Canada,Other - Recreation,28055,Sq. Ft.
+Joseph J. Piccininni Community Centre,34999461,1369 ST CLAIR AVE W,Toronto,Ontario,M6E 1C5,Canada,Other - Recreation,70030,Sq. Ft.
+Gus Ryder Pool and Health Club,34999458,1 FAUSTINA DR,Etobicoke,Ontario,M8V 3L9,Canada,Other - Recreation,21097,Sq. Ft.
+Harrison Pool,34999459,15 STEPHANIE ST,Toronto,Ontario,M5T 1B1,Canada,Other - Recreation,15263,Sq. Ft.
+Fairmount Park Community Centre,34999456,1725 GERRARD ST E,Toronto,Ontario,M4L 2B3,Canada,Other - Recreation,4359,Sq. Ft.
+Frankland Community Centre,34999457,816 LOGAN AVE,Toronto,Ontario,M4K 3E1,Canada,Other - Recreation,15308,Sq. Ft.
+St Albans Boys Club,34999470,843 PALMERSTON AVE,Toronto,Ontario,M6G 2R8,Canada,Other - Recreation,23293,Sq. Ft.
+St Lawrence Community Recreation Centre,34999471,246 THE ESPLANADE,Toronto,Ontario,M5A 4J6,Canada,Other - Recreation,46113,Sq. Ft.
+Pam McConnell Aquatic Centre,34999468,640 DUNDAS ST E,Toronto,Ontario,M5A 2B8,Canada,Other - Recreation,30505,Sq. Ft.
+Scadding Court C.C.,34999469,707 DUNDAS ST W,Toronto,Ontario,M5T 2W6,Canada,Other - Recreation,46694,Sq. Ft.
+Norseman Community School and Pool,34999466,105 NORSEMAN ST,Etobicoke,Ontario,M8Z 2R1,Canada,Other - Recreation,19052,Sq. Ft.
+North Toronto Memorial Community Centre,34999467,200 EGLINTON AVE W,Toronto,Ontario,M4R 1C3,Canada,Other - Recreation,74820,Sq. Ft.
+Matty Eckler Recreation Centre,34999464,953 GERRARD ST E,Toronto,Ontario,M4M 1Z4,Canada,Other - Recreation,47383,Sq. Ft.
+Memorial Pool and Health Club,34999465,44 MONTGOMERY RD,Etobicoke,Ontario,M8X 1Z4,Canada,Other - Recreation,13444,Sq. Ft.
+4200 Eglinton Ave W,34999510,4200 EGLINTON AVE W,Etobicoke,Ontario,M9A 4M3,Canada,Other - Public Services,2002,Sq. Ft.
+43 Edwin Ave,34999511,43 EDWIN AVE,Toronto,Ontario,M6P 3Z5,Canada,Other - Public Services,1074,Sq. Ft.
+40 DARRELL AVE,34999508,40 DARRELL AVE,Toronto,Ontario,M4E 2G4,Canada,Other - Public Services,962,Sq. Ft.
+40 Russell Hill Rd,34999509,40 RUSSELL HILL RD,Toronto,Ontario,M4V 2T2,Canada,Other - Public Services,3735,Sq. Ft.
+388 EVANS AVE,34999506,388 EVANS AVE,Etobicoke,Ontario,M8Z 1K6,Canada,Other - Public Services,7500,Sq. Ft.
+39 Commissioners St.,34999507,39 Commissioners St.,Toronto,Ontario,M5A 1A6,Canada,Other - Public Services,1,Sq. Ft.
+30 Woodrow Ave,34999504,30 Woodrow Ave,Toronto,Ontario,M4C 5S2,Canada,Other - Public Services,1,Sq. Ft.
+313 Gainsborough Rd,34999505,315 GAINSBOROUGH RD,Toronto,Ontario,M4L 3C6,Canada,Other - Public Services,484,Sq. Ft.
+73 Spadina,34999518,73 SPADINA RD,Toronto,Ontario,M5R 2T1,Canada,Other - Public Services,2548,Sq. Ft.
+74 Dupont St.,34999519,74 Dupont St.,Toronto,Ontario,M5R 1V2,Canada,Other - Public Services,1,Sq. Ft.
+610 Bay St,34999516,610 Bay St,Toronto,Ontario,M5G 1M5,Canada,Other - Public Services,1,Sq. Ft.
+705 Progress Ave,34999517,705 Progress Ave,Scarborough,Ontario,M1H 2X1,Canada,Other - Public Services,1,Sq. Ft.
+468 Queen St W (468/470),34999514,468 Queen St W,Toronto,Ontario,M5V 2B2,Canada,Other - Public Services,1,Sq. Ft.
+567 ARLINGTON,34999515,567 ARLINGTON AVE,Toronto,Ontario,M6C 3A6,Canada,Other - Public Services,1066,Sq. Ft.
+460 Jarvis St,34999512,460 JARVIS ST,Toronto,Ontario,M4Y 2X8,Canada,Other - Public Services,1,Sq. Ft.
+14 Woodrow Ave,34999494,14 Woodrow Ave,Toronto,Ontario,M4C 5S2,Canada,Other - Public Services,1,Sq. Ft.
+134 Spadina Rd,34999492,134 SPADINA RD,Toronto,Ontario,M5R 2T8,Canada,Other - Public Services,3369,Sq. Ft.
+136 Spadina Rd,34999493,136 SPADINA RD,Toronto,Ontario,M5R 2T8,Canada,Other - Public Services,2626,Sq. Ft.
+113 Spadina Rd,34999490,113 SPADINA RD,Toronto,Ontario,M5R 2T1,Canada,Other - Public Services,2982,Sq. Ft.
+130 Elizabeth St,34999491,130 Elizabeth St,Toronto,Ontario,M5G 1C6,Canada,Other - Public Services,1,Sq. Ft.
+111 KING ST E,34999488,111 KING ST E,Toronto,Ontario,M5C 1G6,Canada,Other - Public Services,8775,Sq. Ft.
+111 Spadina Rd.,34999489,111 SPADINA RD,Toronto,Ontario,M5R 2T1,Canada,Other - Public Services,4758,Sq. Ft.
+292-296 Parliament St,34999502,292-296 Parliament St,Toronto,Ontario,M5A 3A4,Canada,Other - Public Services,1,Sq. Ft.
+3 STRATHMORE BLVD,34999503,3 STRATHMORE BLVD,Toronto,Ontario,M4J 1P1,Canada,Other - Public Services,1328,Sq. Ft.
+238 Queen St. W,34999500,238 Queen St. W,Toronto,Ontario,M5V 1Z7,Canada,Other - Public Services,11930,Sq. Ft.
+1845 Kingston Rd,34999498,1845 KINGSTON RD,Scarborough,Ontario,M1N 1T3,Canada,Other - Public Services,2400,Sq. Ft.
+17 Mill St [George S Pratt House],34999496,17 MILL ST,North York,Ontario,M2P 1B3,Canada,Other - Public Services,2000,Sq. Ft.
+1761 Sheppard Ave E,34999497,1761 Sheppard Ave. E,North York,Ontario,M2J 0A5,Canada,Other - Public Services,1,Sq. Ft.
+High Park Washroom (Rock Garden),34999542,1873 Bloor St. W,Toronto,Ontario,M6R 2Z3,Canada,Other - Public Services,1,Sq. Ft.
+10 Daventry Rd,34999543,10 Daventry Rd,Scarborough,Ontario,M1H 1X9,Canada,Other - Public Services,1,Sq. Ft.
+High Park Washroom (Children's Garden),34999540,1873 Bloor St W,Toronto,Ontario,M6R 2Z3,Canada,Other - Public Services,1,Sq. Ft.
+High Park Washroom (Former Chess Club),34999541,1873 Bloor St. W,Toronto,Ontario,M6R 2Z3,Canada,Other - Public Services,1,Sq. Ft.
+High Park Train Shed,34999538,1873 Bloor St W,Toronto,Ontario,M6R 2Z3,Canada,Other - Public Services,1,Sq. Ft.
+High Park Upper Cherry Washroom,34999539,1873 Bloor St W,Toronto,Ontario,M6R 2Z3,Canada,Other - Public Services,1,Sq. Ft.
+High Park Children's Teaching Kitchen,34999536,105 Colborne Lodge Dr.,Toronto,Ontario,M6P 2S3,Canada,Other - Public Services,835,Sq. Ft.
+High Park Parkside Washroom,34999537,1873 Bloor St. W,Toronto,Ontario,M6S 2Z3,Canada,Other - Public Services,1,Sq. Ft.
+140 Wellesley St E,34999550,140 Wellesley St E,Toronto,Ontario,M4Y 1J1,Canada,Other - Public Services,1,Sq. Ft.
+150 Harrison St [Harrison St Park] - ele,34999551,150 Harrison St,Toronto,Ontario,M6J 2A4,Canada,Other - Public Services,1,Sq. Ft.
+139 Marcos Blvd,34999548,139 Marcos Blvd,Scarborough,Ontario,M1P 2S2,Canada,Other - Public Services,1,Sq. Ft.
+14 Dewhurst Blvd,34999549,14 Dewhurst Blvd.,Toronto,Ontario,M4J 3H9,Canada,Other - Public Services,1,Sq. Ft.
+111 St Andrews Rd,34999546,111 St Andrews Road,Scarborough,Ontario,M1P 4C6,Canada,Other - Public Services,1,Sq. Ft.
+1231 Queen St W,34999547,1229 QUEEN ST W,Toronto,Ontario,M6K 1L2,Canada,Other - Public Services,1,Sq. Ft.
+100 Hickory Tree Rd.,34999544,100 Hickory Tree Rd,Toronto,Ontario,M6N 3W4,Canada,Other - Public Services,166,Sq. Ft.
+1094 Lakeshore Blvd W,34999545,1094 Lakeshore Blvd W,Toronto,Ontario,M6K 3C3,Canada,Other - Public Services,1,Sq. Ft.
+Cummer Lodge,34999526,205 CUMMER AVE,North York,Ontario,M2M 2E8,Canada,Residential Care Facility,243200,Sq. Ft.
+Fudger House,34999527,439 SHERBOURNE ST,Toronto,Ontario,M4X 1K6,Canada,Residential Care Facility,118995,Sq. Ft.
+Carefree Lodge,34999524,306 FINCH AVE E,North York,Ontario,M2N 4S5,Canada,Residential Care Facility,67490,Sq. Ft.
+Castleview Wychwood Towers,34999525,351 CHRISTIE ST,Toronto,Ontario,M6G 3C3,Canada,Residential Care Facility,294447,Sq. Ft.
+Greenfield Family Centre - GONE,34999522,305 GREENFIELD AVE,North York,Ontario,M2N 3E7,Canada,Other - Public Services,7384,Sq. Ft.
+Bendale Acres,34999523,2920 LAWRENCE AVE E,Scarborough,Ontario,M1P 2T8,Canada,Residential Care Facility,210327,Sq. Ft.
+90 Morningside Ave,34999520,90 MORNINGSIDE AVE,Scarborough,Ontario,M1E 3C2,Canada,Other - Public Services,1,Sq. Ft.
+Fire & Life Safety Program Office,34999521,35 SPADINA RD,Toronto,Ontario,M5R 2S9,Canada,Other - Public Services,3552,Sq. Ft.
+"Communication, Traffic, & Computer Centre",34999534,703 DON MILLS RD,North York,Ontario,M3C 3N3,Canada,Other - Public Services,132999,Sq. Ft.
+High Park Black Oak Cafe,34999535,1873 Bloor Street W,Toronto,Ontario,M6R 2Z3,Canada,Other - Public Services,1,Sq. Ft.
+Wesburn Manor,34999532,400 THE WEST MALL,Etobicoke,Ontario,M9C 5S1,Canada,Residential Care Facility,150867,Sq. Ft.
+25 Via Renzo Drive,34999533,25 VIA RENZO DR,Richmond Hill,Ontario,L4S 0B8,Canada,Other - Public Services,13186,Sq. Ft.
+Seven Oaks,34999530,9 NEILSON RD,Scarborough,Ontario,M1E 5E1,Canada,Residential Care Facility,133311,Sq. Ft.
+True Davidson Acres,34999531,200 DAWES RD,Toronto,Ontario,M4C 5M8,Canada,Residential Care Facility,130082,Sq. Ft.
+Kipling Acres,34999528,2233 KIPLING AVE,Etobicoke,Ontario,M9W 4L3,Canada,Residential Care Facility,184590,Sq. Ft.
+Lakeshore Lodge,34999529,3197 LAKE SHORE BLVD W,Etobicoke,Ontario,M8V 3X5,Canada,Residential Care Facility,88964,Sq. Ft.
+71 Ellis Park Rd,34999574,71 Ellis Park Rd,Toronto,Ontario,M6S 2V3,Canada,Other - Public Services,1,Sq. Ft.
+734 Middlefield Rd,34999575,734 Middlefield Rd,Scarborough,Ontario,M1V 5E2,Canada,Other - Public Services,1,Sq. Ft.
+65 Dickens St.,34999572,65 Dickens St.,Toronto,Ontario,M4M 1T8,Canada,Other - Public Services,1,Sq. Ft.
+69 Hayden St (Park),34999573,69 Hayden St,Toronto,Ontario,M4Y 2P2,Canada,Other - Public Services,1,Sq. Ft.
+585 Queen's Quay West,34999570,585 Queen's Quay W,Toronto,Ontario,M5V 3G3,Canada,Other - Public Services,1,Sq. Ft.
+60 Ordnance St.,34999571,60 Ordnance St.,Toronto,Ontario,M6K 1A2,Canada,Other - Public Services,1,Sq. Ft.
+51 Benshire Dr,34999568,51 Benshire Dr,Scarborough,Ontario,M1H 1M5,Canada,Other - Public Services,1,Sq. Ft.
+Abbotsford Park,34999582,99 ELLERSLIE AVE,North York,Ontario,M2N 1Y2,Canada,Other - Public Services,16,Sq. Ft.
+Adams Park,34999583,2 ROZELL RD,Scarborough,Ontario,M1C 2K9,Canada,Other - Public Services,18,Sq. Ft.
+924 Markham Rd,34999580,924 Markham Rd,Scarborough,Ontario,M1H 2Y2,Canada,Other - Public Services,1,Sq. Ft.
+946 Scarborough Golf Club Rd,34999581,946 Scarborough Golf Club Rd,Scarborough,Ontario,M1G 2W7,Canada,Other - Public Services,1,Sq. Ft.
+8 Barkwin Dr,34999578,8 Barkwin Dr,Etobicoke,Ontario,M9V 2W1,Canada,Other - Public Services,12,Sq. Ft.
+873 Brimley Rd,34999579,873 Brimley Rd,Scarborough,Ontario,M1P 3E9,Canada,Other - Public Services,1,Sq. Ft.
+75 Atria Blvd,34999576,75 Atria Blvd.,North York,Ontario,M2J 5B2,Canada,Other - Public Services,1,Sq. Ft.
+751 Brimorton Dr,34999577,751 Brimorton Dr,Scarborough,Ontario,M1G 2S4,Canada,Other - Public Services,1,Sq. Ft.
+3001 McCowan Rd,34999558,3001 MCCOWAN RD,Scarborough,Ontario,M1V 1P2,Canada,Other - Public Services,1,Sq. Ft.
+3045 Brimley Rd,34999559,3045 Brimley Rd,Scarborough,Ontario,M1V 1E1,Canada,Other - Public Services,1,Sq. Ft.
+28 Rean Drive Urban Square Park,34999556,28 Rean Dr.,North York,Ontario,M2K 1H3,Canada,Other - Public Services,1,Sq. Ft.
+291 Mill Rd,34999557,291 Mill Rd,Etobicoke,Ontario,M9C 1Y5,Canada,Other - Public Services,1,Sq. Ft.
+200 Mount Olive Dr,34999554,200 Mount Olive Dr,Etobicoke,Ontario,M9V 3Z5,Canada,Other - Public Services,1,Sq. Ft.
+21 Ballyconnor,34999555,21 Ballyconnor Crt,North York,Ontario,M2M 4C6,Canada,Other - Public Services,1,Sq. Ft.
+180 Roxborough,34999553,245 DOUGLAS DR,Toronto,Ontario,M4W 2B9,Canada,Other - Public Services,1,Sq. Ft.
+45 Wild Rose Gdns,34999566,45 Wild Rose Gdns,Toronto,Ontario,M6L 1J5,Canada,Other - Public Services,1,Sq. Ft.
+5063 Yonge St Unit Underg,34999567,5063 Yonge St Unit Underg,North York,Ontario,M2M 3X6,Canada,Other - Public Services,1,Sq. Ft.
+45 Dalhousie St,34999564,45 Dalhousie St,Toronto,Ontario,M5C 1S6,Canada,Other - Public Services,1,Sq. Ft.
+45 Dunfield Ave,34999565,35 DUNFIELD AVE,Toronto,Ontario,M4S 2H3,Canada,Other - Public Services,1,Sq. Ft.
+40 Dundas St E,34999562,38 DUNDAS ST E,Toronto,Ontario,M5B 1C5,Canada,Other - Public Services,1,Sq. Ft.
+4005 Eglinton Ave W,34999563,30 MULHAM PL,Etobicoke,Ontario,M9A 4W1,Canada,Other - Public Services,1,Sq. Ft.
+3079 Kennedy Rd,34999560,3079 Kennedy Rd,Scarborough,Ontario,M1V 1S3,Canada,Other - Public Services,1,Sq. Ft.
+Barbara Hall Park,34999606,519 CHURCH ST,Toronto,Ontario,M4Y 2C9,Canada,Other - Public Services,81,Sq. Ft.
+Bathurst-Wilson Parkette,34999607,3749 BATHURST ST,North York,Ontario,M3H 3M5,Canada,Other - Public Services,1,Sq. Ft.
+Baird Park,34999604,275 KEELE ST,Toronto,Ontario,M6P 2K4,Canada,Other - Public Services,45,Sq. Ft.
+Balmoral Park,34999605,170 Faywood Blvd,North York,Ontario,M3H 2Y1,Canada,Other - Public Services,44,Sq. Ft.
+Avonshire Park,34999602,125 HARRISON GARDEN BLVD,North York,Ontario,M2N 7E3,Canada,Other - Public Services,28,Sq. Ft.
+Avonshire Parkette,34999603,68 AVONDALE AVE,North York,Ontario,M2N 2T9,Canada,Other - Public Services,29,Sq. Ft.
+Atria Park,34999600,63 Ann O'Reilly Rd,North York,Ontario,M2J 5C3,Canada,Other - Public Services,1,Sq. Ft.
+Avondale Park,34999601,15 HUMBERSTONE DR,North York,Ontario,M2N 7C1,Canada,Other - Public Services,1,Sq. Ft.
+Belmar Park,34999614,70 MONCLOVA RD,North York,Ontario,M3M 1S6,Canada,Other - Public Services,40,Sq. Ft.
+Ben Nobleman,34999615,1075 EGLINTON AVE W,Toronto,Ontario,M6C 2E1,Canada,Other - Public Services,37,Sq. Ft.
+Bellbury Park,34999612,55 VAN HORNE AVE,North York,Ontario,M2J 2S8,Canada,Other - Public Services,36,Sq. Ft.
+Bellevue Square Park,34999613,5 BELLEVUE AVE,Toronto,Ontario,M5T 2N4,Canada,Other - Public Services,1,Sq. Ft.
+Beaty Boulevard Parkette,34999610,1575 KING ST W,Toronto,Ontario,M6K 1J7,Canada,Other - Public Services,34,Sq. Ft.
+Beaumonde Heights Park,34999611,271 TAYSHAM CRES,Etobicoke,Ontario,M9V 1X7,Canada,Other - Public Services,35,Sq. Ft.
+Beaches Park,34999608,2075 QUEEN ST E,Toronto,Ontario,M4L 1J1,Canada,Other - Public Services,43,Sq. Ft.
+Beaty Avenue Parkette,34999609,66 BEATY AVE,Toronto,Ontario,M6K 3B4,Canada,Other - Public Services,50,Sq. Ft.
+Alexandra Park,34999590,275 BATHURST ST,Toronto,Ontario,M5T 2S3,Canada,Other - Public Services,32,Sq. Ft.
+Allan A Lamport Stadium,34999591,1155 KING ST W,Toronto,Ontario,M6K 1E9,Canada,Other - Public Services,21,Sq. Ft.
+Alex Duff Memorial Pool,34999588,750 BLOOR ST W,Toronto,Ontario,M6G 1L6,Canada,Other - Public Services,19,Sq. Ft.
+Alexander Muir Memorial Gardens,34999589,2901 YONGE ST,Toronto,Ontario,M4N 2J7,Canada,Other - Public Services,31,Sq. Ft.
+Albion Gardens Park,34999586,41 Deanlea Crt,Etobicoke,Ontario,M9V 2R5,Canada,Other - Public Services,1,Sq. Ft.
+Aldwych Park,34999587,134 ALDWYCH AVE,Toronto,Ontario,M4J 1X6,Canada,Other - Public Services,20,Sq. Ft.
+Aitken Place Park,34999584,90 Merchants Wharf,Toronto,Ontario,M5A 1B6,Canada,Other - Public Services,1,Sq. Ft.
+Albert Standing Park,34999585,50 BOGERT AVE,North York,Ontario,M2N 1K6,Canada,Other - Public Services,22,Sq. Ft.
+Ashbridges Bay Park,34999598,1675 Lakeshore Blvd E,Toronto,Ontario,M4L 3W6,Canada,Other - Public Services,17,Sq. Ft.
+Ashtonbee Reservoir Park,34999599,21 ASHTONBEE RD,Scarborough,Ontario,M1L 4R5,Canada,Other - Public Services,27,Sq. Ft.
+Arena Gardens,34999596,78 MUTUAL ST,Toronto,Ontario,M5B 2N3,Canada,Other - Public Services,5,Sq. Ft.
+Art Eggleton Park,34999597,323 HARBORD ST,Toronto,Ontario,M6G 1H1,Canada,Other - Public Services,157,Sq. Ft.
+Anniversary Park,34999594,410 PARLIAMENT ST,Toronto,Ontario,M5A 3A1,Canada,Other - Public Services,25,Sq. Ft.
+Anthony Road School Park,34999595,111 ANTHONY RD,North York,Ontario,M3K 1B7,Canada,Other - Public Services,26,Sq. Ft.
+Amesbury Park,34999592,1505 LAWRENCE AVE W,North York,Ontario,M6L 1A8,Canada,Other - Public Services,23,Sq. Ft.
+Amos Waites Pool,34999593,2441 LAKE SHORE BLVD W,Etobicoke,Ontario,M8V 1C5,Canada,Other - Public Services,30,Sq. Ft.
+Campbell Park,34999638,225 CAMPBELL AVE,Toronto,Ontario,M6P 3V4,Canada,Other - Public Services,59,Sq. Ft.
+Canary District,34999639,0 Rolling Mills Rd,Toronto,Ontario,M5A 1H7,Canada,Other - Public Services,1,Sq. Ft.
+Buttonwood Park,34999636,30 MULHAM PL,Etobicoke,Ontario,M9A 4W1,Canada,Other - Public Services,51,Sq. Ft.
+Caledonia Park Santo Domingo Baseball Field,34999637,1144 LAWRENCE AVE W,North York,Ontario,M6A 1C8,Canada,Other - Public Services,55,Sq. Ft.
+Brookdale Park,34999634,423 BROOKDALE AVE,Toronto,Ontario,M5M 1N5,Canada,Other - Public Services,1,Sq. Ft.
+Burrows Hall Park,34999635,239 BURROWS HALL BLVD,Scarborough,Ontario,M1B 1M5,Canada,Other - Public Services,1,Sq. Ft.
+Broadview Subway Station Parkette,34999632,769 Broadview Ave.,Toronto,Ontario,M4K 2P7,Canada,Other - Public Services,1,Sq. Ft.
+Brookbanks Park,34999633,75 BROOKBANKS DR,North York,Ontario,M3A 2S9,Canada,Other - Public Services,1,Sq. Ft.
+Centennial Park Ski and Snowboard Centre,34999646,156 CENTENNIAL PARK RD,Etobicoke,Ontario,M9C 5H1,Canada,Other - Public Services,84,Sq. Ft.
+Centre Island Buildings,34999647,0 Centre Isld,Toronto,Ontario,M5J 2V3,Canada,Other - Public Services,66,Sq. Ft.
+Cawthra Playground,34999644,355 ALBANY AVE,Toronto,Ontario,M5R 3E2,Canada,Other - Public Services,83,Sq. Ft.
+Centennial Park,34999645, EGLINTON AVE W,Etobicoke,Ontario,M9C 5K6,Canada,Other - Public Services,1,Sq. Ft.
+Cassandra Park,34999642,230 CASSANDRA BLVD,North York,Ontario,M3A 1V3,Canada,Other - Public Services,33,Sq. Ft.
+Cassels Ave Playground,34999643,69 CASSELS AVE,Toronto,Ontario,M4E 1Y3,Canada,Other - Public Services,79,Sq. Ft.
+Canoe Landing Park,34999640,95 Fort York Blvd,Toronto,Ontario,M5V 3Y7,Canada,Other - Public Services,56,Sq. Ft.
+Carlton Park,34999641,20 EDITH AVE,Toronto,Ontario,M6P 3T5,Canada,Other - Public Services,57,Sq. Ft.
+Birchmount Stadium,34999622,85 BIRCHMOUNT RD,Scarborough,Ontario,M1N 3J7,Canada,Other - Public Services,41,Sq. Ft.
+Birunthan Park,34999623,31 Dragonfly Cres,Scarborough,Ontario,M1X 1W2,Canada,Other - Public Services,1,Sq. Ft.
+Bill Johnston Park,34999620, WESTERN BATTERY RD,Toronto,Ontario,M6K 3N9,Canada,Other - Public Services,1,Sq. Ft.
+Birch Park,34999621,75 Arcadian Circle,Etobicoke,Ontario,M8W 2Z5,Canada,Other - Public Services,1,Sq. Ft.
+Bestview Park,34999618,115 BESTVIEW DR,North York,Ontario,M2M 2Y3,Canada,Other - Public Services,52,Sq. Ft.
+Berczy Park,34999616,35 WELLINGTON ST E,Toronto,Ontario,M5E 1C7,Canada,Other - Public Services,54,Sq. Ft.
+Beresford Park,34999617,401 BERESFORD AVE,Toronto,Ontario,M6S 3B6,Canada,Other - Public Services,47,Sq. Ft.
+Briar Crest Park,34999630, WELLESWORTH DR,Etobicoke,Ontario,M9C 4R3,Canada,Other - Public Services,3,Sq. Ft.
+Bridlewood Park,34999631,445 HUNTINGWOOD DR,Scarborough,Ontario,M1W 1G3,Canada,Other - Public Services,48,Sq. Ft.
+Bond Park,34999628,120 BOND AVE,North York,Ontario,M3B 3R3,Canada,Other - Public Services,42,Sq. Ft.
+Botany Hill Park,34999629,277 ORTON PARK RD,Scarborough,Ontario,M1G 3T4,Canada,Other - Public Services,1,Sq. Ft.
+Bluehaven Park,34999626,19 BLUE HAVEN CRES,North York,Ontario,M9M 1W6,Canada,Other - Public Services,1,Sq. Ft.
+Bluffer's Park,34999627,2 CECIL CRES,Scarborough,Ontario,M1M 1A4,Canada,Other - Public Services,309,Sq. Ft.
+Blantyre Park,34999624,180 FALLINGBROOK RD,Scarborough,Ontario,M1N 2V3,Canada,Other - Public Services,38,Sq. Ft.
+Bloordale Park,34999625, TOLEDO RD,Etobicoke,Ontario,M9C 2H3,Canada,Other - Public Services,1,Sq. Ft.
+Coronation Park - Toronto,34999670,711 LAKE SHORE BLVD W,Toronto,Ontario,M5V 3T7,Canada,Other - Public Services,75,Sq. Ft.
+Corvette Park,34999671,40 CORVETTE AVE,Scarborough,Ontario,M1K 3G3,Canada,Other - Public Services,1,Sq. Ft.
+Corktown Common,34999668,155 Bayview Ave,Toronto,Ontario,M5V 3C3,Canada,Other - Public Services,1,Sq. Ft.
+Coronation Park - Etobicoke,34999669,10 Judson St,Toronto,Ontario,M8Z 1A6,Canada,Other - Public Services,1,Sq. Ft.
+Columbus Parkette,34999666,1985 DUNDAS ST W,Toronto,Ontario,M6R 1W7,Canada,Other - Public Services,69,Sq. Ft.
+Connorvale Park,34999667,250 VALERMO DR,Etobicoke,Ontario,M8W 2K8,Canada,Other - Public Services,1,Sq. Ft.
+Colonel Danforth Park,34999664,73 COLONEL DANFORTH TRL,Scarborough,Ontario,M1C 1P8,Canada,Other - Public Services,60,Sq. Ft.
+Colonel Samuel Smith Park,34999665,3155 LAKE SHORE BLVD W,Etobicoke,Ontario,M8V 4B7,Canada,Other - Public Services,80,Sq. Ft.
+Cullen Bryant Park,34999678,50 Barbara Cres.,Toronto,Ontario,M4C 3A1,Canada,Other - Public Services,1,Sq. Ft.
+Curzon Parkette,34999679,58 CURZON ST,Toronto,Ontario,M4M 3B4,Canada,Other - Public Services,1,Sq. Ft.
+Cresthaven Park,34999676,37 CRESTHAVEN DR,North York,Ontario,M2H 1L9,Canada,Other - Public Services,63,Sq. Ft.
+Cudmore Creek Park,34999677,250 Manor Rd.,Toronto,Ontario,M4S 1R8,Canada,Other - Public Services,1,Sq. Ft.
+Courthouse Square,34999674,10 Court St.,Toronto,Ontario,M5C 2A1,Canada,Other - Public Services,1,Sq. Ft.
+Craigleigh Gardens,34999675,160 SOUTH DR,Toronto,Ontario,M4W 1S3,Canada,Other - Public Services,71,Sq. Ft.
+Cosburn Ave Units,34999672,530 Cosburn Ave,Toronto,Ontario,M4J 4Y7,Canada,Other - Public Services,74,Sq. Ft.
+Cosburn Park,34999673,523 COSBURN AVE,Toronto,Ontario,M4J 2N2,Canada,Other - Public Services,1,Sq. Ft.
+Christie Pits,34999654,750 BLOOR ST W,Toronto,Ontario,M6G 1L6,Canada,Other - Public Services,65,Sq. Ft.
+Clanton Park,34999655,30 PALM DR,North York,Ontario,M3H 2B6,Canada,Other - Public Services,76,Sq. Ft.
+Charlottetown Park,34999652,65 CHARLOTTETOWN BLVD,Scarborough,Ontario,M1C 2C7,Canada,Other - Public Services,82,Sq. Ft.
+Chelsea Avenue Playground,34999653,103 CHELSEA AVE,Toronto,Ontario,M6P 1C3,Canada,Other - Public Services,64,Sq. Ft.
+Charles G. Williams Park,34999650,75 Wabash Ave,Toronto,Ontario,M6R 1N1,Canada,Other - Public Services,1,Sq. Ft.
+Charlotte Maher Park,34999651,550 ROEHAMPTON AVE,Toronto,Ontario,M4P 1S5,Canada,Other - Public Services,1,Sq. Ft.
+Chaplin Parkette,34999648,310 CHAPLIN CRES,Toronto,Ontario,M5N 2M8,Canada,Other - Public Services,61,Sq. Ft.
+Charles Caccia Park,34999649, NAIRN AVE,Toronto,Ontario,M6E 4J3,Canada,Other - Public Services,1,Sq. Ft.
+Coleman Park,34999662,19 COLEMAN AVE,Toronto,Ontario,M4C 1P7,Canada,Other - Public Services,73,Sq. Ft.
+College Park,34999663,484 YONGE ST,Toronto,Ontario,M4Y 1X5,Canada,Other - Public Services,72,Sq. Ft.
+Cloverdale Park,34999660,85 Shaver Ave S,Etobicoke,Ontario,M9B 4N6,Canada,Other - Public Services,9,Sq. Ft.
+Clydesdale Park,34999661,116 CLYDESDALE DR,North York,Ontario,M2J 3N3,Canada,Other - Public Services,70,Sq. Ft.
+Close Avenue Parkette,34999658,116 CLOSE AVE,Toronto,Ontario,M6K 2V2,Canada,Other - Public Services,67,Sq. Ft.
+Clover Hill Park,34999659,1020 Bay St.,Toronto,Ontario,M5S 1J4,Canada,Other - Public Services,1,Sq. Ft.
+Clara Will Park,34999656,1 Queen Magdalene Pl,North York,Ontario,M2H 2C1,Canada,Other - Public Services,1,Sq. Ft.
+Clarence Square Park,34999657,25 CLARENCE SQ,Toronto,Ontario,M5V 1H1,Canada,Other - Public Services,1,Sq. Ft.
+Downsview Memorial Parkette,34999702,1092 Wilson Ave.,North York,Ontario,M3K 1G6,Canada,Other - Public Services,1,Sq. Ft.
+Dufferin Grove Park,34999703,875 DUFFERIN ST,Toronto,Ontario,M6H 4J3,Canada,Other - Public Services,94,Sq. Ft.
+Douglas Park,34999700,481 EVANS AVE,Etobicoke,Ontario,M8W 2V2,Canada,Other - Public Services,1,Sq. Ft.
+Downsview Dells Park,34999701,1655 SHEPPARD AVE W,North York,Ontario,M3M 2X4,Canada,Other - Public Services,106,Sq. Ft.
+Donald D. Summerville Olympic Pool,34999698,1867 LAKE SHORE BLVD E,Toronto,Ontario,M4L 6S8,Canada,Other - Public Services,360,Sq. Ft.
+Donnybrook Park,34999699,43 Loyalist Rd.,Etobicoke,Ontario,M9A 3P2,Canada,Other - Public Services,1,Sq. Ft.
+Don Valley Golf Course,34999696,4200 YONGE ST,North York,Ontario,M2P 1N9,Canada,Other - Public Services,107,Sq. Ft.
+Don Valley Parks,34999697,Don Mills/Don Valley Parkway,Toronto,Ontario,M4J 4Y7,Canada,Other - Public Services,108,Sq. Ft.
+Dunlop Parkette,34999710,19 Dunlop Ave.,Scarborough,Ontario,M1K 1K9,Canada,Other - Public Services,1,Sq. Ft.
+Dunn Avenue Parkette,34999711,245 DUNN AVE,Toronto,Ontario,M6K 1S6,Canada,Other - Public Services,100,Sq. Ft.
+Dundas Watkinson Parkette,34999708,2744 DUNDAS ST W,Toronto,Ontario,M6P 1Y3,Canada,Other - Public Services,1,Sq. Ft.
+Dunlace Park,34999709,28 DUNLACE DR,North York,Ontario,M2L 2S1,Canada,Other - Public Services,99,Sq. Ft.
+Dundas Parkette,34999706,160 BOULTON AVE,Toronto,Ontario,M4M 2J9,Canada,Other - Public Services,91,Sq. Ft.
+Dundas St Clarens Parkette,34999707,1717 DUNDAS ST W,Toronto,Ontario,M6K 1V4,Canada,Other - Public Services,103,Sq. Ft.
+Dufferin King Park,34999704,256 DUFFERIN ST,Toronto,Ontario,M6K 1Z3,Canada,Other - Public Services,105,Sq. Ft.
+Duncan Creek Park,34999705,3700 DON MILLS RD,North York,Ontario,M2H 3J2,Canada,Other - Public Services,89,Sq. Ft.
+Dell Park,34999686,50 DELL PARK AVE,Toronto,Ontario,M6B 2T6,Canada,Other - Public Services,92,Sq. Ft.
+Dentonia Park,34999687, DENTONIA PARK AVE,Toronto,Ontario,M4C 2C8,Canada,Other - Public Services,93,Sq. Ft.
+David Crombie Park,34999684,131 THE ESPLANADE,Toronto,Ontario,M5E 1Y7,Canada,Other - Public Services,88,Sq. Ft.
+De Grassi St Park,34999685,125 DE GRASSI ST,Toronto,Ontario,M4M 2K5,Canada,Other - Public Services,95,Sq. Ft.
+Davenport Village Park,34999682,18 Foundry Ave.,Toronto,Ontario,M6H 4L1,Canada,Other - Public Services,1,Sq. Ft.
+David A. Balfour Park,34999683,10 ROSEHILL AVE,Toronto,Ontario,M4T 2W7,Canada,Other - Public Services,86,Sq. Ft.
+Dallington Park,34999680,39 GLENTWORTH RD,North York,Ontario,M2J 2E7,Canada,Other - Public Services,87,Sq. Ft.
+Dane Park,34999681,90 Via Bagnato,North York,Ontario,M6A 2S1,Canada,Other - Public Services,1,Sq. Ft.
+Don Mills Trail,34999694,Don Mills Trail,Toronto,Ontario,M3B 2R2,Canada,Other - Public Services,1,Sq. Ft.
+Don Valley Gc Service Bldg,34999695,4200 YONGE ST,North York,Ontario,M2P 1N9,Canada,Other - Public Services,109,Sq. Ft.
+Dieppe Park Ice Rink,34999692,455 COSBURN AVE,Toronto,Ontario,M4J 2N2,Canada,Other - Public Services,97,Sq. Ft.
+Dixon Park Rink,34999693,350 DIXON RD,Etobicoke,Ontario,M9R 1T1,Canada,Other - Public Services,98,Sq. Ft.
+Derrydowns Park,34999690,15 CLUBHOUSE CRT,North York,Ontario,M3L 2L7,Canada,Other - Public Services,90,Sq. Ft.
+Dieppe Park Baseball Clubhouse,34999691,455 COSBURN AVE,Toronto,Ontario,M4J 2N2,Canada,Other - Public Services,101,Sq. Ft.
+Dentonia Park Clubhouse,34999688,88 DENTONIA PARK AVE,Toronto,Ontario,M4C 1W9,Canada,Other - Public Services,104,Sq. Ft.
+Dentonia Park Golf Course,34999689,781 VICTORIA PARK AVE,Toronto,Ontario,M4C 5S8,Canada,Other - Public Services,102,Sq. Ft.
+Fairhaven Park Outdoor Pool,34999734,100 Golfwood Heights,Etobicoke,Ontario,M9P 3M2,Canada,Other - Public Services,129,Sq. Ft.
+Felstead Avenue Playground,34999735,60 FELSTEAD AVE,Toronto,Ontario,M4J 1G2,Canada,Other - Public Services,127,Sq. Ft.
+Fairbank Park Pool,34999732,2213 DUFFERIN ST,Toronto,Ontario,M6E 3S2,Canada,Other - Public Services,126,Sq. Ft.
+Fairford Avenue Parkette,34999733,68 FAIRFORD AVE,Toronto,Ontario,M4L 2K1,Canada,Other - Public Services,125,Sq. Ft.
+Etobicoke Valley Park,34999730,72 WESTHEAD RD,Etobicoke,Ontario,M8W 4S3,Canada,Other - Public Services,1,Sq. Ft.
+Everett Park,34999731, EVERETT CRES,Toronto,Ontario,M4C 4P2,Canada,Other - Public Services,1,Sq. Ft.
+Ethennonnhawahstihnen (Woodsy) Park,34999728,80 McMahon Dr,North York,Ontario,M2K 0E4,Canada,Other - Public Services,1,Sq. Ft.
+Etienne Brule Park,34999729,10 CATHERINE ST,Toronto,Ontario,M6S 4K2,Canada,Other - Public Services,112,Sq. Ft.
+G. Ross Lord Park,34999742,740 FINCH AVE W,North York,Ontario,M3H 5W5,Canada,Other - Public Services,149,Sq. Ft.
+Galloway Park,34999743,80 GALLOWAY RD,Scarborough,Ontario,M1E 1G5,Canada,Other - Public Services,1,Sq. Ft.
+Frank Stollery Parkette,34999740,1 DAVENPORT RD,Toronto,Ontario,M5R 1H2,Canada,Other - Public Services,134,Sq. Ft.
+Fred Hamilton Playground,34999741,155 ROXTON RD,Toronto,Ontario,M6J 2Y4,Canada,Other - Public Services,130,Sq. Ft.
+Forest Hill Road Park,34999738,179 Forest Hill Rd.,Toronto,Ontario,M5P 2K3,Canada,Other - Public Services,1,Sq. Ft.
+Fountainhead Park,34999739,1650 FINCH AVE E,North York,Ontario,M2J 4X8,Canada,Other - Public Services,133,Sq. Ft.
+Firgrove Park,34999736,254 FIRGROVE CRES,North York,Ontario,M3N 1K8,Canada,Other - Public Services,128,Sq. Ft.
+Flagstaff Park Outdoor Pool,34999737,42 MERCURY RD,Etobicoke,Ontario,M9W 3H5,Canada,Other - Public Services,131,Sq. Ft.
+East Point Park,34999718,101 COPPERFIELD RD,Scarborough,Ontario,M1E 5G7,Canada,Other - Public Services,120,Sq. Ft.
+East Toronto Athletic Fieldhouse,34999719,175 MAIN ST,Toronto,Ontario,M4E 2W2,Canada,Other - Public Services,123,Sq. Ft.
+East Lynn Park,34999716,1949 DANFORTH AVE,Toronto,Ontario,M4C 1J4,Canada,Other - Public Services,119,Sq. Ft.
+East Mall Park,34999717,355 The East Mall,Etobicoke,Ontario,M9B 3Z7,Canada,Other - Public Services,1,Sq. Ft.
+Earlscourt Park,34999714,1200 LANSDOWNE AVE,Toronto,Ontario,M6H 3Z8,Canada,Other - Public Services,114,Sq. Ft.
+East Don Parkland,34999715,111 ALAMOSA DR,North York,Ontario,M2J 2N8,Canada,Other - Public Services,115,Sq. Ft.
+E.T. Seton Park,34999712,OVERLEA BLVD,North York,Ontario,M3C 1B2,Canada,Other - Public Services,124,Sq. Ft.
+Earl Bales Park,34999713,4175 Bathurst St.,North York,Ontario,M3H 3P7,Canada,Other - Public Services,110,Sq. Ft.
+Erwin Krickhan Park,34999726,121 RANKIN CRES,Toronto,Ontario,M6P 4E2,Canada,Other - Public Services,1,Sq. Ft.
+Esther Shiner Stadium,34999727,550 FINCH AVE W,North York,Ontario,M2R 1N6,Canada,Other - Public Services,122,Sq. Ft.
+Elmcrest Park,34999724,575 RATHBURN RD,Etobicoke,Ontario,M9C 3J5,Canada,Other - Public Services,1,Sq. Ft.
+Eringate Pool,34999725,121 WELLESWORTH DR,Etobicoke,Ontario,M9C 4R8,Canada,Other - Public Services,121,Sq. Ft.
+Elizabeth Simcoe Park,34999722,180 SYLVAN AVE,Scarborough,Ontario,M1E 1A3,Canada,Other - Public Services,1,Sq. Ft.
+Ellerslie Park,34999723,499 ELLERSLIE AVE,North York,Ontario,M2R 1C3,Canada,Other - Public Services,1,Sq. Ft.
+Eglinton Flats Sport Pavilions,34999720,3601 EGLINTON AVE W,Toronto,Ontario,M6M 1V8,Canada,Other - Public Services,116,Sq. Ft.
+Eglinton Park,34999721,200 Eglinton Ave. W,Toronto,Ontario,M4R 1C3,Canada,Other - Public Services,1,Sq. Ft.
+Greenfield Park,34999766,291 GREENFIELD AVE,North York,Ontario,M2N 3E4,Canada,Other - Public Services,1,Sq. Ft.
+Greenwood Park,34999767,150 GREENWOOD AVE,Toronto,Ontario,M4L 2R1,Canada,Other - Public Services,147,Sq. Ft.
+Graydon Hall Park,34999764,151 GRAYDON HALL DR,North York,Ontario,M3A 3B4,Canada,Other - Public Services,139,Sq. Ft.
+Greenbrae Parkette,34999765,100 GREENBRAE CRCT,Scarborough,Ontario,M1H 1R3,Canada,Other - Public Services,1,Sq. Ft.
+Grange Park,34999762,317 DUNDAS ST W,Toronto,Ontario,M5T 1G4,Canada,Other - Public Services,143,Sq. Ft.
+Grattan Park,34999763,52 GRATTAN ST,Toronto,Ontario,M9N 3J5,Canada,Other - Public Services,145,Sq. Ft.
+Grand Manitoba Park,34999760,1 Grand Ave,Etobicoke,Ontario,M8Y 3Y3,Canada,Other - Public Services,1,Sq. Ft.
+Grandravine Park,34999761, SENTINEL RD,North York,Ontario,M3J 1T4,Canada,Other - Public Services,1,Sq. Ft.
+Havenbrook Park,34999774,15 HAVENBROOK BLVD,North York,Ontario,M2J 1A3,Canada,Other - Public Services,159,Sq. Ft.
+Hawksbury Park,34999775,2 ELKHORN DR,North York,Ontario,M2K 1J3,Canada,Other - Public Services,262,Sq. Ft.
+Harbour Square Park,34999772,21 QUEENS QUAY W,Toronto,Ontario,M5J 2H3,Canada,Other - Public Services,176,Sq. Ft.
+Harryetta Gardens,34999773,170 TORRESDALE AVE,North York,Ontario,M2R 3E4,Canada,Other - Public Services,158,Sq. Ft.
+Halbert Park,34999770,24 ROCKWOOD DR,Scarborough,Ontario,M1M 3N1,Canada,Other - Public Services,156,Sq. Ft.
+Hanlan's Point Buildings,34999771,0 Hanlans Pt,Toronto,Ontario,M5V 1A1,Canada,Other - Public Services,171,Sq. Ft.
+Greystone Park,34999768,845 DANFORTH RD,Scarborough,Ontario,M1K 1J2,Canada,Other - Public Services,6,Sq. Ft.
+Gwendolen Park,34999769,3 GWENDOLEN CRES,North York,Ontario,M2N 2L7,Canada,Other - Public Services,155,Sq. Ft.
+Giltspur Park,34999750,85 MAGELLAN DR,North York,Ontario,M3L 1T3,Canada,Other - Public Services,140,Sq. Ft.
+Giovanni Caboto Pool/Rink,34999751,1200 LANSDOWNE AVE,Toronto,Ontario,M6H 3Z8,Canada,Other - Public Services,154,Sq. Ft.
+Gibson Park,34999748,42 PARK HOME AVE,North York,Ontario,M2N 1W5,Canada,Other - Public Services,1,Sq. Ft.
+Gihon Spring Park Outdoor Pool,34999749,75 GIHON SPRING DR,Etobicoke,Ontario,M9V 4X6,Canada,Other - Public Services,152,Sq. Ft.
+Geary Avenue Parkette,34999746,160 GEARY AVE,Toronto,Ontario,M6H 2B9,Canada,Other - Public Services,144,Sq. Ft.
+George Webster Park,34999747,30 CHAPMAN AVE,East York,Ontario,M4B 2N9,Canada,Other - Public Services,138,Sq. Ft.
+Gamble Park,34999744,150 GAMBLE AVE,Toronto,Ontario,M4J 2P3,Canada,Other - Public Services,136,Sq. Ft.
+Gateway Park,34999745,70 EAST LIBERTY ST,Toronto,Ontario,M6K 3R7,Canada,Other - Public Services,1,Sq. Ft.
+Gracedale Park,34999758,176 GRACEDALE BLVD,North York,Ontario,M9L 2C1,Canada,Other - Public Services,146,Sq. Ft.
+Grafton Avenue Park,34999759,23 RONCESVALLES AVE,Toronto,Ontario,M6R 2K4,Canada,Other - Public Services,153,Sq. Ft.
+Glen Stewart Park,34999756,841 KINGSTON RD,Toronto,Ontario,M4E 1R9,Canada,Other - Public Services,151,Sq. Ft.
+Glendora Park,34999757,201 GLENDORA AVE,North York,Ontario,M2N 2W6,Canada,Other - Public Services,142,Sq. Ft.
+Glen Park,34999754,44 Eastglen Cres.,Etobicoke,Ontario,M9B 4P7,Canada,Other - Public Services,1,Sq. Ft.
+Glen Rouge Campground,34999755,7540 Kingston Rd,Scarborough,Ontario,M1N 4G1,Canada,Other - Public Services,150,Sq. Ft.
+Glamorgan Park,34999752,50 ANTRIM CRES,Scarborough,Ontario,M1P 4S4,Canada,Other - Public Services,141,Sq. Ft.
+Glebe Manor Square,34999753,190 MANOR RD E,Toronto,Ontario,M4S 1R8,Canada,Other - Public Services,1,Sq. Ft.
+Hullmar Park Walkway,34999798,97 HULLMAR DR,North York,Ontario,M3N 2E2,Canada,Other - Public Services,1,Sq. Ft.
+Humber Bay Park East,34999799,2223 Lake Shore Blvd W.,Etobicoke,Ontario,M8V 0B1,Canada,Other - Public Services,160,Sq. Ft.
+HTO Park,34999796,339 Queens Quay West,Toronto,Ontario,M5V 1A2,Canada,Other - Public Services,178,Sq. Ft.
+HTO Park West,34999797,375 QUEENS QUAY W,Toronto,Ontario,M5V 1A2,Canada,Other - Public Services,236,Sq. Ft.
+Howard Talbot Park,34999794,635 EGLINTON AVE E,East York,Ontario,M4G 2K3,Canada,Other - Public Services,170,Sq. Ft.
+Howard Talbot Park Clubhouse,34999795,194 HANNA RD,East York,Ontario,M4G 3N8,Canada,Other - Public Services,336,Sq. Ft.
+Home Smith Park,34999792,100 Humber Blvd,Toronto,Ontario,M6N 2H7,Canada,Other - Public Services,174,Sq. Ft.
+Howard Park Tennis Club,34999793,430 Parkside Dr.,Toronto,Ontario,M6R 2Z3,Canada,Other - Public Services,1,Sq. Ft.
+Humberwood Park,34999806,850 HUMBERWOOD BLVD,Etobicoke,Ontario,M9W 7A6,Canada,Other - Public Services,1,Sq. Ft.
+Huron Street Playground,34999807,495 HURON ST,Toronto,Ontario,M5R 2R3,Canada,Other - Public Services,173,Sq. Ft.
+Humber Valley Rink,34999804,54 ANGLESEY BLVD,Etobicoke,Ontario,M9A 3B5,Canada,Other - Public Services,179,Sq. Ft.
+Humberline Park,34999805,32 Humberline Dr,Etobicoke,Ontario,M9W 6T3,Canada,Other - Public Services,1,Sq. Ft.
+Humber Valley Golf Course,34999802,300 ALBION RD,Etobicoke,Ontario,M9W 3P2,Canada,Other - Public Services,180,Sq. Ft.
+Humber Valley Golf Service Building,34999803,11 ARMEL CRT,Etobicoke,Ontario,M9W 6L4,Canada,Other - Public Services,181,Sq. Ft.
+Humber Bay Park West,34999800,2225 LAKE SHORE BLVD W,Etobicoke,Ontario,M8V 3X7,Canada,Other - Public Services,161,Sq. Ft.
+Humber Bay Park West Trail,34999801,2283 Lake Shore Blvd W,Etobicoke,Ontario,M8V 1J1,Canada,Other - Public Services,1,Sq. Ft.
+High Park Outdoor Ice Rink,34999782,1873 BLOOR ST W,Toronto,Ontario,M6P 3K7,Canada,Other - Public Services,172,Sq. Ft.
+High Park Outdoor Pool,34999783,300 Colborne Lodge Dr.,Toronto,Ontario,M6P 2S3,Canada,Other - Public Services,1,Sq. Ft.
+High Park Baseball Diamond,34999780,1873 Bloor St W,Toronto,Ontario,M6R 2Z3,Canada,Other - Public Services,1,Sq. Ft.
+High Park Lighting (Unmetered),34999781,1873 Bloor Street W,Toronto,Ontario,M6R 2Z3,Canada,Other - Public Services,1,Sq. Ft.
+Hideaway Park,34999778,23 AUDLEY AVE,Toronto,Ontario,M4M 1P6,Canada,Other - Public Services,165,Sq. Ft.
+High Park,34999779,1873 BLOOR ST W,Toronto,Ontario,M6P 3K7,Canada,Other - Public Services,168,Sq. Ft.
+Heather Heights Park,34999776,125 MILFORD HAVEN DR,Scarborough,Ontario,M1G 3C9,Canada,Other - Public Services,1,Sq. Ft.
+Hendon Park,34999777,50 HENDON AVE,North York,Ontario,M2M 1A2,Canada,Other - Public Services,164,Sq. Ft.
+Hinder Property,34999790,61 DON RIVER BLVD,North York,Ontario,M2N 2M9,Canada,Other - Public Services,1,Sq. Ft.
+Hodgson Middle School,34999791,276 DAVISVILLE AVE,Toronto,Ontario,M4S 1H2,Canada,Other - Public Services,175,Sq. Ft.
+Hillcrest Park,34999788,950 DAVENPORT RD,Toronto,Ontario,M6G 2B7,Canada,Other - Public Services,163,Sq. Ft.
+Hillsdale Ave Parkette,34999789,32 Hillsdale Ave E,Toronto,Ontario,M4S 2A8,Canada,Other - Public Services,1,Sq. Ft.
+Highland Creek Community Park,34999786,4670 KINGSTON RD,Scarborough,Ontario,M1E 2P9,Canada,Other - Public Services,162,Sq. Ft.
+Highview Park,34999787,1859 KINGSTON RD,Scarborough,Ontario,M1N 1T3,Canada,Other - Public Services,167,Sq. Ft.
+High Park Tennis Club,34999784,420 Parkside Dr.,Toronto,Ontario,M6P 3K7,Canada,Other - Public Services,169,Sq. Ft.
+High Park Zoo,34999785,1873 Bloor St. W,Toronto,Ontario,M6R 2Z3,Canada,Other - Public Services,1,Sq. Ft.
