@@ -29,7 +29,7 @@ const MEASURES = {
 
 const state = {
   measure: "electricity",
-  monthIndex: 0,
+  monthIndex: null,
   visibleTypes: new Set(SELECTED_TYPES),
   highlightedType: null,
   data: [],
@@ -42,10 +42,10 @@ const svg = d3.select("#wheel");
 const width = 980;
 const height = 900;
 const cx = width / 2;
-const cy = height / 2 + 16;
-const outerRadius = 318;
-const innerRadius = 92;
-const monthLabelRadius = outerRadius + 40;
+const cy = height / 2 + 10;
+const outerRadius = 315;
+const innerRadius = 90;
+const monthLabelRadius = outerRadius + 34;
 const focusRadius = 12;
 const color = d3.scaleOrdinal()
   .domain(SELECTED_TYPES)
@@ -65,10 +65,12 @@ const measureToggle = d3.select("#measure-toggle");
 
 const radiusScale = d3.scaleLinear().range([innerRadius, outerRadius]);
 const angleForMonth = monthIndex => (monthIndex / 12) * Math.PI * 2 - Math.PI / 2;
-const radialLine = d3.lineRadial()
-  .angle(d => angleForMonth(d.monthIndex))
-  .radius(d => d.radius)
-  .curve(d3.curveCatmullRomClosed.alpha(0.55));
+const xForPoint = d => Math.cos(angleForMonth(d.monthIndex)) * d.radius;
+const yForPoint = d => Math.sin(angleForMonth(d.monthIndex)) * d.radius;
+const radialLine = d3.line()
+  .x(xForPoint)
+  .y(yForPoint)
+  .curve(d3.curveLinearClosed);
 
 Promise.all([
   d3.csv(FILES.properties, d => ({
@@ -310,9 +312,9 @@ function render(initial = false) {
     .join(
       enter => enter.append("circle")
         .attr("class", "point")
-        .attr("r", d => d.monthIndex === state.monthIndex ? 5.8 : 3.1)
-        .attr("cx", d => Math.cos(angleForMonth(d.monthIndex)) * d.radius)
-        .attr("cy", d => Math.sin(angleForMonth(d.monthIndex)) * d.radius)
+        .attr("r", 3.8)
+        .attr("cx", xForPoint)
+        .attr("cy", yForPoint)
         .attr("fill", d => d.color)
         .on("mouseenter", handlePointEnter)
         .on("mousemove", handlePointMove)
@@ -322,22 +324,16 @@ function render(initial = false) {
     )
     .classed("hidden", d => !state.visibleTypes.has(d.type))
     .transition().duration(initial ? 0 : 700)
-    .attr("cx", d => Math.cos(angleForMonth(d.monthIndex)) * d.radius)
-    .attr("cy", d => Math.sin(angleForMonth(d.monthIndex)) * d.radius)
+    .attr("cx", xForPoint)
+    .attr("cy", yForPoint)
     .attr("fill", d => d.color)
-    .attr("opacity", d => {
-      if (state.highlightedType && d.type !== state.highlightedType) return 0.18;
-      return d.monthIndex === state.monthIndex ? 1 : 0.7;
-    })
-    .attr("r", d => d.monthIndex === state.monthIndex ? 6.1 : 3.1);
+    .attr("opacity", d => state.highlightedType && d.type !== state.highlightedType ? 0.18 : 0.85)
+    .attr("r", 3.8);
 
-  const focusTarget = flatPoints.find(d => state.visibleTypes.has(d.type) && d.monthIndex === state.monthIndex);
   focusLayer.select("circle")
     .transition().duration(initial ? 0 : 700)
-    .attr("opacity", focusTarget ? 1 : 0)
-    .attr("cx", focusTarget ? Math.cos(angleForMonth(focusTarget.monthIndex)) * focusTarget.radius : 0)
-    .attr("cy", focusTarget ? Math.sin(angleForMonth(focusTarget.monthIndex)) * focusTarget.radius : 0)
-    .attr("r", focusTarget ? 12 : 0);
+    .attr("opacity", 0)
+    .attr("r", 0);
 
   updateLegend();
 }

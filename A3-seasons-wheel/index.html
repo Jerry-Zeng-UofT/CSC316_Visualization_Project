@@ -7,28 +7,35 @@
   <link rel="stylesheet" href="css/style.css" />
 </head>
 <body>
-  <main class="page">
-    <header class="topbar">
+<main class="page">
+  <section class="chart-card">
+    <div class="chart-card-header">
       <h1>Toronto Energy Seasons Wheel</h1>
+
       <div class="controls" aria-label="Chart controls">
         <div class="segmented" id="measure-toggle" role="group" aria-label="Measure toggle">
           <button class="is-active" data-measure="electricity">Electricity</button>
           <button data-measure="gas">Natural Gas</button>
         </div>
       </div>
-    </header>
+    </div>
 
-    <section class="chart-card">
-      <svg id="wheel" viewBox="0 0 980 900" aria-labelledby="chart-title chart-desc" role="img">
-        <title id="chart-title">Radial monthly energy intensity chart</title>
-        <desc id="chart-desc">A circular chart showing monthly energy intensity by building type. Hover points for details and use the controls to animate the year.</desc>
-      </svg>
-      <div id="legend" class="legend" aria-label="Legend"></div>
-      <div id="tooltip" class="tooltip" hidden></div>
-    </section>
-  </main>
+    <div class="chart-layout">
+      <div class="wheel-panel">
+        <svg id="wheel" viewBox="0 0 980 900" aria-labelledby="chart-title chart-desc" role="img">
+          <title id="chart-title">Radial monthly energy intensity chart</title>
+          <desc id="chart-desc">A circular chart showing monthly energy intensity by building type.</desc>
+        </svg>
+      </div>
 
-  <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
-  <script src="js/main.js"></script>
+      <aside id="legend" class="legend legend-column" aria-label="Legend"></aside>
+    </div>
+
+    <div id="tooltip" class="tooltip" hidden></div>
+  </section>
+</main>
+
+<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+<script src="js/main.js"></script>
 </body>
 </html>
