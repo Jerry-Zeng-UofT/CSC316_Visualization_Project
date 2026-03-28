@@ -164,13 +164,6 @@ function buildData(properties, meters) {
 }
 
 function drawStaticFrame() {
-  const ringRadii = d3.range(5).map(i => innerRadius + ((outerRadius - innerRadius) * i) / 4);
-
-  ringsLayer.selectAll("circle")
-    .data(ringRadii)
-    .join("circle")
-    .attr("class", "ring")
-    .attr("r", d => d);
 
   spokesLayer.selectAll("line")
     .data(d3.range(12))
@@ -260,6 +253,12 @@ function render(initial = false) {
   d3.select("#center-measure").text(`${MEASURES[state.measure].label} · ${MEASURES[state.measure].shortUnit}`);
 
   const ticks = radiusScale.ticks(4).filter(d => d > 0);
+
+  ringsLayer.selectAll("circle.ring")
+      .data(ticks, d => d)
+      .join("circle")
+      .attr("class", "ring")
+      .attr("r", d => radiusScale(d));
   const tickJoin = ringsLayer.selectAll(".tick-text").data(ticks, d => d);
   tickJoin.join(
     enter => enter.append("text")

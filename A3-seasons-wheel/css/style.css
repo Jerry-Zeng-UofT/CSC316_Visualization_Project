@@ -63,9 +63,14 @@ h1 {
 .chart-card {
   position: relative;
   background: var(--card);
+  background-image: url("../img/background.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   border-radius: 22px;
   box-shadow: var(--shadow);
   padding: 18px 18px 14px;
+  overflow: hidden;
 }
 
 .chart-card-header {
@@ -165,7 +170,7 @@ h1 {
 
 .tick-text,
 .month-text {
-  font-size: 12px;
+  font-size: 13px;
 }
 
 .month-text.active {
@@ -212,6 +217,7 @@ h1 {
 .ring,
 .spoke {
   stroke: var(--line);
+  stroke-width: 1.8;
   fill: none;
 }
 
