@@ -165,6 +165,14 @@ function buildData(properties, meters) {
 
 function drawStaticFrame() {
 
+  annotationLayer.append("image")
+      .attr("id", "center-icon")
+      .attr("href", "img/electricity.png")
+      .attr("x", -20)
+      .attr("y", -52)
+      .attr("width", 40)
+      .attr("height", 40);
+
   spokesLayer.selectAll("line")
     .data(d3.range(12))
     .join("line")
@@ -199,9 +207,9 @@ function drawStaticFrame() {
     .text(d => d.label);
 
   annotationLayer.append("text")
-    .attr("class", "center-measure")
-    .attr("y", -6)
-    .attr("id", "center-measure")
+      .attr("class", "center-measure")
+      .attr("y", 10)
+      .attr("id", "center-measure")
 
   focusLayer.append("circle")
     .attr("class", "focus-dot")
@@ -250,6 +258,14 @@ function bindControls() {
 
 function render(initial = false) {
   radiusScale.domain([0, state.maxByMeasure[state.measure] * 1.05 || 1]);
+
+  d3.select("#center-icon")
+      .attr("href", state.measure === "electricity"
+          ? "img/electricity.png"
+          : "img/natural_gas.png");
+
+  d3.select(".chart-card").attr("data-measure", state.measure);
+
   d3.select("#center-measure").text(`${MEASURES[state.measure].label} · ${MEASURES[state.measure].shortUnit}`);
 
   const ticks = radiusScale.ticks(4).filter(d => d > 0);

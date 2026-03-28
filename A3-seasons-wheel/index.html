@@ -13,9 +13,16 @@
       <h1>Toronto Energy Seasons Wheel</h1>
 
       <div class="controls" aria-label="Chart controls">
+        <span class="energy-type-label">Energy type:</span>
         <div class="segmented" id="measure-toggle" role="group" aria-label="Measure toggle">
-          <button class="is-active" data-measure="electricity">Electricity</button>
-          <button data-measure="gas">Natural Gas</button>
+          <button class="is-active" data-measure="electricity">
+            <img src="img/electricity.png" alt="" class="toggle-icon">
+            <span>Electricity</span>
+          </button>
+          <button data-measure="gas">
+            <img src="img/natural_gas.png" alt="" class="toggle-icon">
+            <span>Natural Gas</span>
+          </button>
         </div>
       </div>
     </div>
@@ -28,7 +35,11 @@
         </svg>
       </div>
 
-      <aside id="legend" class="legend legend-column" aria-label="Legend"></aside>
+      <aside class="legend-side" aria-label="Legend area">
+        <img src="img/heater.png" alt="Natural gas heater" class="energy-art art-heater">
+        <div id="legend" class="legend legend-column" aria-label="Legend"></div>
+        <img src="img/bulb.png" alt="Electric light bulb" class="energy-art art-bulb">
+      </aside>
     </div>
 
     <div id="tooltip" class="tooltip" hidden></div>

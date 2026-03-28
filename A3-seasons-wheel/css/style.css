@@ -54,19 +54,32 @@ h1 {
   background: transparent;
 }
 
+.segmented button {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.toggle-icon {
+  width: 16px;
+  height: 16px;
+  object-fit: contain;
+  display: block;
+}
+
 .segmented button.is-active {
   background: var(--card);
   color: var(--accent);
   box-shadow: 0 2px 10px rgba(15, 23, 42, 0.08);
 }
 
+body {
+  background: #eef2f7;
+}
+
 .chart-card {
   position: relative;
-  background: var(--card);
-  background-image: url("../img/background.png");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
+  background: #F5F5F5;
   border-radius: 22px;
   box-shadow: var(--shadow);
   padding: 18px 18px 14px;
@@ -118,20 +131,31 @@ h1 {
   display: inline-flex;
   align-items: center;
   gap: 8px;
-  padding: 10px 12px;
+  padding: 12px 14px;
   border-radius: 16px;
   background: #f3f5f9;
-  border: 1px solid transparent;
+  border: 1px solid #d8dee8;
+  box-shadow: 0 4px 10px rgba(15, 23, 42, 0.05);
   color: var(--text);
   cursor: pointer;
   user-select: none;
   font-size: 0.93rem;
   text-align: left;
   width: 100%;
+  transition: background 180ms ease, border-color 180ms ease, box-shadow 180ms ease, transform 180ms ease;
+}
+
+.legend-item:hover {
+  background: #ffffff;
+  border-color: #bcc7d8;
+  box-shadow: 0 8px 16px rgba(15, 23, 42, 0.08);
+  transform: translateY(-1px);
 }
 
 .legend-item.is-hidden {
-  opacity: 0.35;
+  opacity: 0.45;
+  background: #eef2f7;
+  border-color: #d8dee8;
 }
 
 .legend-swatch {
@@ -164,13 +188,14 @@ h1 {
 }
 
 .axis-label {
-  font-size: 14px;
-  font-weight: 650;
+  font-size: 18px;
+  font-weight: 800;
 }
 
 .tick-text,
 .month-text {
-  font-size: 13px;
+  font-size: 16px;
+  font-weight: 700;
 }
 
 .month-text.active {
@@ -260,4 +285,66 @@ h1 {
     width: auto;
     border-radius: 999px;
   }
+}
+
+.legend-side {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+}
+
+.energy-art {
+  width: 110px;
+  height: auto;
+  display: block;
+  pointer-events: none;
+  user-select: none;
+  opacity: 0.22;
+  transform: scale(0.92);
+  transition:
+          opacity 260ms ease,
+          transform 260ms ease,
+          filter 260ms ease;
+}
+
+.art-heater {
+  margin-bottom: 2px;
+}
+
+.art-bulb {
+  margin-top: 2px;
+}
+
+.chart-card[data-measure="electricity"] .art-bulb {
+  opacity: 1;
+  transform: scale(1.2);
+  filter: drop-shadow(0 0 18px rgba(255, 214, 92, 0.45));
+}
+
+.chart-card[data-measure="electricity"] .art-heater {
+  opacity: 0.5;
+  transform: scale(0.9);
+  filter: saturate(0.8);
+}
+
+.chart-card[data-measure="gas"] .art-heater {
+  opacity: 1;
+  transform: scale(1.2);
+  filter: drop-shadow(0 0 18px rgba(91, 168, 255, 0.32));
+}
+
+.chart-card[data-measure="gas"] .art-bulb {
+  opacity: 0.5;
+  transform: scale(0.9);
+  filter: saturate(0.8);
+}
+
+.energy-type-label {
+  font-size: 18px;
+  font-weight: 700;
+  color: #5f6b7a;
+  white-space: nowrap;
 }
